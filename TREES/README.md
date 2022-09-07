@@ -16,3 +16,6 @@
 **5.Lowest Common Ancestor in a Binary Search Tree**
 (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
+
+**6.Convert Sorted Array into Binary Search Tree**
+(https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
