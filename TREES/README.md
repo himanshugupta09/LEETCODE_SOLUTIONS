@@ -19,3 +19,6 @@
 
 **6.Convert Sorted Array into Binary Search Tree**
 (https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+**7.BTree Level Order Traversal**
+(https://leetcode.com/problems/binary-tree-level-order-traversal/)
