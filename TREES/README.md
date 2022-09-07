@@ -12,3 +12,7 @@
 
 **4.Lowest Common Ancestor of a Binary Tree**
 (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+**5.Lowest Common Ancestor in a Binary Search Tree**
+(https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
