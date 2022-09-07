@@ -2,3 +2,8 @@
 **1.BINARY TREE PRUNING**
 
 (https://leetcode.com/problems/binary-tree-pruning/)
+
+
+**Construct string from the Binary Tree**
+
+(https://leetcode.com/problems/construct-string-from-binary-tree/)
