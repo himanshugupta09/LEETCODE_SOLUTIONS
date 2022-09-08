@@ -7,3 +7,7 @@
 **2.Construct string from the Binary Tree**
 
 (https://leetcode.com/problems/construct-string-from-binary-tree/)
+
+
+**BINARY TREE INORDER TRAVERSAL**
+(https://leetcode.com/problems/binary-tree-inorder-traversal/)
