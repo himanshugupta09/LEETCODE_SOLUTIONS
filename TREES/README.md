@@ -22,3 +22,7 @@
 
 **7.BTree Level Order Traversal**
 (https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+
+**8.BINARY TREE INORDER TRAVERSAL**
+(https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
