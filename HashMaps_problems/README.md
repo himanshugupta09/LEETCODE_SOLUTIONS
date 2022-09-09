@@ -3,3 +3,5 @@
 **1.Roman To Integer**
 (https://leetcode.com/problems/roman-to-integer/)
 
+**2.Rotate Image { Hash Map Approach }**
+(https://leetcode.com/problems/rotate-image/submissions/)
