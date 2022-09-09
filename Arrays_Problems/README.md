@@ -6,3 +6,6 @@
 
 **2.First Missing Positive**
 (https://leetcode.com/problems/first-missing-positive/)
+
+**3.Longest Consecutive Sequnce**
+(https://leetcode.com/problems/longest-consecutive-sequence/submissions/)
