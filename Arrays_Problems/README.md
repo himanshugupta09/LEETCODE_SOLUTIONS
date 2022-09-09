@@ -9,3 +9,6 @@
 
 **3.Longest Consecutive Sequnce**
 (https://leetcode.com/problems/longest-consecutive-sequence/submissions/)
+
+**4.The Number of Weak Characters in the Game**
+(https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
