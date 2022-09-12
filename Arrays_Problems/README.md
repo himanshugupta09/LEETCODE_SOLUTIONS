@@ -15,3 +15,9 @@
 
 **5.Rotate Image  { Appraoch with maths }**
 (https://leetcode.com/problems/rotate-image/)
+
+
+
+**6. Bag of  Tokens**
+**this problem is solved using the gready approach also requires Binary Search as Prerequisite**
+(https://leetcode.com/problems/bag-of-tokens/)
