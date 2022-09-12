@@ -19,5 +19,5 @@
 
 
 **6. Bag of  Tokens**
-**this problem is solved using the gready approach also requires Binary Search as Prerequisite**
+**  (this problem is solved using the gready approach also requires Binary Search as Prerequisite)**
 (https://leetcode.com/problems/bag-of-tokens/)
