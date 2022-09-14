@@ -11,3 +11,6 @@
 
 **3.BINARY TREE INORDER TRAVERSAL**
 (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+**4. Pseudo Palindromic Paths in Binary Tree**
+(https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
