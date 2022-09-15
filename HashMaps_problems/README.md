@@ -9,3 +9,7 @@
 
 **3. Count Nice Pairs in an Array**
 (https://leetcode.com/problems/count-nice-pairs-in-an-array/)
+
+
+**4. Find Original Array From Doubled Array**
+(https://leetcode.com/problems/find-original-array-from-doubled-array/)
