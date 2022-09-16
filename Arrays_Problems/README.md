@@ -1,23 +1,14 @@
-**This Repository contains all problems based on arrays also contains problems for sorting and searching in an array**
-
-
-**1. 3Sum**
-(https://leetcode.com/problems/3sum/)
-
-**2.First Missing Positive**
-(https://leetcode.com/problems/first-missing-positive/)
-
-**3.Longest Consecutive Sequnce**
-(https://leetcode.com/problems/longest-consecutive-sequence/submissions/)
-
-**4.The Number of Weak Characters in the Game**
-(https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
-
-**5.Rotate Image  { Appraoch with maths }**
-(https://leetcode.com/problems/rotate-image/)
+S.No. | Topic | Question Name | Logic Used | Solution | Status |
+------|---------------|------------|-------|------|------|
+1 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [3 Sum](https://leetcode.com/problems/3sum/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/3%20Sum.cpp) | ✅ |
+2 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | GREEDY | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Bag%20of%20Tokens.cpp) | ✅ |
+3 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hashing| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/First%20Missing%20Positive.cpp) | ✅ |
+4 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Consecutive Sequnce](https://leetcode.com/problems/longest-consecutive-sequnce/) |Hashest & Intelligence | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Longest%20Consecutive%20Sequnce.cpp) | ✅ |
+5 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rotate Image](https://leetcode.com/problems/rotate-image/) |Mathematics | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Rotate%20Image.py) | ✅ |
+6 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [The Number of weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) |Arrays stacks | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp) | ✅ |
 
 
 
-**6. Bag of  Tokens**
-**(     this problem is solved using the gready approach also requires Binary Search as Prerequisite    )**
-(https://leetcode.com/problems/bag-of-tokens/)
+
+
+
