@@ -1,7 +1,7 @@
-<p><h1>152. <a href = "https://leetcode.com/problems/maximum-product-subarray/"> Maximum Product Sub-Array</a></h1></p>
+S.No. | Topic | Question Name | Logic Used | Solution | Status |
+------|---------------|------------|-------|------|------|
+1 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Product](https://leetcode.com/problems/maximum-product-subarray/) | Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/Maximum%20Subarray%20Product.cpp) | ✅ |
+2 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Best Time To buy and Sell Stocks IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.cpp) | ✅ |
+3 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Ugly Number II](https://leetcode.com/problems/ugly-number-iii/) | Memozation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/Ugly%20Number%20II.cpp) | ✅ |
+4 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Score from Performing Multiplication](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) |Memozation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp) | ✅ |
 
-<p><h1>188. <a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"> Best Time To Buy And Sell Stock IV</a></h1></p>
-
-<p><h1>264. <a href = "https://leetcode.com/problems/ugly-number-ii/"> Ugly Number III</a></h1></p>
-
-<p><h1>1770. <a href = "https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/"> Maximum Score from Performing Multiplication Operations</a></h1></p>
