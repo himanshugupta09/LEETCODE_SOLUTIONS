@@ -1,16 +1,7 @@
+S.No. | Topic | Question Name | Logic Used | Solution | Status |
+------|---------------|------------|-------|------|------|
+1 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Recusrion, stack , tree Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/BTrree%20inorder%20traversal%20with%20recursion.cpp) | ✅ |
+2 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | DFS , Tree Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/Binary_Tree_Pruning.cpp) | ✅ |
+3 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Construct String from the Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Depth First Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/Construct%20a%20String%20from%20the%20Binary%20Tree.cpp) | ✅ |
+4 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pseudo Palindromic Paths](https://leetcode.com/problems/pseudo-palindromic-paths-in-binary-tree/) |DFS, BITS-Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.cpp) | ✅ |
 
-**1.BINARY TREE PRUNING**
-
-(https://leetcode.com/problems/binary-tree-pruning/)
-
-
-**2.Construct string from the Binary Tree**
-
-(https://leetcode.com/problems/construct-string-from-binary-tree/)
-
-
-**3.BINARY TREE INORDER TRAVERSAL**
-(https://leetcode.com/problems/binary-tree-inorder-traversal/)
-
-**4. Pseudo Palindromic Paths in Binary Tree**
-(https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
