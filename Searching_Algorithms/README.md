@@ -1,18 +1,5 @@
-**This Section of this repossitry Contains all kind of searching algorithms related problems These searching algorithms are...**
- 
-**a)BFS**
-
-**b)DFS**
-
-**c)Binary Search**
-
-
-**1. Numbers With Same Consecutive Difference**
-(https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
-
-**2.Pacific Atlantic Water Flow    { BFS Approach }**
-(https://leetcode.com/problems/pacific-atlantic-water-flow/)
-
-
-**3.Number of Islands { DFS Approach }**
-(https://leetcode.com/problems/number-of-islands/)
+S.No. | Topic | Question Name | Logic Used | Solution | Status |
+------|---------------|------------|-------|------|------|
+1 | ![](https://img.shields.io/badge/Algos-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Numbers with same Consecutive Difference](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Recursion, BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/Numbers%20With%20Same%20Consecutive%20Difference.cpp) | ✅ |
+2 | ![](https://img.shields.io/badge/Searchalgo-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS , BFS , Recusrion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/Pacific%20Atlantic%20Water%20Flow.py) | ✅ |
+3 | ![](https://img.shields.io/badge/Searching-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | Depth First Search, Breadth First Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/Number%20of%20Islands.cpp) | ✅ |
