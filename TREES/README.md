@@ -1,32 +1,21 @@
-**This Section  Contains all the problems based on Tree Data Structure**
-
-**1. Vertical Order Traversal of a Binary Tree**
-(https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
-
-**2.Average of Levels in Binary Tree**
-(https://leetcode.com/problems/average-of-levels-in-binary-tree/)
-
-**3.Count of Good Nodes in Binary Tree**
-(https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-
-
-**4.Lowest Common Ancestor of a Binary Tree**
-(https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-
-**5.Lowest Common Ancestor in a Binary Search Tree**
-(https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+S.No. | Topic | Question Name | Logic Used | Solution | Status |
+------|---------------|------------|-------|------|------|
+1 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) | ✅ |
+2 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | BFS DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Average%20of%20Levels%20in%20Binary%20Tree.cpp) | ✅ |
+3 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | BFS DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Count%20of%20Good%20Nodes%20in%20Binary%20Tree.cpp) | ✅ |
+4 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py) | ✅ |
+5 | ![](https://img.shields.io/badge/Treess-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Lowest Common Ancestor in Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py) | ✅ |
+6 | ![](https://img.shields.io/badge/Tress-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Convert Sorted Array Into Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |Divide & Conquer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Convert%20Sorted%20Array%20into%20Binary%20Search%20Tree.cpp) | ✅ |
+7 | ![](https://img.shields.io/badge/Tress-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Btree_Level_Order_Traversal.cpp) | ✅ |
+8 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Binary%20Tree%20Inorder%20Traversal.cpp) | ✅ |
+9 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pseudo Palindromic Paths in Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) |Bit Manipulation, DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.cpp) | ✅ |
+10 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Construct Binary Tree From Preorder Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |Divide & Conquere | [Solution]() | ✅ |
 
 
-**6.Convert Sorted Array into Binary Search Tree**
-(https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-
-**7.BTree Level Order Traversal**
-(https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 
-**8.BINARY TREE INORDER TRAVERSAL**
-(https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
 
 
-**9. Pseudo-Palindromic Paths in a Binary Tree**
-(https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+
+
+
