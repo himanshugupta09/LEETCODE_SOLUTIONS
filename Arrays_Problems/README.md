@@ -7,7 +7,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 5 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rotate Image](https://leetcode.com/problems/rotate-image/) |Mathematics | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Rotate%20Image.py) | ✅ |
 6 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [The Number of weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) |Arrays stacks | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Trapping the Rain Water](https://leetcode.com/problems/trapping-rain-water/) |Two Pointer Approach | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Trapping_Rain_Water.cpp) | ✅ |
-
+8 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) |Simple intutive sum difference | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Sum%20of%20Even%20Numbers%20After%20Queries.cpp) | ✅ |
 
 
 
