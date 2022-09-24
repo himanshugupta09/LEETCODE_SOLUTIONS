@@ -12,7 +12,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 10 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Construct Binary Tree From Preorder Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |Divide & Conquere | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) |BFS, DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Right%20Side%20View%20of%20A%20Binary%20Tree.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) |Recursion , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Reverse%20Odd%20Level%20Of%20Binary%20Tree.cpp) | ✅ |
-
+13 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |Recursion , DFS, BackTracking | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/path-sum-ii.cpp) | ✅ |
 
 
 
