@@ -4,6 +4,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 2 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Hashing| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/Largest%20Number.cpp) | ✅ |
 3 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Length of the longest continuous alphabetical substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/Length%20of%20Longest%20Continuous%20Alphabetical%20Substring.cpp) | ✅ |
 4 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse word in a string III](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | STL, Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/Reverse%20Words%20in%20a%20string%20III.cpp) | ✅ |
+5 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) |  Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/push-dominoes.cpp) | ✅ |
 
 
 
