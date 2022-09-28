@@ -10,6 +10,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 8 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) |Simple intutive sum difference | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Sum%20of%20Even%20Numbers%20After%20Queries.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [132 Pattern](https://leetcode.com/problems/132-pattern/) |Simple simulation , Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/132%20Pattern.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Max Chunk To make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) |Simple simulation , Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/Max%20Chunk%20To%20Make%20Sorted.cpp) | ✅ |
+11 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-subarray.cpp) | ✅ |
 
 
 
