@@ -14,6 +14,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 12 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) |Recursion , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/Reverse%20Odd%20Level%20Of%20Binary%20Tree.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |Recursion , DFS, BackTracking | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/path-sum-ii.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Sum](https://leetcode.com/problems/path-sum/) |Recursion , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/path-sum.cpp) | ✅ |
+15 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) |Recursion , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/add-one-row-to-tree.cpp) | ✅ |
 
 
 
