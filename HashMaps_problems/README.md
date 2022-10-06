@@ -6,6 +6,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Original Array from the Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) |Hashing & Basic Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/Find%20Original%20Array%20From%20Doubled%20Array.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |Strings, HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/Palindrome%20Pairs.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) |Strings, HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/Find%20Duplicate%20File%20in%20a%20System.cpp) | ✅ |
+7 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) |Strings, HashMap , Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/time-based-key-value-store.cpp) | ✅ |
 
 
 
