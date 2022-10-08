@@ -13,8 +13,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 11 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-subarray.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First And Last Positions of element in Sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-first-and-last-position-of-element-in-sorted-array.py) | ✅ |
 13 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-time-to-make-rope-colorful.cpp) | ✅ |
-
-
+14 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) |Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/3sum-closest.cpp) | ✅ |
 
 
 
