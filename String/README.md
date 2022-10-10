@@ -6,6 +6,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse word in a string III](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | STL, Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/Reverse%20Words%20in%20a%20string%20III.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) |  Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/push-dominoes.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Binary SubStrings](https://leetcode.com/problems/count-binary-substrings/) |  Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/count-binary-substrings.cpp) | ✅ |
+7 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) |  Greedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/break-a-palindrome.cpp) | ✅ |
 
 
 
