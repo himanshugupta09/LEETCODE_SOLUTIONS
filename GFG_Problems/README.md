@@ -8,7 +8,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 5 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Triplets with sum lesser Than X](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Two Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-triplet-with-sum-less-than-X.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Dam of Candies](https://practice.geeksforgeeks.org/problems/10471201e923a0b88a0c1482e6c7e8cc6fdfe93a/1) | Two Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Dam-of-Candies.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String SubSequence](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/String%20SubSequence.cpp) | ✅ |
-
+8 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [KnapSack-0-1]()https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1 | Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Knap-Sack-0-1.cpp) | ✅ |
 
 
 
