@@ -10,7 +10,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String SubSequence](https://practice.geeksforgeeks.org/problems/find-number-of-times-a-string-occurs-as-a-subsequence3020/1) | Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/String%20SubSequence.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [KnapSack-0-1](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Knap-Sack-0-1.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Palindrome Substrings of a string](https://practice.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Count%20Palindrome%20Sub-Strings%20of%20a%20String.cpp) | ✅ |
-
+10 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Move Last Element to Front of a Linked List POTD</>](https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1) | Simulation LinkedList | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Move%20Last%20Element%20to%20Front%20of%20a%20Linked%20List.cpp) | ✅ |
 
 
 
