@@ -15,3 +15,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 13 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count  Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Memoization  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/count-number-of-teams.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Distinct SubSequence](https://leetcode.com/problems/distinct-subsequences/) | Memoization  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/distinct-subsequence.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String Compression ii](https://leetcode.com/problems/string-compression-ii/) | Memoization  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/string-compression-ii.cpp) | ✅ |
+16 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) |Memozation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-difficulty-of-a-job-schedule.cpp) | ✅ |
+
+
+
