@@ -7,6 +7,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 5 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) |  Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/push-dominoes.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Binary SubStrings](https://leetcode.com/problems/count-binary-substrings/) |  Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/count-binary-substrings.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) |  Greedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/break-a-palindrome.cpp) | ✅ |
+8 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | HashSet Bit Manipulation Maps| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/check-if-the-sentence-is-pangram.cpp) | ✅ |
 
 
 
