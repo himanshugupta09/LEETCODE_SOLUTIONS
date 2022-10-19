@@ -16,6 +16,6 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Distinct SubSequence](https://leetcode.com/problems/distinct-subsequences/) | Memoization  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/distinct-subsequence.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String Compression ii](https://leetcode.com/problems/string-compression-ii/) | Memoization  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/string-compression-ii.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) |Memozation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-difficulty-of-a-job-schedule.cpp) | ✅ |
-
+17 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Triangle](https://leetcode.com/problems/triangle/) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/triangle.cpp) | ✅ |
 
 
