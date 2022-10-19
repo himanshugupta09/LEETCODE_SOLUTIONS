@@ -16,7 +16,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 13 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1?page=1&curated[]=1&sortBy=submissions) | Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Reverse%20Array%20in%20Groups.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check if Two Arrays are Equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&curated[]=1&sortBy=submissions) | Hashmap Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Check%20if%20Two%20Arrays%20are%20Equal%20or%20not.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Hamiltonian Path](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1) | BackTracking DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Hamiltonian%20Path.cpp) | ✅ |
-
+16 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1?page=1&curated[]=1&sortBy=submissions) | Hashing | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/first-element-to-occur-k-times.cpp) | ✅ |
 
 
 
