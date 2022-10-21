@@ -17,6 +17,6 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 15 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |Greedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/increasing-triplet-subsequence.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/largest-perimeter-triangle.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/remove-duplicates-from-sorted-array.cpp) | ✅ |
-
+18 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge Two Sorted Arrays](https://leetcode.com/problems/merge-two-sorted-arrays/) |Merge, Sorting , Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/median-of-two-sorted-arrays.cpp) | ✅ |
 
 
