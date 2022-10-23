@@ -10,7 +10,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 8 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | HashSet Bit Manipulation Maps| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/check-if-the-sentence-is-pangram.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count And Say](https://leetcode.com/problems/count-and-say/) | Strings| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/count-and-say.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Strings| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/multiply-string.cpp) | ✅ |
-
+11 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Window SubString](https://leetcode.com/problems/minimum-window-substring/) | Strings, HashMap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/minimum-window-substring.cpp) | ✅ |
 
 
 
