@@ -20,6 +20,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number Formation  </>POTD ](https://practice.geeksforgeeks.org/problems/number-formation3506/1) | Tabulation Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/number-formation.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Spiral form of Matrix </> POTD](https://practice.geeksforgeeks.org/problems/reverse-spiral-form-of-matrix4033/1) | Matrix Simulation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Reverse%20Spiral%20form%20of%20Matrix.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Filling Buckets  </>POTD ](https://practice.geeksforgeeks.org/problems/filling-buckets/1) | Tabulation   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Filling-Bucket.cpp) | ✅ |
+20 | ![](https://img.shields.io/badge/BFS-DFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Stepping Numbers  </>POTD ](https://practice.geeksforgeeks.org/problems/stepping-numberswrong-output1813/1) | BFS, DFS  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Stepping-Numbers.cpp) | ✅ |
 
 
 
