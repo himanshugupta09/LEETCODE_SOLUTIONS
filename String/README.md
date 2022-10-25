@@ -12,7 +12,6 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 10 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Strings| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/multiply-string.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Window SubString](https://leetcode.com/problems/minimum-window-substring/) | Strings, HashMap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/minimum-window-substring.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | String Comparator | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/check-if-two-string-arrays-are-equivalent.cpp) | ✅ |
-13 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/zigzag-conversion.cpp
-) | ✅ |
+13 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | String  | [Solution] (https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/zigzag-conversion.cpp) | ✅ |
 
 
