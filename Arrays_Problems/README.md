@@ -19,5 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/remove-duplicates-from-sorted-array.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |Merge, Sorting , Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/median-of-two-sorted-arrays.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) |Sorting, Brute force, BIT manipulation, Hashmap, Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/set-mismatch.cpp) | ✅ |
+20 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Element](https://leetcode.com/problems/remove-element/) |Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/remove-element.cpp) | ✅ |
+
 
 
