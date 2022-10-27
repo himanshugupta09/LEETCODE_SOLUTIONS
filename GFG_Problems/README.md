@@ -27,7 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 24 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits-1611130171/1) | Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Reverse-Bits.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Puzzle-f0772b?style=for-the-badge&logo=array&logoColor=black) | [The Smurfs  </> POTD](https://practice.geeksforgeeks.org/problems/the-smurfs4201/1) | Simulation, Counting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/The-Smurfs.py) | ✅ |
 26 | ![](https://img.shields.io/badge/Binary-Search_Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Print leaf nodes from preorder traversal of BST  </> POTD](https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1) | Stack, Recusrion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Print_leaf_nodes_from_preorder_traversal_of_BST.cpp) | ✅ |
-
+27 | ![](https://img.shields.io/badge/Hashmaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find pair with given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1?page=1&curated[]=1&sortBy=submissions) | Hashmap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Find-all-pairs-with-a-given-sum.cpp) | ✅ |
 
 
 
