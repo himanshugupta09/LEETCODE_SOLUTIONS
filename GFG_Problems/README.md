@@ -26,6 +26,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum of all subarrays of size k  </> POTD](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | Sliding Window ,  Doubly Ended Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Maximum-of-all-subarrays-of-size-k.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits-1611130171/1) | Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Reverse-Bits.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Puzzle-f0772b?style=for-the-badge&logo=array&logoColor=black) | [The Smurfs  </> POTD](https://practice.geeksforgeeks.org/problems/the-smurfs4201/1) | Simulation, Counting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/The-Smurfs.py) | ✅ |
+26 | ![](https://img.shields.io/badge/Binary-Search_Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Print leaf nodes from preorder traversal of BST  </> POTD](https://practice.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1) | Stack, Recusrion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Print_leaf_nodes_from_preorder_traversal_of_BST.cpp) | ✅ |
+
+
 
 
 
