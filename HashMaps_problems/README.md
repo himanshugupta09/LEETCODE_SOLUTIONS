@@ -9,6 +9,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) |Strings, HashMap , Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/time-based-key-value-store.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |Strings, HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/integer-to-roman.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Contains Duplicate ii](https://leetcode.com/problems/contains-duplicate-ii/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/contains-duplicate-ii.cpp) | ✅ |
+10 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/group-anagrams.cpp) | ✅ |
+
 
 
 
