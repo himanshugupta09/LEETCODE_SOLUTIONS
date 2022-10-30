@@ -30,6 +30,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 27 | ![](https://img.shields.io/badge/Hashmaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find pair with given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1?page=1&curated[]=1&sortBy=submissions) | Hashmap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Find-all-pairs-with-a-given-sum.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sequence Fun </> POTD ](https://practice.geeksforgeeks.org/problems/sequence-fun5018/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Sequnce-Fun.cpp) | ✅ |
 29 | ![](https://img.shields.io/badge/Hashmap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Phone  Dierectory </> POTD ](https://practice.geeksforgeeks.org/problems/phone-directory4628/1) | Maps, Trie  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Phone-Dierectory.cpp) | ✅ |
+30 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Chicks in a Zoo </> POTD ](https://practice.geeksforgeeks.org/problems/chicks-in-a-zoo1159/1) | Tabulation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Chicks-in-a-zoo.py) | ✅ |
+
 
 
 
