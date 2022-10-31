@@ -22,6 +22,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Element](https://leetcode.com/problems/remove-element/) |Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/remove-element.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Matrices-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Image Overlap](https://leetcode.com/problems/image-overalap/) |Bits, Convolution | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/image-overlap.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) |Sorting, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/earliest-possible-day-of-full-bloom.py) | ✅ |
+23 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) |Sorting, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/toeplitz-matrix.cpp) | ✅ |
+
 
 
 
