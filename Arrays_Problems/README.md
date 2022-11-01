@@ -23,6 +23,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 21 | ![](https://img.shields.io/badge/Matrices-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Image Overlap](https://leetcode.com/problems/image-overalap/) |Bits, Convolution | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/image-overlap.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) |Sorting, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/earliest-possible-day-of-full-bloom.py) | ✅ |
 23 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) |Comparision | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/toeplitz-matrix.cpp) | ✅ |
+24 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Where  will the ball fall](https://leetcode.com/problems/where-will-the-ball-fall/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/where-will-the-ball-fall.cpp) | ✅ |
+
+
 
 
 
