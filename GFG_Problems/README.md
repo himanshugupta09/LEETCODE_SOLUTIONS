@@ -33,6 +33,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 30 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Chicks in a Zoo </> POTD ](https://practice.geeksforgeeks.org/problems/chicks-in-a-zoo1159/1) | Tabulation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Chicks-in-a-zoo.py) | ✅ |
 31 | ![](https://img.shields.io/badge/Hashmap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Satisfy the equation </> POTD ](https://practice.geeksforgeeks.org/problems/satisfy-the-equation5847/1) | Hashing ,  Pairity  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Satisfy-the-equation.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Median in row-wise sorted matrix </> POTD ](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/median-in-a-row-wise-sorted-matrix1527.cpp) | ✅ |
+33 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Enemy </> POTD ](https://practice.geeksforgeeks.org/problems/enemy/1) | Sorting , Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/enemy.cpp) | ✅ |
+
+
+
 
 
 
