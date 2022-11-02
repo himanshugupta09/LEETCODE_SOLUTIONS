@@ -5,7 +5,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 3 | ![](https://img.shields.io/badge/Stacks-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Mono-Tonic-Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/Maximum%20Width%20Ramp.cpp) | ✅ |
 4 | ![](https://img.shields.io/badge/Stacks-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | Mono-Tonic-Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/Max%20Chunk%20To%20Make%20Sorted-II.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/Circular_Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Arrays, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/design-circular-queue.cpp) | ✅ |
-
+6 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | HashMap, String  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/minimum-genetic-mutation.cpp) | ✅ |
 
 
 
