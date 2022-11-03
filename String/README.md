@@ -13,3 +13,11 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 11 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Window SubString](https://leetcode.com/problems/minimum-window-substring/) | Strings, HashMap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/minimum-window-substring.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | String Comparator | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/check-if-two-string-arrays-are-equivalent.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Strings| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/zigzag-conversion.cpp) | ✅ |
+14 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Strings, Hashmap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/longest-palindrome-by-concatenating-two-letter-words.cpp) | ✅ |
+
+
+
+
+
+
+
