@@ -35,6 +35,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 32 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Median in row-wise sorted matrix </> POTD ](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/median-in-a-row-wise-sorted-matrix1527.cpp) | ✅ |
 33 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Enemy </> POTD ](https://practice.geeksforgeeks.org/problems/enemy/1) | Sorting , Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/enemy.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Array removals </> POTD ](https://practice.geeksforgeeks.org/problems/array-removals/1) | Sorting , Dyanmic Programming  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/array-removals.cpp) | ✅ |
+35 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Base Equivalence </> POTD ](https://practice.geeksforgeeks.org/problems/base-equivalence1022/1) | Maths, Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/base-equivalence.cpp) | ✅ |
 
 
 
