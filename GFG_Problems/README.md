@@ -36,8 +36,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 33 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Enemy </> POTD ](https://practice.geeksforgeeks.org/problems/enemy/1) | Sorting , Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/enemy.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Array removals </> POTD ](https://practice.geeksforgeeks.org/problems/array-removals/1) | Sorting , Dyanmic Programming  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/array-removals.cpp) | ✅ |
 35 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Base Equivalence </> POTD ](https://practice.geeksforgeeks.org/problems/base-equivalence1022/1) | Maths, Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/base-equivalence.cpp) | ✅ |
-
-
+36 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Jumps ](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&company[]=Microsoft&curated[]=1&sortBy=submissions) | Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-number-of-jumps.cpp) | ✅ |
 
 
 
