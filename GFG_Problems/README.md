@@ -38,7 +38,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 35 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Base Equivalence </> POTD ](https://practice.geeksforgeeks.org/problems/base-equivalence1022/1) | Maths, Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/base-equivalence.cpp) | ✅ |
 36 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Jumps ](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&company[]=Microsoft&curated[]=1&sortBy=submissions) | Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-number-of-jumps.cpp) | ✅ |
 37 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Grouping of numbers </> POTD ](https://practice.geeksforgeeks.org/problems/grouping-of-numbers0015/1) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/grouping-of-numbers.cpp) | ✅ |
-
+38 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Coins </> POTD ](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-number-of-coins.cpp) | ✅ |
 
 
 
