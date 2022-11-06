@@ -15,8 +15,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 13 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Strings| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/zigzag-conversion.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Strings, Hashmap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/longest-palindrome-by-concatenating-two-letter-words.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Misclenous-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Word Search II   Google,Microsoft,Amazon](https://leetcode.com/problems/word-search-ii/description/) | Strings, Bactracking , DFS, Trie , Hash| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/word-search-ii.cpp) | ✅ |
-
-
+16 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | Strings, Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/orderly-queue.cpp) | ✅ |
 
 
 
