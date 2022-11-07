@@ -41,7 +41,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 38 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Coins </> POTD ](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-number-of-coins.cpp) | ✅ |
 39 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Smallest-element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&sortBy=submissions) | Priority  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Kth-smallest-element.cpp) | ✅ |
 40 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Floyd Warshall </> POTD ](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | Graph, Floyd Warshall Algorithm  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/floydd-warshall.cpp) | ✅ |
-
+41 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rarrange array alternatively  ](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=2&curated[]=1&sortBy=submissions) | Parity, Swaping  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/rearrange-array-alternatively.cpp) | ✅ |
 
 
 
