@@ -43,7 +43,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 40 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Floyd Warshall </> POTD ](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | Graph, Floyd Warshall Algorithm  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/floydd-warshall.cpp) | ✅ |
 41 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rarrange array alternatively  ](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=2&curated[]=1&sortBy=submissions) | Parity, Swaping  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/rearrange-array-alternatively.cpp) | ✅ |
 42 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Two Numbers with odd occurences  </>  POTD ](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) |Bit Manupluation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/two-numbers-with-odd-occurences.cpp) | ✅ |
-
+43 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Equilibrium Point in array](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&curated[]=1&sortBy=submissions) | Prefix Sum| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/equilibrium-point.cpp) | ✅ |
 
 
 
