@@ -45,6 +45,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 42 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Two Numbers with odd occurences  </>  POTD ](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) |Bit Manupluation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/two-numbers-with-odd-occurences.cpp) | ✅ |
 43 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Equilibrium Point in array](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&curated[]=1&sortBy=submissions) | Prefix Sum| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/equilibrium-point.cpp) | ✅ |
 44 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1?page=2&curated[]=1&sortBy=submissions) | Merge Sort, Priority Qeueue, Min. Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-inversion.cpp) | ✅ |
+45 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Sum Partition </> POTD](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-sum-partition.cpp) | ✅ |
+
+
+
 
 
 
