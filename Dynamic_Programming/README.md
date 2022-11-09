@@ -18,5 +18,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 16 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) |Memozation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-difficulty-of-a-job-schedule.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Triangle](https://leetcode.com/problems/triangle/) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/triangle.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | ✅ |
+19 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum number of removals to make mountain array ](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | tabulation, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-number-of-removals-to-make-mountain-array.cpp) | ✅ |
+
+
+
+
 
 
