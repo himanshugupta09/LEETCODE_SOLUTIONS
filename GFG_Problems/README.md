@@ -48,7 +48,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 45 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Sum Partition </> POTD](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-sum-partition.cpp) | ✅ |
 46 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Jumping Numbers </> POTD](https://practice.geeksforgeeks.org/problems/jumping-numbers3805/1) | Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/jumping-numbers.cpp) | ✅ |
 47 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Primes Sum </> POTD](https://practice.geeksforgeeks.org/problems/primes-sum5827/1) | Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/primes-sum.cpp) | ✅ |
-
+48 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the Element that appear once in the sorted array](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1?page=2&curated[]=1&sortBy=submissions) | Binary Search , Bits| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-the-element-that-appears-once-in-sorted-array.cpp) | ✅ |
 
 
 
