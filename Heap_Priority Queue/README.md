@@ -5,3 +5,12 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 3 | ![](https://img.shields.io/badge/PriorityQueue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [The SkyLine Problem](https://leetcode.com/problems/the-skyline-problem/) | Prioirty , Hashmaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/the-skyline-problem.cpp) | ✅ |
 4 | ![](https://img.shields.io/badge/PriorityQueue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Sorting, | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-subsequence-of-length-k-with-the-largest-sum.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/PriorityQueue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/) | Prioirty , Hashmaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/top-k-frequent-words.cpp) | ✅ |
+6 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Prioirty , Min-Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-meadian-from-data-stream.cpp) | ✅ |
+
+
+
+
+
+
+
+
