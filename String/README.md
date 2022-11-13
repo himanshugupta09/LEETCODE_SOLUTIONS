@@ -19,6 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/Norms-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | Greedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/maximum-69-number.py) | ✅ |
 18 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove All Adjacent Duplicates From string](https://leetcode.com/problems/remove-all-adjacebt-duplicates-from-string/description/) | Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/remove-all-adjacent-duplicates-in-string.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/longest-common-prefix.cpp) | ✅ |
+20 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/reverse-words-in-a-string.cpp) | ✅ |
 
 
 
