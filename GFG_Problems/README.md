@@ -51,6 +51,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 48 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the Element that appear once in the sorted array](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1?page=2&curated[]=1&sortBy=submissions) | Binary Search , Bits| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-the-element-that-appears-once-in-sorted-array.cpp) | ✅ |
 49 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum substring after atmost k changes </> POTD](https://practice.geeksforgeeks.org/problems/maximum-sub-string-after-at-most-k-changes3220/1) | Hash Map| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-sub-string-after-atmost-k-changes.cpp) | ✅ |
 50 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fill up buckets </> POTD](https://practice.geeksforgeeks.org/problems/fill-up-buckets3500/1) | Combinations | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/fill-up-buackets.cpp) | ✅ |
+51 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Patterns </> POTD](https://practice.geeksforgeeks.org/problems/find-patterns0606/1) | Brute force | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-patterns.cpp) | ✅ |
+
 
 
 
