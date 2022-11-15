@@ -16,7 +16,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Sum](https://leetcode.com/problems/path-sum/) |Recursion , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/path-sum.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) |Recursion , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/add-one-row-to-tree.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Two Sum iv-given input is BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |Recursion , DFS , Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/two-sum-iv-input-is-a-bst.cpp) | ✅ |
-
+17 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Nodes in a Complete Tree](https://leetcode.com/problems/count-nodes-in-a-compltete-tree/) |Recursion , DFS ,  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/count-complete-tree-nodes.cpp) | ✅ |
 
 
 
