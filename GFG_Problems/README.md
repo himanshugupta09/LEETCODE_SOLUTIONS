@@ -55,6 +55,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 52 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Perfect Piece </> POTD](https://practice.geeksforgeeks.org/problems/close-to-perfection1525/1) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/longest-perfect-piece.cpp) | ✅ |
 53 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Help Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1) | Monotonic Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/help-classmates.cpp) | ✅ |
 54 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Smaller Number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1) | Monotonic Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/smaller-number-on-left.cpp) | ✅ |
+55 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Beauty of all strings </> POTD](https://practice.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1) | Hashes | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sum-of-beauty-of-all-strings.cpp) | ✅ |
 
 
 
