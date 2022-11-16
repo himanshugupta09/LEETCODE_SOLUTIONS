@@ -6,6 +6,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 5 | ![](https://img.shields.io/badge/Searchalgo-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sqrt(X)](https://leetcode.com/problems/sqrtx/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/sqrtx.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Breadth First Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/shortest-path-in-a-grid-with-obstacles-elimination.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Most Stones Removed with same row or column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) | Depth First Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/most-stones-removed-with-same-row-or-column.cpp) | ✅ |
+8 | ![](https://img.shields.io/badge/Binary-Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Guess Number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/guess-number-higher-or-lower.cpp) | ✅ |
 
 
 
