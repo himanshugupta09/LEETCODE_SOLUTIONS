@@ -53,6 +53,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 50 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fill up buckets </> POTD](https://practice.geeksforgeeks.org/problems/fill-up-buckets3500/1) | Combinations | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/fill-up-buackets.cpp) | ✅ |
 51 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Patterns </> POTD](https://practice.geeksforgeeks.org/problems/find-patterns0606/1) | Brute force | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-patterns.cpp) | ✅ |
 52 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Perfect Piece </> POTD](https://practice.geeksforgeeks.org/problems/close-to-perfection1525/1) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/longest-perfect-piece.cpp) | ✅ |
+53 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Help Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1) | Monotonic Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/help-classmates.cpp) | ✅ |
 
 
 
