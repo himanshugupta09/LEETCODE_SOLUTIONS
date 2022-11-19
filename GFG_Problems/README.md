@@ -58,8 +58,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 55 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Beauty of all strings </> POTD](https://practice.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1) | Hashes | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sum-of-beauty-of-all-strings.cpp) | ✅ |
 56 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count of Subarrays </> POTD](https://practice.geeksforgeeks.org/problems/count-of-subarrays5922/1) | Comparision based recent min | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-of-subarrays.cpp) | ✅ |
 57 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Open Doors </> POTD](https://practice.geeksforgeeks.org/problems/number-of-open-doors1552/1) | Basic Math | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/number-of-open-doors.cpp) | ✅ |
-
-
+58 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check if all levels of two trees are anagrams or not </> POTD](https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) | BFS , Recusrion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-if-all-levels-of-two-trees-are-anagrams-or-not.cpp) | ✅ |
 
 
 
