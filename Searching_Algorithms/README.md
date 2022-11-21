@@ -9,6 +9,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 8 | ![](https://img.shields.io/badge/Binary-Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Guess Number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/guess-number-higher-or-lower.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/rectangle-area.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/ugly-number.cpp) | ✅ |
+11 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/nearest-exit-from-entrance-in-maze.cpp) | ✅ |
+
 
 
 
