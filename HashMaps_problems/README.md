@@ -1,4 +1,4 @@
-S.No. | Topic | Question Name | Logic Used | Solution | Status |
+HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 ------|---------------|------------|-------|------|------|
 1 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | Hash Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/Roman%20To%20Integer.cpp) | ✅ |
 2 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Simple Logical Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/Rotate%20Image.py) | ✅ |
@@ -10,6 +10,13 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 8 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |Strings, HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/integer-to-roman.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Contains Duplicate ii](https://leetcode.com/problems/contains-duplicate-ii/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/contains-duplicate-ii.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/group-anagrams.cpp) | ✅ |
+11 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Valid Sudoko](https://leetcode.com/problems/valid-sudoko/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/valid-sudoko.cpp) | ✅ |
+
+
+
+
+
+
 
 
 
