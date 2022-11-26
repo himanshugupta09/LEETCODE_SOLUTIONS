@@ -11,7 +11,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Contains Duplicate ii](https://leetcode.com/problems/contains-duplicate-ii/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/contains-duplicate-ii.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/group-anagrams.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Valid Sudoko](https://leetcode.com/problems/valid-sudoko/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/valid-sudoko.cpp) | ✅ |
-
+12 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Avoid Flood in the city](https://leetcode.com/problems/avoid-flood-in-the-city/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/avoid-flood-in-the-city.cpp) | ✅ |
 
 
 
