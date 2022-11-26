@@ -21,8 +21,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 19 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum number of removals to make mountain array ](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | tabulation, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-number-of-removals-to-make-mountain-array.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/palidromic-substrings.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/perfect-squares.cpp) | ✅ |
-
-
+22 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Memoixation, Sorting + Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-profit-in-job-scheduling.cpp) | ✅ |
 
 
 
