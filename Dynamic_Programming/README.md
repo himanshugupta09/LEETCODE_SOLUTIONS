@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/palidromic-substrings.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/perfect-squares.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Memoixation, Sorting + Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-profit-in-job-scheduling.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arithmetic Subsequence II](https://leetcode.com/problems/arithmetic-subsequence-ii/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/arithmetic-slices-ii.py) | ✅ |
 
 
 
