@@ -13,7 +13,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 11 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Valid Sudoko](https://leetcode.com/problems/valid-sudoko/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/valid-sudoko.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Avoid Flood in the city](https://leetcode.com/problems/avoid-flood-in-the-city/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/avoid-flood-in-the-city.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/count-good-meals.cpp) | ✅ |
-
+14 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/find-players-with-zero-or-one-losses.cpp) | ✅ |
 
 
 
