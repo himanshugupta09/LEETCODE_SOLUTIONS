@@ -61,7 +61,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 58 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check if all levels of two trees are anagrams or not </> POTD](https://practice.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) | BFS , Recusrion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-if-all-levels-of-two-trees-are-anagrams-or-not.cpp) | ✅ |
 59 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [LCM Triplets </> POTD](https://practice.geeksforgeeks.org/problems/lcm-triplet1501/1) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/lcm-triplet.cpp) | ✅ |
 60 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique partitions </> POTD](https://practice.geeksforgeeks.org/problems/unique-partitions1041/1) | Backtracking | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unique-partitions.cpp) | ✅ |
-
+61 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/coin-change.cpp) | ✅ |
 
 
 
