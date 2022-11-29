@@ -20,8 +20,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 18 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove All Adjacent Duplicates From string](https://leetcode.com/problems/remove-all-adjacebt-duplicates-from-string/description/) | Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/remove-all-adjacent-duplicates-in-string.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/longest-common-prefix.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/reverse-words-in-a-string.cpp) | ✅ |
-
-
+21 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add Binary](https://leetcode.com/problems/add-binary/description/) | BTIS Manipulation, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/add-binary.cpp) | ✅ |
 
 
 
