@@ -6,5 +6,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pseudo Palindromic Paths](https://leetcode.com/problems/pseudo-palindromic-paths-in-binary-tree/) |DFS, BITS-Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |DFS, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/path-sum-ii.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |Memoization, Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/nth-tribonacci-number.cpp) | ✅ |
+7 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pow(x,n)](https://leetcode.com/problems/powx-n/) Binary Exponentiation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/powx-n.cpp) | ✅ |
+
+
 
 
