@@ -11,7 +11,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 10 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/ugly-number.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/nearest-exit-from-entrance-in-maze.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/DFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Word Search](https://leetcode.com/problems/word-search/description/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/word-search.cpp) | ✅ |
-
+13 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arrange Coins](https://leetcode.com/problems/arranging-coins/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/arranging-coins.py) | ✅ |
 
 
 
