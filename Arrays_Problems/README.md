@@ -27,8 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 25 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Errect the fence](https://leetcode.com/problems/erect-the-fence/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/errect-the-fence.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Consecutive Ones](https://leetcode.com/problems/maximum-consecutive-ones/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/max-consecutive-ones.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/add-to-array-form-of-integer.cpp) | ✅ |
-
-
+28 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) |Greedy , Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-difference-between-largest-and-smallest-value-in-three-moves.cpp) | ✅ |
 
 
 
