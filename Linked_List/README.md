@@ -7,6 +7,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete the middle node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/delete-the-middle-node-of-a-linked-list.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/middle-of-the-linked-list.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-two-sorted-lists.py) | ✅ |
+7 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/reverse-linked-list.cpp) | ✅ |
 
 
 
