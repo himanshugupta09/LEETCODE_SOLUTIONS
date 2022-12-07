@@ -9,7 +9,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 6 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-two-sorted-lists.py) | ✅ |
 7 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/reverse-linked-list.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/odd-even-linked-list.cpp) | ✅ |
-9 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Linked List Cycle II](https://leetcode.com/problems/olinked-list-cycle-ii/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/linked-list-cycle-ii.cpp) | ✅ |
+9 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/linked-list-cycle-ii.cpp) | ✅ |
 
 
 
