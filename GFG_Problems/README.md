@@ -65,8 +65,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 62 | ![](https://img.shields.io/badge/arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum sub array </> POTD](https://practice.geeksforgeeks.org/problems/maximum-sub-array5443/1) | Two Pointers  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-sub-array.cpp) | ✅ |
 63 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count of sum of Consecutive](https://practice.geeksforgeeks.org/problems/count-of-sum-of-consecutives3741/1#) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-of-sum-of-consecutives.cpp) | ✅ |
 64 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Consecutive 1's not Allowed](https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/consecutive-1s-not-allowed.cpp) | ✅ |
-
-
+65 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/gold-mine-problem.cpp) | ✅ |
 
 
 
