@@ -16,7 +16,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/find-players-with-zero-or-one-losses.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/unique-number-of-occurences.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Determine If Two Strings are close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/determine-if-two-strings-are-close.cpp) | ✅ |
-
+17 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/longest-palindrome.cpp) | ✅ |
 
 
 
