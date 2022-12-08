@@ -11,7 +11,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |  Monotonic Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/largest-rectangle-in-histogram.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/basic-calculator.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) |  MonotoneStack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/sum-of-subarray-minimums.cpp) | ✅ |
-
+12 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Leaf-similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |  DFS, Stck  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/leaf-similar-trees.cpp) | ✅ |
 
 
 
