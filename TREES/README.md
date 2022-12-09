@@ -18,6 +18,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 16 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Two Sum iv-given input is BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |Recursion , DFS , Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/two-sum-iv-input-is-a-bst.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Nodes in a Complete Tree](https://leetcode.com/problems/count-nodes-in-a-compltete-tree/) |Recursion , DFS ,  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/count-complete-tree-nodes.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |Recursion , DFS ,  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/range-sum-of-bst.cpp) | ✅ |
+19 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Recursion , DFS ,  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/maximum-difference-between-node-and-ancestor.cpp) | ✅ |
+
+
 
 
 
