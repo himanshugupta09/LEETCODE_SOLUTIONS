@@ -8,8 +8,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 6 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |Memoization, Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/nth-tribonacci-number.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pow(x,n)](https://leetcode.com/problems/powx-n/)| Binary Exponentiation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/powx-n.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Leaf-similar Trees](https://leetcode.com/problems/leaf-similar-trees/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/leaf-similar-trees.cpp) | ✅ |
-9 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Maximum Product of Splitted Binary Tree
-](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/maximum-product-of-splitted-binary-tree.cpp) | ✅ |
+9 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/maximum-product-of-splitted-binary-tree.cpp) | ✅ |
 
 
 
