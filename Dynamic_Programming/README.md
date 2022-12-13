@@ -25,7 +25,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arithmetic Slices II Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/arithmetic-slices-ii.py) | ✅ |
 24 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/pascals-triangle-ii.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Integer Break](https://leetcode.com/problems/integer-break/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/integer-break.cpp) | ✅ |
-
+26 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-falling-path-sum.cpp) | ✅ |
 
 
 
