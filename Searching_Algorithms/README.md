@@ -14,6 +14,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 13 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arrange Coins](https://leetcode.com/problems/arranging-coins/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/arranging-coins.py) | ✅ |
 14 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Search](https://leetcode.com/problems/binary-search/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/binary-search.py) | ✅ |
 15 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/first-bad-version.cpp) | ✅ |
+16 | ![](https://img.shields.io/badge/Gasph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/keys-and-rooms.cpp) | ✅ |
+
+
 
 
 
