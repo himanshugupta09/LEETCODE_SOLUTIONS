@@ -14,7 +14,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 12 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Leaf-similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |  DFS, Stck  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/leaf-similar-trees.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |   Stck,maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/evaluate-reverse-polish-notation.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/daily-temperatures.cpp) | ✅ |
-15 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) |   Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/find-if-path-exists-in-graph.cpp) | ✅ |
+15 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) |   Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/find-if-path-exists-in-graph.cpp) | ✅ |
+16 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) |   Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/possible-bipartition.cpp) | ✅ |
+
+
 
 
 
