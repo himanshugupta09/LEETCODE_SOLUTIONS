@@ -31,7 +31,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 29 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) |Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-average-difference.cpp) | ✅ |
 30 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-pivot-index.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/spiral-matrix.cpp) | ✅ |
-
+32 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Jump Game](https://leetcode.com/problems/jump-game/) |Simulation ,greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/jump-game.cpp) | ✅ |
 
 
 
