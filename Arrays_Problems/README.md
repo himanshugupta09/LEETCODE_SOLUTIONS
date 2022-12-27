@@ -32,7 +32,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 30 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-pivot-index.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/spiral-matrix.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Jump Game](https://leetcode.com/problems/jump-game/) |Simulation ,greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/jump-game.cpp) | ✅ |
-
+33 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) |Simulation ,greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-bags-with-full-capacity-of-rocks.cpp) | ✅ |
 
 
 
