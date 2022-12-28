@@ -6,8 +6,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/PriorityQueue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Sorting, | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-subsequence-of-length-k-with-the-largest-sum.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/PriorityQueue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/) | Prioirty , Hashmaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/top-k-frequent-words.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Prioirty , Min-Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-meadian-from-data-stream.cpp) | ✅ |
-
-
+7 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/remove-stones-to-minimize-the-total.cpp) | ✅ |
 
 
 
