@@ -10,7 +10,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 8 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Leaf-similar Trees](https://leetcode.com/problems/leaf-similar-trees/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/leaf-similar-trees.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/maximum-product-of-splitted-binary-tree.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/all-paths-from-source-to-target.cpp) | ✅ |
-
+11 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)| Recusrion , DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/unique-paths-iii.cpp) | ✅ |
 
 
 
