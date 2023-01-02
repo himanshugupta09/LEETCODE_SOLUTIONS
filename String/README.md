@@ -25,7 +25,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | Hashing, HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/sort-characters-by-frequency.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |  HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/isomorphic-strings.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/is-subsequence.cpp) | ✅ |
-
+26 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/detect-capital.cpp) | ✅ |
 
 
 
