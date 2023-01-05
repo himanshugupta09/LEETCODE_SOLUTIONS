@@ -34,6 +34,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 32 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Jump Game](https://leetcode.com/problems/jump-game/) |Simulation ,greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/jump-game.cpp) | ✅ |
 33 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) |Simulation ,greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-bags-with-full-capacity-of-rocks.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Insertioin Sort, two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/sort-colors.cpp) | ✅ |
+35 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-arrows-to-burst-balloons.cpp) | ✅ |
+
+
 
 
 
