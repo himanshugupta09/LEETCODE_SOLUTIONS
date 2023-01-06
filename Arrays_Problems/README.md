@@ -35,6 +35,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 33 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) |Simulation ,greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-bags-with-full-capacity-of-rocks.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Insertioin Sort, two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/sort-colors.cpp) | ✅ |
 35 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-arrows-to-burst-balloons.cpp) | ✅ |
+36 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | Sorting, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-ice-cream-bars.cpp) | ✅ |
 
 
 
