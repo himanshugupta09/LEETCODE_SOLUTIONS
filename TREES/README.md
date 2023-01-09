@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) |Recursion , DFS ,  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/n-ary-tree-preorder-traversal.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) |Recursion , DFS ,  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/maximum-product-of-splitted-binary-tree.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Recursion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-tree-maximum-path-sum.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Stack,Recursion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-tree-preorder-traversal.cpp) | ✅ |
 
 
 
