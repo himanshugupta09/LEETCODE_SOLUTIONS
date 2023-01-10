@@ -16,6 +16,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/daily-temperatures.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) |   Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/find-if-path-exists-in-graph.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) |   Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/possible-bipartition.cpp) | ✅ |
+17 | ![](https://img.shields.io/badge/DFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Same Tree](https://leetcode.com/problems/same-tree/description/) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/same-tree-iter.cpp) | ✅ |
 
 
 
