@@ -37,6 +37,14 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 35 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-arrows-to-burst-balloons.cpp) | ✅ |
 36 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/) | Sorting, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-ice-cream-bars.cpp) | ✅ |
 37 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Sorting, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/gas-station.cpp) | ✅ |
+38 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Inert Intervall](https://leetcode.com/problems/insert-interval/description/) | Linear Search , Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/insert-interval.cpp) | ✅ |
+
+
+
+
+
+
+
 
 
 
