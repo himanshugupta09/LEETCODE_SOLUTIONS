@@ -27,6 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 25 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/is-subsequence.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/detect-capital.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/delete-columns-to-make-sorted.cpp) | ✅ |
+28 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Flip String To Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/flip-string-to-monotone-increasing.cpp) | ✅ |
 
 
 
