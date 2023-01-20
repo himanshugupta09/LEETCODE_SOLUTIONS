@@ -6,6 +6,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Decode Xored Array](https://leetcode.com/problems/decode-xored-array/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/decode-xored-array.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/hamming-distance.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Single Number ii](https://leetcode.com/problems/single-number-ii/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/single-number-ii.cpp) | ✅ |
+7 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/non-decreasing-subsequences.cpp) | ✅ |
 
 
 
