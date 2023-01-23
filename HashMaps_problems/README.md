@@ -20,6 +20,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 18 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/word-pattern.py) | ✅ |
 19 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/minimum-rounds-to-complete-all-tasks.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Max Points On a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/max-points-on-a-line.cpp) | ✅ |
+21 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/find-the-town-judge.cpp) | ✅ |
 
 
 
