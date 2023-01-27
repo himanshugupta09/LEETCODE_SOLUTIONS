@@ -28,7 +28,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/detect-capital.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/delete-columns-to-make-sorted.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Flip String To Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/flip-string-to-monotone-increasing.cpp) | ✅ |
-
+29 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Concatenated Words](https://leetcode.com/problems/concatenated-words/description/) |  Common Prefix  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/concatenated-words.cpp) | ✅ |
 
 
 
