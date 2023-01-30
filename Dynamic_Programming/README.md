@@ -29,7 +29,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 27 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/best-time-to-buy-and-sell-stock-with-cooldown.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/domino-and-tromino-tiling-new.cpp) | ✅ |
 29 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) | variable, overalaping  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/flip-string-to-monotone-increasing.cpp) | ✅ |
-
+30 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nth Tribonaci Number](https://leetcode.com/problems/nth-tribonacci-number/description/) | variable, overalaping  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/nth-tribonacci-number.cpp) | ✅ |
 
 
 
