@@ -30,7 +30,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 28 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Flip String To Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |  Simualtion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/flip-string-to-monotone-increasing.cpp) | ✅ |
 29 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Concatenated Words](https://leetcode.com/problems/concatenated-words/description/) |  Common Prefix  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/concatenated-words.cpp) | ✅ |
 30 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greates-common-divisor-of-strings/description/) |  GCD  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/greatest-common-divisor-of-strings.cpp) | ✅ |
-
+31 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Verifying an alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |  String Matching  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/verifying-an-alien-dictionary.cpp) | ✅ |
 
 
 
