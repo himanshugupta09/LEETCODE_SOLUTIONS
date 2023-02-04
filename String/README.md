@@ -31,6 +31,12 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 29 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Concatenated Words](https://leetcode.com/problems/concatenated-words/description/) |  Common Prefix  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/concatenated-words.cpp) | ✅ |
 30 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greates-common-divisor-of-strings/description/) |  GCD  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/greatest-common-divisor-of-strings.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Verifying an alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |  String Matching  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/verifying-an-alien-dictionary.cpp) | ✅ |
+32 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pattern String](https://leetcode.com/problems/pattern-string/description/) |  String Matching, KMP  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/permutation-string.cpp) | ✅ |
+
+
+
+
+
 
 
 
