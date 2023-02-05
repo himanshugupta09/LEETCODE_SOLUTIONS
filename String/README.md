@@ -32,8 +32,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 30 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greates-common-divisor-of-strings/description/) |  GCD  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/greatest-common-divisor-of-strings.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Verifying an alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |  String Matching  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/verifying-an-alien-dictionary.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pattern String](https://leetcode.com/problems/pattern-string/description/) |  String Matching, KMP  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/permutation-string.cpp) | ✅ |
-
-
+33 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |  String Matching, HashMap  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-all-anagrams-in-a-string.cpp) | ✅ |
 
 
 
