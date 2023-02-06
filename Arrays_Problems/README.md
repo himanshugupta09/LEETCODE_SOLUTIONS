@@ -40,7 +40,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 38 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Inert Interval](https://leetcode.com/problems/insert-interval/description/) | Linear Search , Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/insert-interval.cpp) | ✅ |
 39 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | Divide and Conquer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-sum-circular-subarray.cpp) | ✅ |
 40 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | Swaping, Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/next-permutation.cpp) | ✅ |
-
+41 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | Simple | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/shuffle-the-array.cpp) | ✅ |
 
 
 
