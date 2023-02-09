@@ -33,8 +33,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 31 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/) | variable, overalaping, Longest Increasing Subsequence  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/best-team-with-no-conflicts.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Wriggle Subsequqnce](https://leetcode.com/problems/wriggle-subsequence/description/) | variable, overalaping,   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/wriggle-subsequence.cpp) | ✅ |
 33 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) | Greedy   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/best-sightseeing-pair.cpp) | ✅ |
-
-
+34 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Naming a Company](https://leetcode.com/problems/naming-a-company/description/) | Tabulation, Botto-mup   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/naming-a-company.cpp) | ✅ |
 
 
 
