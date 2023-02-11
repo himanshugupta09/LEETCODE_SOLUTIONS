@@ -3,5 +3,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 1 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | BFS, Dijkstra Algo, BellMan Ford | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/cheapest-flights-within-k-stops.cppp) | ✅ |
 2 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Closest Node to given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-closest-node-to-given-two-nodes.cpp) | ✅ |
 3 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [As Far From Land As Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/as-far-from-land-as-possible.cpp) | ✅ |
+4 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/shortest-path-with-alternating-colors.cpp) | ✅ |
+
 
 
