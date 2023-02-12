@@ -4,6 +4,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 2 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Closest Node to given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-closest-node-to-given-two-nodes.cpp) | ✅ |
 3 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [As Far From Land As Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/as-far-from-land-as-possible.cpp) | ✅ |
 4 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/shortest-path-with-alternating-colors.cpp) | ✅ |
+5 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/minimum-fuel-cost-to-report-to-the-capital.cpp) | ✅ |
+
+
+
 
 
 
