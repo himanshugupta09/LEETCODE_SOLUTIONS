@@ -8,7 +8,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 6 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Single Number ii](https://leetcode.com/problems/single-number-ii/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/single-number-ii.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/non-decreasing-subsequences.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/shuffle-the-array.cpp) | ✅ |
-
+9 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/sum-of-two-integers.cpp) | ✅ |
 
 
 
