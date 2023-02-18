@@ -25,6 +25,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Stack,Recursion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-tree-preorder-traversal.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Same Tree](https://leetcode.com/problems/same-tree/description/) |Recursion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/same-tree.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Recursion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/minimum-distance-between-bst-nodes.cpp) | ✅ |
+26 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |DFS + Iterative | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/invert-binary-tree.cpp) | ✅ |
+
 
 
 
