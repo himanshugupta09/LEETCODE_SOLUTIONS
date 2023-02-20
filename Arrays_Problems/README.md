@@ -44,6 +44,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 42 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/jump-game-ii.cpp) | ✅ |
 43 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/) | Simple | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-the-array-concatenation-value.cpp) | ✅ |
 44 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | Sorting , Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/count-the-number-of-fair-pairs.cpp) | ✅ |
+45 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/search-insert-position.cpp) | ✅ |
 
 
 
