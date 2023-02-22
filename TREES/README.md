@@ -27,7 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 25 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Recursion  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/minimum-distance-between-bst-nodes.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |DFS + Iterative | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/invert-binary-tree.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Zig-Zag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |BFS + Iterative | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-tree-zigzag-level-order-traversal.cpp) | ✅ |
-
+28 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |DFS+ Recusrsion | [Solution]() | ✅ |
 
 
 
