@@ -69,6 +69,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 66 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Smallest in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) | Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/kth-smalleest-in-bst.cpp) | ✅ |
 67 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Stckler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Dynammic Progrmamming | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sticler-thief.cpp) | ✅ |
 68 | ![](https://img.shields.io/badge/MISC-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [String Operation](https://practice.geeksforgeeks.org/contest/job-a-thon-16-hiring-challenge/problems/#) | String , HashMap, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/string-operations.cpp) | ✅ |
+69 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/95423710beef46bd66f8dbb48c510b2c320dab05/1) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/connect-nodes-at-same-level.cpp) | ✅ |
 
 
 
