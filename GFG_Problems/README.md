@@ -70,6 +70,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 67 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Stckler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Dynammic Progrmamming | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sticler-thief.cpp) | ✅ |
 68 | ![](https://img.shields.io/badge/MISC-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [String Operation](https://practice.geeksforgeeks.org/contest/job-a-thon-16-hiring-challenge/problems/#) | String , HashMap, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/string-operations.cpp) | ✅ |
 69 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/95423710beef46bd66f8dbb48c510b2c320dab05/1) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/connect-nodes-at-same-level.cpp) | ✅ |
+70 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unique Paths](https://practice.geeksforgeeks.org/problems/96161dfced02d544fc70c71d09b7a616fe726085/1) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unique-paths.cpp) | ✅ |
+
 
 
 
