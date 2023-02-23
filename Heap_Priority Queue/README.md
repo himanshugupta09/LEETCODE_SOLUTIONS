@@ -8,8 +8,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 6 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Prioirty , Min-Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-meadian-from-data-stream.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/remove-stones-to-minimize-the-total.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/single-threaded-cpu.cpp) | ✅ |
-
-
+9 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [IPO](https://leetcode.com/problems/ipo/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/ipo.cpp) | ✅ |
 
 
 
