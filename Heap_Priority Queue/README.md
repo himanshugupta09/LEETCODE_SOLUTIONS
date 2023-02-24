@@ -9,6 +9,13 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/remove-stones-to-minimize-the-total.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/single-threaded-cpu.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [IPO](https://leetcode.com/problems/ipo/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/ipo.cpp) | ✅ |
+10 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/minimize-deviation-in-array.cpp) | ✅ |
+
+
+
+
+
+
 
 
 
