@@ -71,7 +71,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 68 | ![](https://img.shields.io/badge/MISC-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [String Operation](https://practice.geeksforgeeks.org/contest/job-a-thon-16-hiring-challenge/problems/#) | String , HashMap, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/string-operations.cpp) | ✅ |
 69 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/95423710beef46bd66f8dbb48c510b2c320dab05/1) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/connect-nodes-at-same-level.cpp) | ✅ |
 70 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unique Paths](https://practice.geeksforgeeks.org/problems/96161dfced02d544fc70c71d09b7a616fe726085/1) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unique-paths.cpp) | ✅ |
-
+71 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Valid Compressed String](https://practice.geeksforgeeks.org/problems/13eb74f1c80bc67d526a69b8276f6cad1b8c3401/1) | String Matching | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/valid-compressed-string.cpp) | ✅ |
 
 
 
