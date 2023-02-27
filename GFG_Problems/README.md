@@ -73,6 +73,15 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 70 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unique Paths](https://practice.geeksforgeeks.org/problems/96161dfced02d544fc70c71d09b7a616fe726085/1) | Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unique-paths.cpp) | ✅ |
 71 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Valid Compressed String](https://practice.geeksforgeeks.org/problems/13eb74f1c80bc67d526a69b8276f6cad1b8c3401/1) | String Matching | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/valid-compressed-string.cpp) | ✅ |
 72 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Number of Good Components </POTD/>](https://practice.geeksforgeeks.org/problems/1a4b617b70f0142a5c2b454e6fbe1b9a69ce7861/1) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/number-of-good-components.cpp) | ✅ |
+73 | ![](https://img.shields.io/badge/Linked-List-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse Both Parts </POTD/>](https://practice.geeksforgeeks.org/problems/bae68b4d6a2a77fb6bd459cf7447240919ebfbf5/1) | Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reverse-both-parts.cpp) | ✅ |
+
+
+
+
+
+
+
+
 
 
 
