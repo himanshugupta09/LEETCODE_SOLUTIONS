@@ -35,7 +35,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 33 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |  String Matching, HashMap  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-all-anagrams-in-a-string.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/) |  Greedy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/remove-digit-from-number-to-maximize-result.cpp) | ✅ |
 35 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String Compression](https://leetcode.com/problems/string-compression/description/) |  Two Pointer Approach  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/string-compression.cpp) | ✅ |
-
+36 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |  Two Pointer, KMP Algo  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-the-index-of-the-first-occurence-in-a-string.cpp) | ✅ |
 
 
 
