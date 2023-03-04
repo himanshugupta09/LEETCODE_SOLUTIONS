@@ -47,7 +47,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 45 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/search-insert-position.cpp) | ✅ |
 46 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |  Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/single-element-in-a-sorted-array.cpp) | ✅ |
 47 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort An Array](https://leetcode.com/problems/sort-an-array/description/) |  Sorting, Heap Sort, Quick Sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/sort-an-array.cpp) | ✅ |
-
+48 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Subarrays with Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/) |  Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/count-subarrays-with-fixed-bounds.cpp) | ✅ |
 
 
 
