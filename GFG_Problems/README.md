@@ -75,7 +75,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 72 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Number of Good Components </POTD/>](https://practice.geeksforgeeks.org/problems/1a4b617b70f0142a5c2b454e6fbe1b9a69ce7861/1) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/number-of-good-components.cpp) | ✅ |
 73 | ![](https://img.shields.io/badge/Linked-List-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse Both Parts </POTD/>](https://practice.geeksforgeeks.org/problems/bae68b4d6a2a77fb6bd459cf7447240919ebfbf5/1) | Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reverse-both-parts.cpp) | ✅ |
 74 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Optimal Array </POTD/>](https://practice.geeksforgeeks.org/problems/d4aeef538e6dd3280dda5f8ed7964727fdc7075f/1) | Optimality | [Solution]() | ✅ |
-
+75 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Max Level Sum In Binary Tree </POTD/>](https://practice.geeksforgeeks.org/problems/4b7ff87c26ed23b3f63c25c611690213d44fb6aa/1) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/max-level-sum-in-binary-tree.cpp) | ✅ |
 
 
 
