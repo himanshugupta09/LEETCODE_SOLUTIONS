@@ -17,6 +17,19 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 16 | ![](https://img.shields.io/badge/Gasph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | BFS, Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/keys-and-rooms.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | DFS, Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/sum-of-distances-in-a-tree.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/find-closest-node-to-given-two-nodes.cpp) | ✅ |
+19 | ![](https://img.shields.io/badge/Binary--Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/minimum-time-to-complete-trips.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
