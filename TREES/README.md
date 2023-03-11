@@ -28,7 +28,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |DFS + Iterative | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/invert-binary-tree.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Zig-Zag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |BFS + Iterative | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-tree-zigzag-level-order-traversal.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |DFS+ Recusrsion | [Solution]() | ✅ |
-29 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subtree of Another Tree](https://leetcode.com/problems/find-duplicate-subtree/description/) |DFS+ Recusrsion + HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-duplicate-subtrees.cpp) | ✅ |
+29 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtree/description/) |DFS+ Recusrsion + HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-duplicate-subtrees.cpp) | ✅ |
+30 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Linked List, BST, Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/convert-sorted-list-to-binary-search-tree.cpp) | ✅ |
+
 
 
 
