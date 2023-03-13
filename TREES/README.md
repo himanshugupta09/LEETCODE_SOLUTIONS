@@ -30,6 +30,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 28 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |DFS+ Recusrsion | [Solution]() | ✅ |
 29 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtree/description/) |DFS+ Recusrsion + HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-duplicate-subtrees.cpp) | ✅ |
 30 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Linked List, BST, Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/convert-sorted-list-to-binary-search-tree.cpp) | ✅ |
+31 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Recursion , BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/symmetric-tree.cpp) | ✅ |
+
+
+
 
 
 
