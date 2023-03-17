@@ -78,7 +78,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 75 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Max Level Sum In Binary Tree </POTD/>](https://practice.geeksforgeeks.org/problems/4b7ff87c26ed23b3f63c25c611690213d44fb6aa/1) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/max-level-sum-in-binary-tree.cpp) | ✅ |
 76 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/print-all-nodes-that-dont-have-sibling.cpp) | ✅ |
 77 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Number of subarrays of 0's </POTD/>](https://practice.geeksforgeeks.org/problems/0960a833f70b09c59444ea487f99729929fc8910/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/number-of-subarrays-of-0's.cpp) | ✅ |
-
+78 | ![](https://img.shields.io/badge/DynammicProgramming-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count possible ways to construct buildings](https://practice.geeksforgeeks.org/problems/count-possible-ways-to-construct-buildings5007/1) | Tabulation, Fibbonaci Sequnces | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-possible-ways-to-construct-buildings.cpp) | ✅ |
 
 
 
