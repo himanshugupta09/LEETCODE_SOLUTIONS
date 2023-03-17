@@ -77,7 +77,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 74 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Optimal Array </POTD/>](https://practice.geeksforgeeks.org/problems/d4aeef538e6dd3280dda5f8ed7964727fdc7075f/1) | Optimality | [Solution]() | ✅ |
 75 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Max Level Sum In Binary Tree </POTD/>](https://practice.geeksforgeeks.org/problems/4b7ff87c26ed23b3f63c25c611690213d44fb6aa/1) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/max-level-sum-in-binary-tree.cpp) | ✅ |
 76 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/print-all-nodes-that-dont-have-sibling.cpp) | ✅ |
-
+77 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Number of subarrays of 0's <POTD/>](https://practice.geeksforgeeks.org/problems/0960a833f70b09c59444ea487f99729929fc8910/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/number-of-subarrays-of-0's.cpp) | ✅ |
 
 
 
