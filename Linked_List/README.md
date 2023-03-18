@@ -12,7 +12,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Two Pointers, Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/linked-list-cycle-ii.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/linked-list-random-node.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  Simulation, Proiority Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-k-sorted-lists.cpp) | ✅ |
-
+random-node/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/linked-list-random-node.cpp) | ✅ |
+12 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Design Browser History](https://leetcode.com/problems/design-browser-history/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/design-browser-history.cpp) | ✅ |
 
 
 
