@@ -37,8 +37,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 35 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String Compression](https://leetcode.com/problems/string-compression/description/) |  Two Pointer Approach  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/string-compression.cpp) | ✅ |
 36 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |  Two Pointer, KMP Algo  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-the-index-of-the-first-occurence-in-a-string.cpp) | ✅ |
 37 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/) |  Easy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/count-the-number-of-vowel-strings-in-range.cpp) | ✅ |
-
-
+38 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Even Odd Bits](https://leetcode.com/problems/number-of-even-odd-bits/description/) |  Easy  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/number-of-even-and-odd-bits.cpp) | ✅ |
 
 
 
