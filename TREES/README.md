@@ -36,6 +36,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 34 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | DFS, Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-tree-paths.cpp) | ✅ |
 35 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Construct Binary Tree from Inorder and Postorder Traversal ⭐⭐⭐](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |  Recursion + map| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/construct-binary-tree-from-inorder-and-postorder-traversal.cpp) | ✅ |
 36 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/trim-a-binary-search-tree.cpp) | ✅ |
+37 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Search Tree to Greater Sum Tree 🔥](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-search-tree-to-greater-sum-tree.cpp) | ✅ |
+
 
 
 
