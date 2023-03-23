@@ -6,6 +6,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 4 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/shortest-path-with-alternating-colors.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/minimum-fuel-cost-to-report-to-the-capital.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Score of a path Betwwen Two cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/minimum-score-of-a-path-between-two-cities.cpp) | ✅ |
+7 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Operations to make Network Connected](https://leetcode.com/number-of-operations-to-make-network-connected/) | DFS, Union Find| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/number-of-operations-to-make-network-connected.cpp) | ✅ |
 
 
 
