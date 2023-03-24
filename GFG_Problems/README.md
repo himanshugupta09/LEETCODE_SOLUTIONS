@@ -82,8 +82,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 79 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Taxi Booking </POTD/>](https://practice.geeksforgeeks.org/problems/7995e41d167d81f14f1d4194b29ef839f52d18ba/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/taxi-booking.cpp) | ✅ |
 80 | ![](https://img.shields.io/badge/BST-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [BST Maximum Difference </POTD/>](https://practice.geeksforgeeks.org/problems/e841e10213ddf839d51c2909f1808632a19ae0bf/1) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/BST-Maximum-Difference.cpp) | ✅ |
 81 | ![](https://img.shields.io/badge/BST-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Lowest Common Ancestor in BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/lowest-common-ancestor.cpp) | ✅ |
-
-
+82 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse and Remove </POTD/>](https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1) | Two Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Reverse-and-Remove.cpp) | ✅ |
 
 
 
