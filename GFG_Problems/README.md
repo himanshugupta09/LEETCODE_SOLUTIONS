@@ -84,7 +84,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 81 | ![](https://img.shields.io/badge/BST-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Lowest Common Ancestor in BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/lowest-common-ancestor.cpp) | ✅ |
 82 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse and Remove </POTD/>](https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1) | Two Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Reverse-and-Remove.cpp) | ✅ |
 83 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Frogs and Jumps </POTD/>](https://practice.geeksforgeeks.org/problems/5551749efa02ae36b6fdb3034a7810e84bd4c1a4/1) | Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/frogs-and-jumps.cpp) | ✅ |
-
+84 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Subarray with given Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category[]=Data%20Structures&sortBy=submissions) | Sliding Window, Prefix Sum| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/subarray-with-given-sum.cpp) | ✅ |
 
 
 
