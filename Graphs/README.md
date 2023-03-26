@@ -9,7 +9,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Operations to make Network Connected](https://leetcode.com/number-of-operations-to-make-network-connected/) | DFS, Union Find| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/number-of-operations-to-make-network-connected.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) | DFS BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) | DFS BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp) | ✅ |
-
+10 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Cycle In a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/longest-cycle-in-a-graph.cpp) | ✅ |
 
 
 
