@@ -35,7 +35,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 33 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) | Greedy   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/best-sightseeing-pair.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Naming a Company](https://leetcode.com/problems/naming-a-company/description/) | Tabulation, Botto-mup   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/naming-a-company.cpp) | ✅ |
 35 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Tabulation, Botto-mup   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/edit-distance.cpp) | ✅ |
-
+36 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | Tabulation, Botto-mup   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-path-sum.cpp) | ✅ |
 
 
 
