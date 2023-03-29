@@ -38,6 +38,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 36 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | Tabulation, Botto-mup   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-path-sum.cpp) | ✅ |
 37 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Paint House II](https://www.codingninjas.com/codestudio/problems/ninja-s-contract_1459321?leftPanelTab=0) | Tabulation, Botto-mup   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/paint-house-ii.py) | ✅ |
 38 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/distinct-subsequences-ii.cpp) | ✅ |
+39 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/reducing-dishes.cpp) | ✅ |
 
 
 
