@@ -40,6 +40,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 38 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/distinct-subsequences-ii.cpp) | ✅ |
 39 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/reducing-dishes.cpp) | ✅ |
 40 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Scramble string](https://leetcode.com/problems/scramble-string/description/) | Tabulation, Bottom-up , MCM   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/scramble-string.cpp) | ✅ |
+41 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Ways of cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) | Tabulation, Bottom-up , MCM   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/number-of-ways-of-cutting-a-pizza.cpp) | ✅ |
 
 
 
