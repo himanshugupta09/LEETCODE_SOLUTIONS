@@ -11,7 +11,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=array&logoColor=black) | [IPO](https://leetcode.com/problems/ipo/description/) | Prioirty , Max Heaps | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/ipo.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/minimize-deviation-in-array.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Largest Sum in Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-binary-tree/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/kth-largest-sum-in-a-binary-tree.cpp) | ✅ |
-
+12 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximal-score-after-applying-k-operations.cpp) | ✅ |
 
 
 
