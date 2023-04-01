@@ -89,6 +89,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 86 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Vertical Order Traversal in Binary Tree](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) | HashMap, BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/vertical-traversal-in-binary-tree.cpp) | ✅ |
 87 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Minimum Integer </POTD/>](https://practice.geeksforgeeks.org/problems/1ccf56f107bcb24242469ea45c02f852165a2184/1) | Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-integer.cpp) | ✅ |
 88 | ![](https://img.shields.io/badge/BST-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1?page=1&sortBy=submissions) |Recuraion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-for-bst.cpp) | ✅ |
+89 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [</POTD/> Make Array Elements Equal](https://practice.geeksforgeeks.org/problems/1f05c7c12b1084f270c57566b2110967c046730d/1) |Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/make-array-elements-equal.cpp) | ✅ |
 
 
 
