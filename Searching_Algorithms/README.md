@@ -19,7 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 18 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/find-closest-node-to-given-two-nodes.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Binary--Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/minimum-time-to-complete-trips.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/Binary--Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Koko Eating Bananans](https://leetcode.com/problems/koko-eating-bananas/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/koko-eating-bananas.cpp) | ✅ |
-
+21 | ![](https://img.shields.io/badge/Binary-Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Successful pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | Binary Search + Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/successful-pairs-of-spells-and-potions.cpp) | ✅ |
 
 
 
