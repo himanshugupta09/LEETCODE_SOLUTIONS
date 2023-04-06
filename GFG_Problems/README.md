@@ -91,7 +91,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 88 | ![](https://img.shields.io/badge/BST-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1?page=1&sortBy=submissions) |Recuraion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-for-bst.cpp) | ✅ |
 89 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [</POTD/> Make Array Elements Equal](https://practice.geeksforgeeks.org/problems/1f05c7c12b1084f270c57566b2110967c046730d/1) |Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/make-array-elements-equal.cpp) | ✅ |
 90 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Longest Common Prefix in an Array](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1?page=1&curated[]=1&sortBy=submissions) |string| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/longest-common-prefix-in-array.cpp) | ✅ |
-
+91 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Equal Left and Right Subarray Sum </POTD/>](https://practice.geeksforgeeks.org/problems/78a6854c8a2915e05f236aa407dfaa1bbc8ae7d3/1) |Prefix Sum| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/equal-left-and-right-subarray-sum.cpp) | ✅ |
 
 
 
