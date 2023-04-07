@@ -21,8 +21,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Binary--Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Koko Eating Bananans](https://leetcode.com/problems/koko-eating-bananas/description/) | Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/koko-eating-bananas.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Binary-Search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Successful pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | Binary Search + Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/successful-pairs-of-spells-and-potions.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | BFS, DFS, Queue| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/number-of-closed-islands.cpp) | ✅ |
-
-
+23 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | BFS, DFS, Queue| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/number-of-enclaves.cpp) | ✅ |
 
 
 
