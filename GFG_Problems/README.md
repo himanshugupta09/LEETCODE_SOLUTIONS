@@ -93,8 +93,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 90 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Longest Common Prefix in an Array](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1?page=1&curated[]=1&sortBy=submissions) |string| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/longest-common-prefix-in-array.cpp) | ✅ |
 91 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Equal Left and Right Subarray Sum </POTD/>](https://practice.geeksforgeeks.org/problems/78a6854c8a2915e05f236aa407dfaa1bbc8ae7d3/1) |Prefix Sum| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/equal-left-and-right-subarray-sum.cpp) | ✅ |
 92 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Add Minimum Characters </POTD/>](https://practice.geeksforgeeks.org/problems/55dbfdc246f3f62d6a7bcee7664cacf6be345527/1) |KMP Algo| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/add-minimum-characters.cpp) | ✅ |
-
-
+93 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Make the array Beautiful </POTD/>](https://practice.geeksforgeeks.org/problems/55dbfdc246f3f62d6a7bcee7664cacf6be345527/1) |Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/make-array-beautiful.cpp) | ✅ |
 
 
 
