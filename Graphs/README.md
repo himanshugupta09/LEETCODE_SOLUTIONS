@@ -11,6 +11,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) | DFS BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Cycle In a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/longest-cycle-in-a-graph.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/clone-graph.py) | ✅ |
+12 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Color in a Dierected Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | DFS, Topological Sort, DP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/largest-color-value-in-a-directed-graph.cpp) | ✅ |
 
 
 
