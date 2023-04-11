@@ -95,7 +95,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 92 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Add Minimum Characters </POTD/>](https://practice.geeksforgeeks.org/problems/55dbfdc246f3f62d6a7bcee7664cacf6be345527/1) |KMP Algo| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/add-minimum-characters.cpp) | ✅ |
 93 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Make the array Beautiful </POTD/>](https://practice.geeksforgeeks.org/problems/55dbfdc246f3f62d6a7bcee7664cacf6be345527/1) |Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/make-array-beautiful.cpp) | ✅ |
 94 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Maximum Intersecting Lines </POTD/>](https://practice.geeksforgeeks.org/problems/63c232252d445a377e01cd91adfd7d1060580038/1) |Map, sorting,| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-intersecting-lines.cpp) | ✅ |
-
+95 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Rod Cutting { GOOGLE }](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) |DP| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/rod-cutting.cpp) | ✅ |
 
 
 
