@@ -98,6 +98,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 95 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Rod Cutting { GOOGLE }](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) |DP| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/rod-cutting.cpp) | ✅ |
 96 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Maximum Length </POTD/>](https://practice.geeksforgeeks.org/problems/84963d7b5b84aa24f7807d86e672d0f97f41a4b5/1) |Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-length.cpp) | ✅ |
 97 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Dominant Pairs </POTD/>](https://practice.geeksforgeeks.org/problems/2a1c11024ceae36363fc405e07f2fa3e2f896ef0/1) |Sorting , Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/dominant-pairs.cpp) | ✅ |
+98 | ![](https://img.shields.io/badge/stack-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Remove the Balls </POTD/>](https://practice.geeksforgeeks.org/problems/546ea68f97be7283a04ddcc8057e09b46a686471/1) |Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/remove-the-balls.cpp) | ✅ |
 
 
 
