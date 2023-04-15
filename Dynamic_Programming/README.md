@@ -42,6 +42,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 40 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Scramble string](https://leetcode.com/problems/scramble-string/description/) | Tabulation, Bottom-up , MCM   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/scramble-string.cpp) | ✅ |
 41 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Ways of cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) | Tabulation, Bottom-up , MCM   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/number-of-ways-of-cutting-a-pizza.cpp) | ✅ |
 42 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | Tabulation, Bottom-up    | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-palindromic-subsequence.cpp) | ✅ |
+43 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/) | Tabulation, Bottom-up    | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-value-of-k-coins-from-piles.cpp) | ✅ |
 
 
 
