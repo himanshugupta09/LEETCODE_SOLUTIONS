@@ -53,6 +53,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 51 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |   Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/can-place-flowers.cpp) | ✅ |
 52 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) |  Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/number-of-zero-filled-subarrays.cpp) | ✅ |
 53 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Boats To Save People](https://leetcode.com/problems/boats-to-save-people/description/) |  Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/boats-to-save-people.cpp) | ✅ |
+54 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Row with Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/) | Simple | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/row-with-maximum-ones.cpp) | ✅ |
+
 
 
 
