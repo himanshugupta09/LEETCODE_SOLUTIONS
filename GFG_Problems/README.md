@@ -100,8 +100,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 97 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Dominant Pairs </POTD/>](https://practice.geeksforgeeks.org/problems/2a1c11024ceae36363fc405e07f2fa3e2f896ef0/1) |Sorting , Two Pointers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/dominant-pairs.cpp) | ✅ |
 98 | ![](https://img.shields.io/badge/stack-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Remove the Balls </POTD/>](https://practice.geeksforgeeks.org/problems/546ea68f97be7283a04ddcc8057e09b46a686471/1) |Stack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/remove-the-balls.cpp) | ✅ |
 99 | ![](https://img.shields.io/badge/HashSet-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Total Time Taken </POTD/>](https://practice.geeksforgeeks.org/problems/5ae4f296db3e6bb74641c4087d587b6f89d9d135/1) |Hash set| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-total-time-taken.cpp) | ✅ |
-
-
+99 | ![](https://img.shields.io/badge/arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unequal Arrays </POTD/>](https://practice.geeksforgeeks.org/problems/4db2fcd97400456c4914d5a3e8ad932cc21e3e9d/1) |Logical | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unequal-array.cpp) | ✅ |
 
 
 
