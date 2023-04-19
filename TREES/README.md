@@ -38,8 +38,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 36 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/trim-a-binary-search-tree.cpp) | ✅ |
 37 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Binary Search Tree to Greater Sum Tree 🔥](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/binary-search-tree-to-greater-sum-tree.cpp) | ✅ |
 38 | ![](https://img.shields.io/badge/N-arry-Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Depth of n ary Tree 🔥](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/maximum-depth0of-n-ary-tree.cpp) | ✅ |
-
-
+39 | ![](https://img.shields.io/badge/N-arry-Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest zigzag path in Binary Tree 🔥](https://leetcode.com/problems/longest-zig-zag-path-in-a-binnary-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/longest-zigzag-path-in-a-binary-tree.cpp) | ✅ |
 
 
 
