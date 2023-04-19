@@ -12,6 +12,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 10 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Cycle In a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/longest-cycle-in-a-graph.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/clone-graph.py) | ✅ |
 12 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Color in a Dierected Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | DFS, Topological Sort, DP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/largest-color-value-in-a-directed-graph.cpp) | ✅ |
+13 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | DFS, FBS ,Union | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/number-of-provinces.cpp) | ✅ |
 
 
 
