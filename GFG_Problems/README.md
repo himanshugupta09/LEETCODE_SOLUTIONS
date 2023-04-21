@@ -103,7 +103,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 99 | ![](https://img.shields.io/badge/arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unequal Arrays </POTD/>](https://practice.geeksforgeeks.org/problems/4db2fcd97400456c4914d5a3e8ad932cc21e3e9d/1) |Logical | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unequal-array.cpp) | ✅ |
 100 | ![](https://img.shields.io/badge/bst-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Minimum BST sum SubTree </POTD/>](https://practice.geeksforgeeks.org/problems/d064cc0468a5c2bb7817ecd7c1bc59ce25e23613/1) |BST | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-bst-sum-sumtree.cpp) | ✅ |
 101 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Wifi Range </POTD/>](https://practice.geeksforgeeks.org/problems/61567fb59e9f202db5cc2ad320ffeb6d95bf72d7/1) |Two Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/wifi-range.cpp) | ✅ |
-
+102 | ![](https://img.shields.io/badge/Trie-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Prefix Suffix String </POTD/>](https://practice.geeksforgeeks.org/problems/5be83263c7f2cb866c60b23b73bb38f88de2461c/1) | Trie | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/prefix-suffix-string.cpp) | ✅ |
 
 
 
