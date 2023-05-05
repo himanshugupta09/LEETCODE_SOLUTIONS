@@ -109,8 +109,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 105 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Array Subset of Another Array](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category[]=Arrays&curated[]=1&sortBy=submissions) |HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/array-subset-of-another-array.cpp) | ✅ |
 106 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Number </POTD/>](https://practice.geeksforgeeks.org/problems/35bff0ee40090b092e97b02f649085bf1390cc67/1) |Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-number.cpp) | ✅ |
 107 | ![](https://img.shields.io/badge/N-AryTee-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Subtree in N-ary tree </POTD/>](https://practice.geeksforgeeks.org/problems/079dee7e7db7a784ed73f604e3cf1712432edf79/1) |Tree Traversal , Recursion, Hashing | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/subtree-in-n-ary-tree.cpp) | ✅ |
-
-
+108 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Good Substrees </POTD/>](https://practice.geeksforgeeks.org/problems/df12afc57250e7f6fc101aa9c272343184fe9859/1) |Tree Traversal , Recursion,DFS, Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/good-subtrees.cpp) | ✅ |
 
 
 
