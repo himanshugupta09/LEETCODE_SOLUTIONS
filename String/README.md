@@ -41,6 +41,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 39 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) |  Easy, Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/removing-stars-from-a-string.cpp) | ✅ |
 40 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) |  Easy, Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/simplify-path.cpp) | ✅ |
 41 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/dota2-senate.cpp) | ✅ |
+42 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | Hashset  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | ✅ |
 
 
 
