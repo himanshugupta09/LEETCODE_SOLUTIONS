@@ -25,8 +25,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | HashMap,HashTable | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/merge-two-2d-arrays-by-summing-values.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/implement-trie-prefix-tree.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/minimum-consecutive-cards-to-pick-up.cpp) | ✅ |
-
-
+26 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/frequency-tracker.cpp) | ✅ |
 
 
 
