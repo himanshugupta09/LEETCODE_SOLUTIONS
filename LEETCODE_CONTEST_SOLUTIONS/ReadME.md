@@ -11,3 +11,7 @@ __2656. Maximum Sum with exactly K Elememts__
 
 __2657. Find The Common Prefix of Two Arrays__
 (https://leetcode.com/contest/biweekly-contest-103/problems/find-the-prefix-common-array-of-two-arrays/)
+
+
+__2670. Find the Distinct Difference Array__
+(https://leetcode.com/contest/weekly-contest-344/problems/find-the-distinct-difference-array/)
