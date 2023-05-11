@@ -45,8 +45,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 43 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/) | Tabulation, Bottom-up    | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-value-of-k-coins-from-piles.cpp) | ✅ |
 44 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Insertion Steps to make String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) | Tabulation, Bottom-up, Longest Palindromic Subsequence    | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-insertion-steps-to-make-a-string-palindrome.cpp) | ✅ |
 45 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Restore the Array](https://leetcode.com/problems/restore-the-array/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/restore-the-array.py) | ✅ |
-
-
+46 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/uncrossed-lines.cpp) | ✅ |
 
 
 
