@@ -46,8 +46,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 44 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Insertion Steps to make String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) | Tabulation, Bottom-up, Longest Palindromic Subsequence    | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-insertion-steps-to-make-a-string-palindrome.cpp) | ✅ |
 45 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Restore the Array](https://leetcode.com/problems/restore-the-array/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/restore-the-array.py) | ✅ |
 46 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/uncrossed-lines.cpp) | ✅ |
-
-
+47 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Solving Question With Brain Power](https://leetcode.com/problems/solving-question-with-brain-power/description/) | Tabulation, Bottom-up   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/solving-question-with-brain-power.cpp) | ✅ |
 
 
 
