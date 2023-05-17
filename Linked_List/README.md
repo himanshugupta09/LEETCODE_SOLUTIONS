@@ -14,8 +14,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 11 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  Simulation, Proiority Queue | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-k-sorted-lists.cpp) | ✅  
 12 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Design Browser History](https://leetcode.com/problems/design-browser-history/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/design-browser-history.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Swaping Nodes in a Linked List](https://leetcode.com/problems/swaping-nodes-in-a-linked-list/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/swaping-nodes-in-a-linked-list.cpp) | ✅ |
-
-
+14 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/maximum-twin-sum-of-a-linked-list.cpp) | ✅ |
 
 
 
