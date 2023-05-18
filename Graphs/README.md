@@ -14,8 +14,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 12 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Color in a Dierected Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | DFS, Topological Sort, DP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/largest-color-value-in-a-directed-graph.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | DFS, FBS ,Union | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/number-of-provinces.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) | DFS, BFS ,Union | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/similar-string-groups.cpp) | ✅ |
-
-
+15 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | Degree Count | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/minimum-number-of-vertices-to-reach-all-nodes.cpp) | ✅ |
 
 
 
