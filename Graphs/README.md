@@ -16,8 +16,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) | DFS, BFS ,Union | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/similar-string-groups.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | Degree Count | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/minimum-number-of-vertices-to-reach-all-nodes.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Is Graph Bipartite 🔥⭐⚡](https://leetcode.com/problems/is-graph-bipartite/description/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/is-graph-bipartite.cpp) | ✅ |
-
-
+17 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Bridge 🔥⭐⚡](https://leetcode.com/problems/shortest-bridge/description/) | BFS + DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/shortest-bridge.cpp) | ✅ |
 
 
 
