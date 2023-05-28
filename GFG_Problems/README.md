@@ -112,7 +112,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 108 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Good Substrees </POTD/>](https://practice.geeksforgeeks.org/problems/df12afc57250e7f6fc101aa9c272343184fe9859/1) |Tree Traversal , Recursion,DFS, Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/good-subtrees.cpp) | ✅ |
 109 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [String Mirror </POTD/>](https://practice.geeksforgeeks.org/problems/d385b9d635b7b10eef6bf365b84922aaeec9eb98/1) | String | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/string-mirror.py) | ✅ |
 110 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Bus Conductor </POTD/>](https://practice.geeksforgeeks.org/problems/c6ced401352fd126b89129cd562a9247f057e40e/1) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/bus-conductor.cpp) | ✅ |
-
+111 | ![](https://img.shields.io/badge/Linked-List-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Nth Node from End of Linked List </POTD/>](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/nth-node-from-end-of-linked-list.cpp) | ✅ |
 
 
 
