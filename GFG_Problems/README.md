@@ -116,7 +116,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 112 | ![](https://img.shields.io/badge/HashMapi-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Frequency Game **Google** </POTD/>](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Max with min count | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/frequency-game.cpp) | ✅ |
 113 | ![](https://img.shields.io/badge/Graph-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Topological Sort **Google** </POTD/>](https://practice.geeksforgeeks.org/problems/topological-sort/1) |DFS, Recusion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/topological-sort.cpp) | ✅ |
 114 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Maximum Equal sum of three Stacks </POTD/>](https://practice.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-maximum-equal-sum-of-three-stacks.cpp) | ✅ |
-
+115 | ![](https://img.shields.io/badge/strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reversing The Equation </POTD/>](https://practice.geeksforgeeks.org/problems/reversing-the-equation2205/1) | Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reversing-the-equation.cpp) | ✅ |
 
 
 
