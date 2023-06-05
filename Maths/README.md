@@ -5,8 +5,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 3 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add Digits](https://leetcode.com/problems/add-digits/) | Modulo | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/add-digits.cpp) | ✅ |
 4 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Bulbb Switcher](https://leetcode.com/problems/bulb-switcher/) | Square root | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/bulb-switcher.cpp) | ✅ |
 5 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/) | Average Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/average-salary-excluding-the-minimum-and-maximum-salary.cpp) | ✅ |
-6 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [eck If It Is a Straight Line
-](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Average Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/check-if-it-is-a-straight-line.cpp) | ✅ |
+6 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [eck If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Coordinate Geometry | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/check-if-it-is-a-straight-line.cpp) | ✅ |
 
 
 
