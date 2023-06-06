@@ -118,7 +118,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 114 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Maximum Equal sum of three Stacks </POTD/>](https://practice.geeksforgeeks.org/problems/find-maximum-equal-sum-of-three-stacks/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-maximum-equal-sum-of-three-stacks.cpp) | ✅ |
 115 | ![](https://img.shields.io/badge/strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reversing The Equation </POTD/>](https://practice.geeksforgeeks.org/problems/reversing-the-equation2205/1) | Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reversing-the-equation.cpp) | ✅ |
 116 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Closeset in BST </POTD/>](https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) | Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-closest-element-in-bst.cpp) | ✅ |
-
+117 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Predecessor and Successor </POTD/>](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1) | Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/predecessor-and-successor.cpp) | ✅ |
 
 
 
