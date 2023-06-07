@@ -9,7 +9,6 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/non-decreasing-subsequences.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/shuffle-the-array.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/sum-of-two-integers.cpp) | ✅ |
-
-
+10 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/minimum-flips-to-make-a-or-b-equal-to-c.cpp) | ✅ |
 
 
