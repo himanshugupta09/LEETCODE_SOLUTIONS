@@ -121,8 +121,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 117 | ![](https://img.shields.io/badge/Trees-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Predecessor and Successor </POTD/>](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1) | Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/predecessor-and-successor.cpp) | ✅ |
 118 | ![](https://img.shields.io/badge/maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Least Prime Factor </POTD/>](https://practice.geeksforgeeks.org/problems/least-prime-factor5216/1) | Sieve of Eratosthenes | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/least-prime-factors.cpp) | ✅ |
 119 | ![](https://img.shields.io/badge/sorting-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Arranging The Array </POTD/>](https://practice.geeksforgeeks.org/problems/arranging-the-array1131/1) | Sieve of Eratosthenes | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/arranging-the-array.cpp) | ✅ |
-
-
+120 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Add Ones </POTD/>](https://practice.geeksforgeeks.org/problems/adding-ones3628/1) | Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/adding-ones.cpp) | ✅ |
 
 
 
