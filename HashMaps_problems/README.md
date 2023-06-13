@@ -26,7 +26,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 24 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/implement-trie-prefix-tree.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/minimum-consecutive-cards-to-pick-up.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/frequency-tracker.cpp) | ✅ |
-
+27 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/equal-row-and-column-pairs.cpp) | ✅ |
 
 
 
