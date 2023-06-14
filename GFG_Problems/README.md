@@ -123,6 +123,19 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 119 | ![](https://img.shields.io/badge/sorting-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Arranging The Array </POTD/>](https://practice.geeksforgeeks.org/problems/arranging-the-array1131/1) | Sieve of Eratosthenes | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/arranging-the-array.cpp) | ✅ |
 120 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Add Ones </POTD/>](https://practice.geeksforgeeks.org/problems/adding-ones3628/1) | Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/adding-ones.cpp) | ✅ |
 121 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count Subarrays Having Product Less than K](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1) | Sliding Window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-subarray-having-product-less-than-k.cpp) | ✅ |
+122 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Maximum Diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds3340/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-diamonnds.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
