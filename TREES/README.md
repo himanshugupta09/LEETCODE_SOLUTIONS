@@ -40,6 +40,9 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 38 | ![](https://img.shields.io/badge/Narry-Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Depth of n ary Tree 🔥](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/maximum-depth0of-n-ary-tree.cpp) | ✅ |
 39 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest zigzag path in Binary Tree 🔥](https://leetcode.com/problems/longest-zig-zag-path-in-a-binnary-tree/description/) |  Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/longest-zigzag-path-in-a-binary-tree.cpp) | ✅ |
 40 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Width of binary Tree 🔥](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) |  Queue, BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/maximum-width-of-binary-tree.cpp) | ✅ |
+41 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Mimimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |  DFS, Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/minimum-absolute-difference-in-bst.cpp) | ✅ |
+
+
 
 
 
