@@ -125,8 +125,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 121 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count Subarrays Having Product Less than K](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1) | Sliding Window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-subarray-having-product-less-than-k.cpp) | ✅ |
 122 | ![](https://img.shields.io/badge/Heap-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Maximum Diamonds](https://practice.geeksforgeeks.org/problems/chinky-and-diamonds3340/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-diamonnds.cpp) | ✅ |
 123 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1) | Queue, Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/queue-opeartions.cpp) | ✅ |
-
-
+124 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Ticket Counter](https://practice.geeksforgeeks.org/problems/ticket-counter-2731/1) | Maths, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/ticket-counter.cpp) | ✅ |
 
 
 
