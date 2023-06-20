@@ -127,7 +127,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 123 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Queue Operations](https://practice.geeksforgeeks.org/problems/queue-operations/1) | Queue, Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/queue-opeartions.cpp) | ✅ |
 124 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Ticket Counter](https://practice.geeksforgeeks.org/problems/ticket-counter-2731/1) | Maths, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/ticket-counter.cpp) | ✅ |
 125 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Rearrange the array](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/rearrange-the-array.cpp) | ✅ |
-
+126 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [MatchSticks Game](https://practice.geeksforgeeks.org/problems/-matchsticks-game4906/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/matchsticks-game.cpp) | ✅ |
 
 
 
