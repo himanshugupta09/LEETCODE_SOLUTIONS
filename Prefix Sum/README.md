@@ -7,7 +7,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 5 | ![](https://img.shields.io/badge/Prefix-Sum-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/) | Prefix Sum , Binary Search , Greedy , Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Prefix%20Sum/minimize-maximum-of-array.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/Prefix-Sum-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find The Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | Prefix Sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Prefix%20Sum/find-the-highest-altitude.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Prefix-Sum-f0772b?style=for-the-badge&logo=array&logoColor=black) | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/) | Prefix Sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Prefix%20Sum/k-radius-subarray-averages.cpp) | ✅ |
-
+7 | ![](https://img.shields.io/badge/Prefix-Sum-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Cost to make array equal { Hard }](https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/) | Prefix Sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Prefix%20Sum/minimum-cost-to-make-array-equal.cpp) | ✅ |
 
 
 
