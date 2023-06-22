@@ -129,7 +129,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 125 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Rearrange the array](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/rearrange-the-array.cpp) | ✅ |
 126 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [MatchSticks Game](https://practice.geeksforgeeks.org/problems/-matchsticks-game4906/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/matchsticks-game.cpp) | ✅ |
 127 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse Coding](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | Maths, AP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reverse-coding.cpp) | ✅ |
-
+128 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Lemonade Change](https://practice.geeksforgeeks.org/problems/lemonade-change/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/lemonade-change.cpp) | ✅ |
 
 
 
