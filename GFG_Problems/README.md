@@ -1,4 +1,3 @@
-
 S.No. | Topic | Question Name | Logic Used | Solution | Status |
 ------|---------------|------------|-------|------|------|
 1 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | DP, Memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/Smallest%20window%20in%20a%20string%20containing%20all%20the%20characters%20of%20another%20string.py) | ✅ |
@@ -131,6 +130,20 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 127 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse Coding](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1) | Maths, AP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reverse-coding.cpp) | ✅ |
 128 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Lemonade Change](https://practice.geeksforgeeks.org/problems/lemonade-change/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/lemonade-change.cpp) | ✅ |
 129 | ![](https://img.shields.io/badge/HashMap-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Task Scheduler </POTD/>](https://practice.geeksforgeeks.org/problems/task-scheduler/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/task-scheduler.cpp) | ✅ |
+130 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Minimum Sum of Absolute Differences of Pairs](https://practice.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-sum-of-absolute-differences-of-pairs.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
