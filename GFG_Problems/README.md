@@ -131,7 +131,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 128 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Lemonade Change](https://practice.geeksforgeeks.org/problems/lemonade-change/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/lemonade-change.cpp) | ✅ |
 129 | ![](https://img.shields.io/badge/HashMap-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Task Scheduler </POTD/>](https://practice.geeksforgeeks.org/problems/task-scheduler/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/task-scheduler.cpp) | ✅ |
 130 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Minimum Sum of Absolute Differences of Pairs](https://practice.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-sum-of-absolute-differences-of-pairs.cpp) | ✅ |
-
+131 | ![](https://img.shields.io/badge/HashSet-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unique Rows in Boolean Matrix </POTD/>](https://practice.geeksforgeeks.org/problems/munique-rows-in-boolean-matrix/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unique-rows-in-boolean-matrix.cpp) | ✅ |
 
 
 
