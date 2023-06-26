@@ -17,7 +17,8 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 15 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Prioirty , Max Heaps, Greedy, Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/top-k-frequent-words.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/kth-largest-element-in-a-stream.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Subsequqnce Score](https://leetcode.com/problems/maximum-subsequence-score/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximum-subsequence-score.cpp) | ✅ |
-
+18 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Total Cost to Hire K Workers
+](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/) | Prioirty , Min Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/total-cost-to-hire-k-workers.cpp) | ✅ |
 
 
 
