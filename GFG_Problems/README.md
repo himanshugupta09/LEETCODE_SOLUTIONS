@@ -133,7 +133,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 130 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Minimum Sum of Absolute Differences of Pairs](https://practice.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/minimum-sum-of-absolute-differences-of-pairs.cpp) | ✅ |
 131 | ![](https://img.shields.io/badge/HashSet-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Unique Rows in Boolean Matrix </POTD/>](https://practice.geeksforgeeks.org/problems/munique-rows-in-boolean-matrix/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/unique-rows-in-boolean-matrix.cpp) | ✅ |
 132 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Maximum Depth of a Binary Tree </POTD/>](https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) | Recursion, DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-depth-of-binary-tree.cpp) | ✅ |
-
+133 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Next Happy Number </POTD/>](https://practice.geeksforgeeks.org/problems/next-happy-number/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/next-happ-number.cpp) | ✅ |
 
 
 
