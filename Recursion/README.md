@@ -16,6 +16,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/)| Recusrion , DFS, Hash Map| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/longest-path-with-different-adjacent-characters.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)| Recusrion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/construct-quad-tree.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rat in Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/rat-in-maze.cpp) | ✅ |
+17 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/fair-distribution-of-cookies.cpp) | ✅ |
 
 
 
