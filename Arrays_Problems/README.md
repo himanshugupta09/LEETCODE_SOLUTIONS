@@ -57,7 +57,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 55 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kids with Greatest Number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) | Simple | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/kids-with-the-greatest-number-of-candies.cpp) | ✅ |
 56 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Subsequences that satisfy the given sum condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) | Two Pointers, Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/number-of-subsequences-that-satisfy-the-given-sum-condition.cpp) | ✅ |
 57 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | Iteration | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/summary-ranges.cpp) | ✅ |
-
+58 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/) | Iteration, Two Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/longest-even-odd-subarray-with-threshold.cpp) | ✅ |
 
 
 
