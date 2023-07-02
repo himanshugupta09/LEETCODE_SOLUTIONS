@@ -17,7 +17,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 15 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)| Recusrion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/construct-quad-tree.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rat in Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/rat-in-maze.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/fair-distribution-of-cookies.cpp) | ✅ |
-
+18 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Number of Achievable Transfer Requests⭐🔥](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/maximum-number-of-achievable-transfer-requests.cpp) | ✅ |
 
 
 
