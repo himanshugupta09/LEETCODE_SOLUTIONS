@@ -43,6 +43,25 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 41 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/dota2-senate.cpp) | ✅ |
 42 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | Hashset  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/maximum-number-of-vowels-in-a-substring-of-given-length.cpp) | ✅ |
 43 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/) | Hashset  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-maximum-number-of-string-pairs.cpp) | ✅ |
+44 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Construct the Longest New String
+](https://leetcode.com/problems/construct-the-longest-new-string/description/) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/construct-the-longest-new-string.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
