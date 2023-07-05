@@ -135,7 +135,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 132 | ![](https://img.shields.io/badge/Binary-Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Maximum Depth of a Binary Tree </POTD/>](https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) | Recursion, DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/maximum-depth-of-binary-tree.cpp) | ✅ |
 133 | ![](https://img.shields.io/badge/Recursion-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Next Happy Number </POTD/>](https://practice.geeksforgeeks.org/problems/next-happy-number/1) | Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/next-happ-number.cpp) | ✅ |
 134 | ![](https://img.shields.io/badge/BITS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Is the Binary Number Multiple of 3 </POTD/>](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1) | Maths, Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/is-binary-number-multiple-of-three.cpp) | ✅ |
-
+135 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Stock Buy and Sell III </POTD/>](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | DP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/stock-buy-and-sell-iii.cpp) | ✅ |
 
 
 
