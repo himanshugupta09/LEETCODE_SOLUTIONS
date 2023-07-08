@@ -137,7 +137,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 134 | ![](https://img.shields.io/badge/BITS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Is the Binary Number Multiple of 3 </POTD/>](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1) | Maths, Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/is-binary-number-multiple-of-three.cpp) | ✅ |
 135 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Stock Buy and Sell III </POTD/>](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | DP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/stock-buy-and-sell-iii.cpp) | ✅ |
 136 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Merge Two Sorted arrays </POTD/> 🔥 Microsoft](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/merge-two-sorted-arrays.cpp) | ✅ |
-
+137 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Triplet With Sum 0 </POTD/> 🔥 Google](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) |Sorting + Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-triplets-with-zero-sum.cpp) | ✅ |
 
 
 
