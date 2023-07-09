@@ -138,7 +138,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 135 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Stock Buy and Sell III </POTD/>](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | DP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/stock-buy-and-sell-iii.cpp) | ✅ |
 136 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Merge Two Sorted arrays </POTD/> 🔥 Microsoft](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/merge-two-sorted-arrays.cpp) | ✅ |
 137 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Triplet With Sum 0 </POTD/> 🔥 Google](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) |Sorting + Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-triplets-with-zero-sum.cpp) | ✅ |
-
+138 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Smallest Positive Missing Number </POTD/> 🔥 Amazon](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1) |Searching | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/smallest-positive-missing-number.cpp) | ✅ |
 
 
 
