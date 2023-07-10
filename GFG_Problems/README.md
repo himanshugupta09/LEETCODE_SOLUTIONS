@@ -139,6 +139,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 136 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Merge Two Sorted arrays </POTD/> 🔥 Microsoft](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/merge-two-sorted-arrays.cpp) | ✅ |
 137 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Triplet With Sum 0 </POTD/> 🔥 Google](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) |Sorting + Two Pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-triplets-with-zero-sum.cpp) | ✅ |
 138 | ![](https://img.shields.io/badge/Arrays-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Smallest Positive Missing Number </POTD/> 🔥 Amazon](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1) |Searching | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/smallest-positive-missing-number.cpp) | ✅ |
+139 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Transpose Matrix </POTD/> 🔥 InfoEdge](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) |Swaping | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/transpose-of-matrix.cpp) | ✅ |
 
 
 
