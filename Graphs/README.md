@@ -18,6 +18,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 16 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Is Graph Bipartite 🔥⭐⚡](https://leetcode.com/problems/is-graph-bipartite/description/) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/is-graph-bipartite.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Bridge 🔥⭐⚡](https://leetcode.com/problems/shortest-bridge/description/) | BFS + DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/shortest-bridge.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Detonate Maximum Bombs 🔥⭐⚡](https://leetcode.com/problems/detonate-maximum-bombs/description/) | BFS , DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/detonate-maximum-bombs.cpp) | ✅ |
+19 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Eventual Safe States 🔥⭐⚡](https://leetcode.com/problems/find-eventual-safe-nodes/description/) | BFS , DFS , Kahns Algorithm | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-eventual-safe-states.cpp) | ✅ |
 
 
 
