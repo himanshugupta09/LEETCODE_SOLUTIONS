@@ -19,7 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/DFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Same Tree](https://leetcode.com/problems/same-tree/description/) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/same-tree-iter.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/QUEUE-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/) |  BFS + Hash map  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/jump-game-iv.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Validate Stack](https://leetcode.com/problems/validate-stack/description/) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/validate-stack.cpp) | ✅ |
-
+20 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Two Stacks in an Array🔥🔥](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-two-stacks-in-an-array.cpp) | ✅ |
 
 
 
