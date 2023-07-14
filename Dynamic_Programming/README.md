@@ -51,7 +51,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 49 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | Tabulation, Bottom-up, Maths, Sliding Window   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/new-21-game.cpp) | ✅ |
 50 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Stone Game III🔥](https://leetcode.com/problems/stone-game-iii/description/) | Tabulation, Bottom-up, Maths, Game Theory   | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/stone-game-iii.cpp) | ✅ |
 51 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | Bottom-up, Sliding Window  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-subarray-of-1s-after-deleting-one-element.cpp) | ✅ |
-
+52 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Arithemetic Subsequenceof Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/) | Bottom-up  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-arithmetic-subsequence-of-given-difference.cpp) | ✅ |
 
 
 
