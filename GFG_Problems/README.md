@@ -142,7 +142,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 139 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Transpose Matrix </POTD/> 🔥 InfoEdge](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) |Swaping | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/transpose-of-matrix.cpp) | ✅ |
 140 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Find Kth Element in Spiral Matrix </POTD/> 🔥 Amazon](https://practice.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/1) |Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/find-nth-element-of-spiral-matrix.cpp) | ✅ |
 141 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Power Of Numbers </POTD/> 🔥 Walmart](https://practice.geeksforgeeks.org/problems/poewr-of-numbers/1) |Maths, Binary Exponentiation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/power-of-numbers.py) | ✅ |
-
+142 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Delete Middle Element of Stack </POTD/>](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/delete-middle-element-of-stack.cpp) | ✅ |
 
 
 
