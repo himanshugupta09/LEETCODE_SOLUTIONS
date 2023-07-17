@@ -144,7 +144,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 141 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Power Of Numbers </POTD/> 🔥 Walmart](https://practice.geeksforgeeks.org/problems/poewr-of-numbers/1) |Maths, Binary Exponentiation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/power-of-numbers.py) | ✅ |
 142 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Delete Middle Element of Stack </POTD/>](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) |Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/delete-middle-element-of-stack.cpp) | ✅ |
 143 | ![](https://img.shields.io/badge/queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Queue Reversal🔥🔥 </POTD/> Amazon](https://practice.geeksforgeeks.org/problems/queue-reversal/1) |Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/queue-reversal.cpp) | ✅ |
-
+144 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [First Non Repeating character in a stream🔥🔥 </POTD/> Microsoft](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) |Queue + Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/first-non-repeating-character-in-a-stream1216.cpp) | ✅ |
 
 
 
