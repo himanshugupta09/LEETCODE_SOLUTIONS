@@ -17,6 +17,17 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/maximum-twin-sum-of-a-linked-list.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Intersection of two Sorted Linked List](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1) |  Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/intersection-of-two-sortd-linked-list.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add Two Number II](https://leetcode.com/problems/add-two-numbers-ii/description/) |  Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/add-two-numbers-ii.cpp) | ✅ |
+17 | ![](https://img.shields.io/badge/DLL-f0772b?style=for-the-badge&logo=array&logoColor=black) | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |  Hashing + DLL + LRU | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/lru-cache.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
 
 
 
