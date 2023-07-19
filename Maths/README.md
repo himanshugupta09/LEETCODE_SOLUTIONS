@@ -8,4 +8,16 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 6 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Coordinate Geometry | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/check-if-it-is-a-straight-line.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | AP | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/can-make-arithmetic-progression-from-sequence.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/Binary-search-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Negative Number in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | comperator | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/count-negative-numbers-in-a-sorted-matrix.cpp) | ✅ |
+9 | ![](https://img.shields.io/badge/Greedy-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | comperator + Sorting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/non-overlapping-intervals.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
 
