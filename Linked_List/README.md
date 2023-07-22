@@ -19,7 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 16 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add Two Number II](https://leetcode.com/problems/add-two-numbers-ii/description/) |  Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/add-two-numbers-ii.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/DLL-f0772b?style=for-the-badge&logo=array&logoColor=black) | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |  Hashing + DLL + LRU | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/lru-cache.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/DLL-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Revers a LinkedList in group of K](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/revers-a-linked-list-in-group-of-k.cpp) | ✅ |
-
+19 | ![](https://img.shields.io/badge/DLL-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove duplicate from unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/remove-duplicate-from-a-unsorted-list.cpp) | ✅ |
 
 
 
