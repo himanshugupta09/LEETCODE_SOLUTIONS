@@ -44,7 +44,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 42 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum level sum of Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) |  DFS, BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/maximum-level-sum-of-a-binary-tree.cpp) | ✅ |
 43 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |  DFS, BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/min-depth-of-binary-tree.cpp) | ✅ |
 44 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Right View of a Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) |  DFS, BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/right-view-of-binary-tree.cpp) | ✅ |
-
+45 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Level ordere Traveral in Spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) |  BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/level-order-traversal-in-spiral-form.cpp) | ✅ |
 
 
 
