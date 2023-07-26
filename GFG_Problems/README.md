@@ -146,7 +146,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 143 | ![](https://img.shields.io/badge/queue-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Queue Reversal🔥🔥 </POTD/> Amazon](https://practice.geeksforgeeks.org/problems/queue-reversal/1) |Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/queue-reversal.cpp) | ✅ |
 144 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [First Non Repeating character in a stream🔥🔥 </POTD/> Microsoft](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) |Queue + Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/first-non-repeating-character-in-a-stream1216.cpp) | ✅ |
 145 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Non Repeating Character🔥🔥 </POTD/> Microsoft](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | Map | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/non-repeating-character.cpp) | ✅ |
-
+146 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Kth Ancestor in a Tree </POTD/> ](https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) | Map, Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/kth-ancestor-in-a-tree.cpp) | ✅ |
 
 
 
