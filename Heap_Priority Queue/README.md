@@ -19,6 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Subsequqnce Score](https://leetcode.com/problems/maximum-subsequence-score/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximum-subsequence-score.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/) | Prioirty , Min Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/total-cost-to-hire-k-workers.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find K Pairs with smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | Prioirty , Min Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-k-pairs-with-smallest-sums.cpp) | ✅ |
+20 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Heap Sort  {Microsoft}](https://practice.geeksforgeeks.org/problems/heap-sort/1) | Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/heap-sort.cpp) | ✅ |
 
 
 
