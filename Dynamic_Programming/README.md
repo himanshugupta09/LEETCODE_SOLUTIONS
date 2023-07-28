@@ -55,7 +55,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 53 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Repeated Subsequence Google </POTD/>](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) | Bottom-up  + LCS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-repeated-subsequence.cpp) | ✅ |
 54 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Palindromic Subsequence oogle </POTD/>](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence1612327878/1) | Bottom-up  + LCS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-plaindromic-subsequence.cpp) | ✅ |
 55 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [All Possible Full Binary Tree </POTD/>](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | Recusrion + Memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/all-possible-full-binary-trees.cpp) | ✅ |
-
+56 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Predict The Winner </POTD/>](https://leetcode.com/problems/predict-the-winner/description/) | Recusrion + Memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/predict-the-winnner.cpp) | ✅ |
 
 
 
