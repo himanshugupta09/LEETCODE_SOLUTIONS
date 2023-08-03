@@ -20,7 +20,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 18 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Number of Achievable Transfer Requests⭐🔥](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/maximum-number-of-achievable-transfer-requests.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Combinations ](https://leetcode.com/problems/combinations/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/combinations.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Permutations ](https://leetcode.com/problems/permutations/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/permutations.cpp) | ✅ |
-
+21 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Letter Combinations of a Number ](https://leetcode.com/problems/letter-combinations-of-a-number/description/)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/letter-combinations-of-a-phone-number.cpp) | ✅ |
 
 
 
