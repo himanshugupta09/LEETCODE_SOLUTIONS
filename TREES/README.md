@@ -46,6 +46,16 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 44 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Right View of a Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) |  DFS, BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/right-view-of-binary-tree.cpp) | ✅ |
 45 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Level ordere Traveral in Spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) |  BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/level-order-traversal-in-spiral-form.cpp) | ✅ |
 46 | ![](https://img.shields.io/badge/Tree+DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Binary Search Trees ](https://leetcode.com/problems/unique-binary-search-trees/description/) | Recursion, Top Down, Tabulation, Catlan Numbers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/unique-binary-search-trees.cpp) | ✅ |
+47 | ![](https://img.shields.io/badge/Tree+DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Leaf Nodes](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/sum-of-leaf-nodes.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
 
 
 
