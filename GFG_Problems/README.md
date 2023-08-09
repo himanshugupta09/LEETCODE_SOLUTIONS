@@ -149,7 +149,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 146 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Kth Ancestor in a Tree </POTD/> ](https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) | Map, Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/kth-ancestor-in-a-tree.cpp) | ✅ |
 147 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Median in a BST </POTD/> Amazon](https://practice.geeksforgeeks.org/problems/median-of-bst/1) | Recursion, Inorder Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/median-of-bst.cpp) | ✅ |
 148 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Inorder Successor in BST </POTD/> Microsoft](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1) | Recursion, Inorder Traversal | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/is-binary-number-multiple-of-three.cpp) | ✅ |
-
+149 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Longest Common Subsequence Microsoft](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Tabulation, String Matching | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/longest-common-subsequence.cpp) | ✅ |
 
 
 
