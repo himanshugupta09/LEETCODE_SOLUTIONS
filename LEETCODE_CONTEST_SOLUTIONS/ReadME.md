@@ -15,3 +15,6 @@ __2657. Find The Common Prefix of Two Arrays__
 
 __2670. Find the Distinct Difference Array__
 (https://leetcode.com/contest/weekly-contest-344/problems/find-the-distinct-difference-array/)
+
+__2799. Count Complete Subarrays in Array__
+(https://leetcode.com/contest/weekly-contest-356/problems/count-complete-subarrays-in-an-array/)
