@@ -27,7 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/find-smallest-letter-greater-than-target.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/search-a-2d-matrix.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Search in rotated array](https://leetcode.com/problems/search-in-sorted-rotated-array/description/) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/searc-in-rotated-sorted-array.cpp) | ✅ |
-
+29 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Search in rotated array II](https://leetcode.com/problems/search-in-sorted-rotated-array-ii/description/) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/search-in-rotated-sorted-array-ii.cpp) | ✅ |
 
 
 
