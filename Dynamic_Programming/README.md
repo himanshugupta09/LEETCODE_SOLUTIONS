@@ -58,7 +58,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 56 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Predict The Winner </POTD/>](https://leetcode.com/problems/predict-the-winner/description/) | Recusrion + Memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/predict-the-winnner.cpp) | ✅ |
 57 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Strange Printer { GOOGLE }](https://leetcode.com/problems/strange-printer/description/) | Recusrion + Memoization, MCM| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/strange-printer.cpp) | ✅ |
 58 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Paths ](https://leetcode.com/problems/unique-paths/description/) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/unique-paths.cpp) | ✅ |
-
+59 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Coin Change { Amazon }](https://practice.geeksforgeeks.org/problems/coin-change2448/1) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/coin-change.cpp) | ✅ |
 
 
 
