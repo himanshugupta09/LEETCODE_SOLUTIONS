@@ -61,7 +61,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 59 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Coin Change { Amazon }](https://practice.geeksforgeeks.org/problems/coin-change2448/1) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/coin-change.cpp) | ✅ |
 60 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Coin Change II { Amazon }](https://leetcode.com/problems/coin-change-ii/description/) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/coin-change-ii.cpp) | ✅ |
 61 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Increasing Subsequence { Amazon }](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-increasing-subsequence.cpp) | ✅ |
-62 ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Paths II{ Amazon }](https://leetcode.com/problems/unique-paths-ii/description/) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/unique-patths-ii.cpp) | ✅ |
+62 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Paths II{ Amazon }](https://leetcode.com/problems/unique-paths-ii/description/) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/unique-patths-ii.cpp) | ✅ |
 
 
 
