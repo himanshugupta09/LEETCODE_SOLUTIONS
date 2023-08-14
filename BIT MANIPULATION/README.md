@@ -11,7 +11,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/sum-of-two-integers.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bits knowledge | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/minimum-flips-to-make-a-or-b-equal-to-c.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Copy Set bits in range](https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range0623/1) | Bit Masking | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/copy-set-bits-in-range.cpp) | ✅ |
-
+12 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non repeating Numbers { Microsoft }](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1) | Bit Magic | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/non-repeating-numbers.cpp) | ✅ |
 
 
 
