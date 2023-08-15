@@ -65,7 +65,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 63 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Choclate Distribution Problem </POTD/>](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/choclate-distribution-problem.cpp) | ✅ |
 64 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check if array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) |Hashmap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/check-if-array-is-good.cpp) | ✅ |
 65 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Move Zeros](https://leetcode.com/problems/move-zeros/description/) |Twwo Pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/move-zeros.cpp) | ✅ |
-
+66 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Flip bits {Amazon}](https://practice.geeksforgeeks.org/problems/flip-bits0240/1) |Kadane's Algorithm | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/flip-bits.cpp) | ✅ |
 
 
 
