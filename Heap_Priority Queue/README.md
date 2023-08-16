@@ -21,7 +21,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 19 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find K Pairs with smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | Prioirty , Min Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/find-k-pairs-with-smallest-sums.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Heap Sort  {Microsoft}](https://practice.geeksforgeeks.org/problems/heap-sort/1) | Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/heap-sort.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Largest Element in an Array  {Microsoft}](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/kth-largest-element-in-an-array.cpp) | ✅ |
-
+22 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Sliding Window Maximum  {Microsoft}](https://leetcode.com/problems/sliding-window-maximum/description/) | Sliding Window + Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/sliding-window-maximum.cpp) | ✅ |
 
 
 
