@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Course Schedule 🔥⭐⚡](https://leetcode.com/problems/course-schedule/description/) | BFS , DFS , Topological Sort Algorithm | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/course-schedule.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [BFS of a Graph </POTD/>](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/bfs-of-a-graph.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [DFS of a Graph </POTD/>](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/dfs-of-a-graph.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/01-matrix.cpp) | ✅ |
 
 
 
