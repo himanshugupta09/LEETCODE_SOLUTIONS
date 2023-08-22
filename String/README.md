@@ -45,7 +45,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 43 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/) | Hashset  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-maximum-number-of-string-pairs.cpp) | ✅ |
 44 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/description/) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/construct-the-longest-new-string.cpp) | ✅ |
 45 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Repeated Substring Problem](https://leetcode.com/problems/repeated-substring-problem/description/) | String Matching  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/repeated-substring-problem.py) | ✅ |
-
+46 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Excel sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | String  + Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/excel-sheet-column-title.cpp) | ✅ |
 
 
 
