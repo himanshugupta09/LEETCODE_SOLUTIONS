@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Heap Sort  {Microsoft}](https://practice.geeksforgeeks.org/problems/heap-sort/1) | Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/heap-sort.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Largest Element in an Array  {Microsoft}](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/kth-largest-element-in-an-array.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Sliding Window Maximum  {Microsoft}](https://leetcode.com/problems/sliding-window-maximum/description/) | Sliding Window + Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/sliding-window-maximum.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Reoganize String {Amazon}](https://leetcode.com/problems/reorganize-string/description/) | String Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/reorganize-string.cpp) | ✅ |
 
 
 
