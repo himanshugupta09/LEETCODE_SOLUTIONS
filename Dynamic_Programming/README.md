@@ -63,7 +63,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 61 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Increasing Subsequence { Amazon }](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-increasing-subsequence.cpp) | ✅ |
 62 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Paths II{ Amazon }](https://leetcode.com/problems/unique-paths-ii/description/) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/unique-patths-ii.cpp) | ✅ |
 63 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [MMaximum length of Pair Chain{ Amazon }](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | Geedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-length-of-pair-chain.cpp) | ✅ |
-
+64 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Frog Jump { Amazon }](https://leetcode.com/problems/frog-jump/description/) |Top Down  + Memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/frog-jump.cpp) | ✅ |
 
 
 
