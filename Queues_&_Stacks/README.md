@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Two Stacks in an Array🔥🔥](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-two-stacks-in-an-array.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Asteroid Collision🔥🔥](https://leetcode.com/problems/asteroid-collision/description/) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/asteroid-collision.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reversing a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/reversing-a-stack.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-stack-using-queues.cpp) | ✅ |
 
 
 
