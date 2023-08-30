@@ -64,7 +64,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 62 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Paths II{ Amazon }](https://leetcode.com/problems/unique-paths-ii/description/) | Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/unique-patths-ii.cpp) | ✅ |
 63 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [MMaximum length of Pair Chain{ Amazon }](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | Geedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-length-of-pair-chain.cpp) | ✅ |
 64 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Frog Jump { Amazon }](https://leetcode.com/problems/frog-jump/description/) |Top Down  + Memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/frog-jump.cpp) | ✅ |
-
+65 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Common Substring { Amazon }](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) |Longest Common Subsequence| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-common-substring.cpp) | ✅ |
 
 
 
