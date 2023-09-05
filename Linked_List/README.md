@@ -24,7 +24,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 21 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Partition List](https://leetcode.com/problems/partition-list/description/) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/partition-list.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete Nodes having greater values on right ](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/delete-nodes-having-greater-value-on-right.cpp) | ✅ |
 23 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete a Node in s single Linked List </POTD/>](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/delete-node-in-a-linked-list.cpp) | ✅ |
-
+24 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=daily-question&envId=2023-09-05) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/copy-list-with-random-pointer.py) | ✅ |
 
 
 
