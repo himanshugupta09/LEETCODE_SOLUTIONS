@@ -47,6 +47,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 45 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Level ordere Traveral in Spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) |  BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/level-order-traversal-in-spiral-form.cpp) | ✅ |
 46 | ![](https://img.shields.io/badge/Tree+DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Unique Binary Search Trees ](https://leetcode.com/problems/unique-binary-search-trees/description/) | Recursion, Top Down, Tabulation, Catlan Numbers| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/unique-binary-search-trees.cpp) | ✅ |
 47 | ![](https://img.shields.io/badge/Tree+DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Leaf Nodes](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/sum-of-leaf-nodes.cpp) | ✅ |
+48 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Largest Element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/kth-largest-elemement-in-bst.cpp) | ✅ |
 
 
 
