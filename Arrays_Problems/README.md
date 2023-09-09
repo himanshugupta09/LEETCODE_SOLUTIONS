@@ -68,7 +68,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 66 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Flip bits {Amazon}](https://practice.geeksforgeeks.org/problems/flip-bits0240/1) |Kadane's Algorithm | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/flip-bits.cpp) | ✅ |
 67 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subarray with given sum {Amazon}](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |Two pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/subarray-with-given-sum.cpp) | ✅ |
 68 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Taps to open to water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) |Two pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-taps-to-open-to-water-a-garden.cpp) | ✅ |
-
+69 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Move all zeros to end of array](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1?page=1&company[]=Linkedin&sortBy=submissions) |Two pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/move-all-zeros-to-end-of-array.cpp) | ✅ |
 
 
 
