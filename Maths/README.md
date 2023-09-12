@@ -11,7 +11,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 9 | ![](https://img.shields.io/badge/Greedy-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | comperator + Sorting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/non-overlapping-intervals.cpp) | ✅ |
 10 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Prime Factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1) | Prime factorization  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/largest-prime-factor.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | Random Number Generation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/shuffle-an-array.cpp) | ✅ |
-
+12 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Perfect Number](https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1) | Observation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/perfect-numbers.cpp) | ✅ |
 
 
 
