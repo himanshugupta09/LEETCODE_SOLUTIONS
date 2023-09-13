@@ -153,6 +153,21 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 150 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Nth Fibbonacci Number Microsoft](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Tabulation, Fibbonacci | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/nth-fibbonacci-number.cpp) | ✅ |
 151 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Palindrome String { Cisco + 9 }](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | Simulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/palindrome-string.cpp) | ✅ |
 152 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Remove Duplicate elements from Sorted Linked List{Microsoft }](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | Simulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/remove-duplicate-elements-from-sorted-linked-list.cpp) | ✅ |
+153 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Largest Number Possible](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/largest-number-possible.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
