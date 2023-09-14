@@ -67,7 +67,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 65 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Common Substring { Amazon }](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) |Longest Common Subsequence| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-common-substring.cpp) | ✅ |
 66 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Bits](https://leetcode.com/problems/counting-bits/description/?envType=daily-question&envId=2023-09-01) |Bit Manipulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/count-bits.cpp) | ✅ |
 67 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count all Valid pickup and delivery options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/?envType=daily-question&envId=2023-09-10) |Combinations , memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/count-all-valid-pickup-and-delivery-options.cpp) | ✅ |
-
+68 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Perfect Sum  Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |Top Down , memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/perfect-sum-problem.cpp) | ✅ |
 
 
 
