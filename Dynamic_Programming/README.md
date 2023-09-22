@@ -68,7 +68,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 66 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Bits](https://leetcode.com/problems/counting-bits/description/?envType=daily-question&envId=2023-09-01) |Bit Manipulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/count-bits.cpp) | ✅ |
 67 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count all Valid pickup and delivery options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/?envType=daily-question&envId=2023-09-10) |Combinations , memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/count-all-valid-pickup-and-delivery-options.cpp) | ✅ |
 68 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Perfect Sum  Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |Top Down , memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/perfect-sum-problem.cpp) | ✅ |
-
+69 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=daily-question&envId=2023-09-22) |Bottom Up , Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/is-subsequence.cpp) | ✅ |
 
 
 
