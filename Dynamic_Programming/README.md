@@ -69,8 +69,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 67 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count all Valid pickup and delivery options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/?envType=daily-question&envId=2023-09-10) |Combinations , memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/count-all-valid-pickup-and-delivery-options.cpp) | ✅ |
 68 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Perfect Sum  Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |Top Down , memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/perfect-sum-problem.cpp) | ✅ |
 69 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=daily-question&envId=2023-09-22) |Bottom Up , Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/is-subsequence.cpp) | ✅ |
-
-
+70 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/?envType=daily-question&envId=2023-09-23) |Bottom Up + LIS , Tabulation,| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-string-chain.cpp) | ✅ |
 
 
 
