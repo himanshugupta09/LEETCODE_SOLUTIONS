@@ -23,7 +23,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 21 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Asteroid Collision🔥🔥](https://leetcode.com/problems/asteroid-collision/description/) |  Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/asteroid-collision.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reversing a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/reversing-a-stack.cpp) | ✅ |
 23 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-stack-using-queues.cpp) | ✅ |
-
+24 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/?envType=daily-question&envId=2023-09-26) |  Monotonic Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/remove-duplicate-letters.cpp) | ✅ |
 
 
 
