@@ -70,6 +70,16 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 68 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Taps to open to water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) |Two pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-taps-to-open-to-water-a-garden.cpp) | ✅ |
 69 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Move all zeros to end of array](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1?page=1&company[]=Linkedin&sortBy=submissions) |Two pointer | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/move-all-zeros-to-end-of-array.cpp) | ✅ |
 70 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Candy](https://leetcode.com/problems/candy/?envType=daily-question&envId=2023-09-13) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/candy.cpp) | ✅ |
+71 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Range sum of sorted subarray sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) |Two pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/range-sum-of-sorted-subarray-sums.py) | ✅ |
+
+
+
+
+
+
+
+
+
 
 
 
