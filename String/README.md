@@ -46,8 +46,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 44 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/description/) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/construct-the-longest-new-string.cpp) | ✅ |
 45 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Repeated Substring Problem](https://leetcode.com/problems/repeated-substring-problem/description/) | String Matching  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/repeated-substring-problem.py) | ✅ |
 46 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Excel sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | String  + Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/excel-sheet-column-title.cpp) | ✅ |
-47 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Colored Pieces if Both Neighbors are the Same Color
-](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | String | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp) | ✅ |
+47 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | String | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp) | ✅ |
 
 
 
