@@ -1,5 +1,7 @@
 class Solution {
 public:
+/* 
+This is the Bottom up Approach for the problem using tabulation method*/
     int integerBreak(int n) {
         int ans = 1;
 
