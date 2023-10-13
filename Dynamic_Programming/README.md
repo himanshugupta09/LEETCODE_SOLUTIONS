@@ -72,7 +72,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 70 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/?envType=daily-question&envId=2023-09-23) |Bottom Up + LIS , Tabulation,| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-string-chain.cpp) | ✅ |
 71 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Champagne Tower { FlipKart }](https://leetcode.com/problems/champagne-tower/description/?envType=daily-question&envId=2023-09-24) |Bottom Up +  Tabulation,| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/champagne-tower.cpp) | ✅ |
 72 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Max dot Product of two subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/?envType=daily-question&envId=2023-10-08) |Top Down + memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/max-dot-product-of-two-subsequences.cpp) | ✅ |
-
+73 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Min Cost climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |TTabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/min-cost-climbing-stairs.cpp) | ✅ |
 
 
 
