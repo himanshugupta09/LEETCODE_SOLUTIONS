@@ -50,7 +50,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 48 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Largest Element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/kth-largest-elemement-in-bst.cpp) | ✅ |
 49 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Insert a node in BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1) | Recursion, DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/insert-a-node-in-bst.cpp) | ✅ |
 50 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [IDuplicate Subtree in Binary Tree⭐⭐⭐](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1) | Recursion, DFS, Hashing| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/duplicate-subtree-in-binary-tree.cpp) | ✅ |
-
+51 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Normal BST to Balanced BST⭐⭐⭐](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1) | Recursion |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/normal-bst-to-balanced-bst.cpp) | ✅ |
 
 
 
