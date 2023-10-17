@@ -25,7 +25,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/01-matrix.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/) | Simple | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/maximal-network-rank.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1?page=1&company[]=Linkedin&sortBy=submissions) | BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-the-number-of-islands.cpp) | ✅ |
-
+26 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Transitive Closure of a Graph](https://practice.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1) | DFS , Floyd Warshall | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/transitive-closure-of-a-graph.cpp) | ✅ |
 
 
 
