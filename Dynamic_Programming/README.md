@@ -76,7 +76,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 74 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/) |Memoization| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/number-of-ways-to-stay-in-the-same-place-after-some-steps.cpp) | ✅ |
 75 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) |LIS + Tabulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/maximum-sum-increasing-subsequence.cpp) | ✅ |
 76 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) |Tabulation + 0/1 Knapsack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/knapsack-with-duplicate-items.cpp) | ✅ |
-
+77 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1) |Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-operations.cpp) | ✅ |
 
 
 
