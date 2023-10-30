@@ -155,7 +155,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 152 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Remove Duplicate elements from Sorted Linked List{Microsoft }](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | Simulation| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/remove-duplicate-elements-from-sorted-linked-list.cpp) | ✅ |
 153 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Largest Number Possible](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/largest-number-possible.cpp) | ✅ |
 154 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Sum of All Divisors from 1 to N](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sum-of-all-divisors-from-1-to-n.cpp) | ✅ |
-
+155 | ![](https://img.shields.io/badge/BITS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Sum of all xor pairs](https://practice.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1) |Bits| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sum-of-xor-of-all-pairs.cpp) | ✅ |
 
 
 
