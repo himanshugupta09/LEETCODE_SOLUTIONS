@@ -24,7 +24,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 22 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [String Permutations ](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/1)| Recusrion, BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/string-permutations.cpp) | ✅ |
 23 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Interleaving String ](https://leetcode.com/problems/interleaving-string/description/)| Recusrion + Memoization, String Matching| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/interleaving-string.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/TREES-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Common Nodes in two bsts ](https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1)| DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/find-common-nodes-in-two-bsts.cpp) | ✅ |
-
+25 | ![](https://img.shields.io/badge/TREES-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Nodes to equal to average of SubTree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/count-nodes-equal-to-average-of-subtree.cpp) | ✅ |
 
 
 
