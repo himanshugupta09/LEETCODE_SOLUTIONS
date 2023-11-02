@@ -9,7 +9,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/?envType=daily-question&envId=2023-09-29) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/monotonic-array.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/number-of-good-pairs.cpp) | ✅ |
 9 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Design Hash Map](https://leetcode.com/problems/design-hashmap/description/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/design-hash-map.cpp) | ✅ |
-
+10 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Distnce Between Two array Elements <POTD](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/minimum-distance-between-two-numbers.cpp) | ✅ |
 
 
 
