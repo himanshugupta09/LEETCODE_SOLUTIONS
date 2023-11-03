@@ -25,7 +25,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |  Queue  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-stack-using-queues.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/?envType=daily-question&envId=2023-09-26) |  Monotonic Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/remove-duplicate-letters.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/backspace-string-compare.cpp) | ✅ |
-
+26 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Build an array with Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/build-an-array-with-stack-operations.cpp) | ✅ |
 
 
 
