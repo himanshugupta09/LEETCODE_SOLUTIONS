@@ -24,7 +24,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 22 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Sliding Window Maximum  {Microsoft}](https://leetcode.com/problems/sliding-window-maximum/description/) | Sliding Window + Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/sliding-window-maximum.cpp) | ✅ |
 23 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Reoganize String {Amazon}](https://leetcode.com/problems/reorganize-string/description/) | String Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/reorganize-string.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Sum Combination](https://practice.geeksforgeeks.org/problems/maximum-sum-combination/1) | Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximum-sum-combination.cpp) | ✅ |
-
+25 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Min Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/seat-reservation-manager.cpp) | ✅ |
 
 
 
