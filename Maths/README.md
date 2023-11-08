@@ -15,7 +15,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 13 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | Observation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/perfect-numbers.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Form a Number Divisible by 3](https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1) | Observation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/form-a-number-divisible-by-3-using-array-digits.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Power of 4](https://leetcode.com/problems/power-of-four/) | Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/power-of-4.cpp) | ✅ |
-
+16 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Chebyshev distance | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/determine-if-a-cell-is-reachable-at-a-given-time.cpp) | ✅ |
 
 
 
