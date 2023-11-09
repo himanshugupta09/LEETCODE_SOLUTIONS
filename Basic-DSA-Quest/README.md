@@ -12,8 +12,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 10 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Distnce Between Two array Elements <POTD](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/minimum-distance-between-two-numbers.cpp) | ✅ |
 11 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/last-moment-before-all-ants-fall-out-of-a-plank.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/eliminate-maximum-number-of-monsters.cpp) | ✅ |
-
-
+13 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Predict The Column](https://www.geeksforgeeks.org/problems/predict-the-column/1) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/predict-the-column.cpp) | ✅ |
 
 
 
