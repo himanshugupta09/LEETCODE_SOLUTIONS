@@ -157,7 +157,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 154 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Sum of All Divisors from 1 to N](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Maths| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sum-of-all-divisors-from-1-to-n.cpp) | ✅ |
 155 | ![](https://img.shields.io/badge/BITS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Sum of all xor pairs](https://practice.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1) |Bits| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/sum-of-xor-of-all-pairs.cpp) | ✅ |
 156 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Top K frequent Elements in Array](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1) |Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/top-k-frequent-elements-in-array.cpp) | ✅ |
-
+157 | ![](https://img.shields.io/badge/HashMap-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Isomorphic Strings](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) |Hashing| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/isomorphic-strings.cpp) | ✅ |
 
 
 
