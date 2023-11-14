@@ -78,6 +78,20 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 76 |![](https://img.shields.io/badge/D-P-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) |Tabulation + 0/1 Knapsack| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/knapsack-with-duplicate-items.cpp) | ✅ |
 77 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1) |Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-operations.cpp) | ✅ |
 78 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Palindrmic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |Tabulation  + Palindrome| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-palindromic-substring.cpp) | ✅ |
+79 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Shortest Common Supersequence](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) |Tabulation  + LCS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/shortest-common-supersequence.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
