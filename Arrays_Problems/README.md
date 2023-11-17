@@ -72,7 +72,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 70 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Candy](https://leetcode.com/problems/candy/?envType=daily-question&envId=2023-09-13) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/candy.cpp) | ✅ |
 71 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Range sum of sorted subarray sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) |Two pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/range-sum-of-sorted-subarray-sums.py) | ✅ |
 72 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) |Sorting , Greedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-element-after-decreasing-and-rearranging.cpp) | ✅ |
-
+73 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) |Sorting , Greedy| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimize-maximum-pair-sum-in-array.cpp) | ✅ |
 
 
 
