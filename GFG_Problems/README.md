@@ -159,7 +159,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 156 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Top K frequent Elements in Array](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1) |Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/top-k-frequent-elements-in-array.cpp) | ✅ |
 157 | ![](https://img.shields.io/badge/HashMap-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Isomorphic Strings](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) |Hashing| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/isomorphic-strings.cpp) | ✅ |
 158 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Check if a string is rotated by tow places](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1) |Comparision| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-if-a-string-is-rotated-by-two-places.cpp) | ✅ |
-
+159 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Symmetric Treee](https://www.geeksforgeeks.org/problems/symmetric-tree/1) |Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/symmetric-tree.cpp) | ✅ |
 
 
 
