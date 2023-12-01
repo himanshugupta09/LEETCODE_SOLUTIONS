@@ -161,7 +161,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 158 | ![](https://img.shields.io/badge/Strings-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Check if a string is rotated by tow places](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1) |Comparision| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-if-a-string-is-rotated-by-two-places.cpp) | ✅ |
 159 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Symmetric Treee](https://www.geeksforgeeks.org/problems/symmetric-tree/1) |Recursion | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/symmetric-tree.cpp) | ✅ |
 160 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Shortest Path from 1 to N](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/shortest-path-from-1-to-n.cpp) | ✅ |
-
+161 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Check Wether BST contains Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) |DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-wether-BST-contains-dead-end.cpp) | ✅ |
 
 
 
