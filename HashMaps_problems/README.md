@@ -28,6 +28,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/frequency-tracker.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/equal-row-and-column-pairs.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fraction Pairs with sum 1 {Microsoft }](https://practice.geeksforgeeks.org/problems/fraction-pairs-with-sum-1/1) | HashMap + Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/fraction-pairs-with-sum-1.cpp) | ✅ |
+29 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the words that can be formed by the string](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/find-words-that-can-be-formed-by-string.cpp) | ✅ |
 
 
 
