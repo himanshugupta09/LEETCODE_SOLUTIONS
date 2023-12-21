@@ -17,7 +17,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 15 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Power of 4](https://leetcode.com/problems/power-of-four/) | Bit Manipulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/power-of-4.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Chebyshev distance | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/determine-if-a-cell-is-reachable-at-a-given-time.cpp) | ✅ |
 17 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum time visiting all points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Chebyshev distance | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/minimum-time-visiting-all-points.cpp) | ✅ |
-
+18 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/widest-vertical-area-between-two-points-containing-no-points.cpp) | ✅ |
 
 
 
