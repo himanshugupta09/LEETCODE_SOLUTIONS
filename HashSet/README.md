@@ -7,6 +7,16 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 5 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/find-the-difference-of-two-arrays.cpp) | ✅ |
 6 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [  Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbages/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/minimum-amount-of-time-to-collect-garbage.cpp) | ✅ |
 7 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Destination City](https://leetcode.com/problems/destination-city/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/destination-city.cpp) | ✅ |
+8 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Crossing](https://leetcode.com/problems/path-crossing/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/path-crossing.py) | ✅ |
+
+
+
+
+
+
+
+
+
 
 
 
