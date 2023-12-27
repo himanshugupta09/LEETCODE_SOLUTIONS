@@ -26,6 +26,20 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 24 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/?envType=daily-question&envId=2023-09-26) |  Monotonic Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/remove-duplicate-letters.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/backspace-string-compare.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Build an array with Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/build-an-array-with-stack-operations.cpp) | ✅ |
+27 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum time to make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/minimum-time-to-make-rope-colorful.py) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
