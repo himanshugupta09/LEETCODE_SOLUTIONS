@@ -14,6 +14,17 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 12 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Non repeating Numbers { Microsoft }](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1) | Bit Magic | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/non-repeating-numbers.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check Whether Kth Bit is Set { Microsoft }](https://learn.udacity.com/paid-courses/cd12988/lessons/ls12987/concepts/1cee71f5-4cc2-4fe7-b55b-4d20230ef48e) | Bit Magic | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/check-whether-k-th-bit-is-set-or-not.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Original Array from Prefix XOR array](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Bit Magic | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/find-the-original-array-of-prefix-xor-array.cpp) | ✅ |
+15 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | XOR + DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/pseudo-palindromic-paths-in-a-binary-tree.py) | ✅ |
+
+
+
+
+
+
+
+
+
+
 
 
 
