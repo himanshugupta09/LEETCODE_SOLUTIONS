@@ -15,7 +15,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 13 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Predict The Column](https://www.geeksforgeeks.org/problems/predict-the-column/1) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/predict-the-column.cpp) | ✅ |
 14 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/largest-3-same-digit-number-in-string.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/evaluate-reverse-polish-notation.cpp) | ✅ |
-
+16 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Simple, Enumeration| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/sequential-digits.py) | ✅ |
 
 
 
