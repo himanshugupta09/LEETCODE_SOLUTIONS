@@ -77,6 +77,20 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 75 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/arithmetic-subarrays.cpp) | ✅ |
 76 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Number of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/maximum-number-of-coins-you-can-get.cpp) | ✅ |
 77 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/largest-submatrix-with-rearrangements.cpp) | ✅ |
+78 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/divide-array-into-arrays-with-max-difference.py) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
