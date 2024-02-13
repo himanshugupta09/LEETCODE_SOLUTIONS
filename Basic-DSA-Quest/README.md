@@ -16,7 +16,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 14 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/largest-3-same-digit-number-in-string.cpp) | ✅ |
 15 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/evaluate-reverse-polish-notation.cpp) | ✅ |
 16 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Simple, Enumeration| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/sequential-digits.py) | ✅ |
-
+17 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First Palindromic string in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/find-first-palindromic-string-in-the-array.py) | ✅ |
 
 
 
