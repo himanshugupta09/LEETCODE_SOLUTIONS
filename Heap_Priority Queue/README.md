@@ -25,7 +25,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 23 | ![](https://img.shields.io/badge/Heap-Sortf0772b?style=for-the-badge&logo=array&logoColor=black) | [Reoganize String {Amazon}](https://leetcode.com/problems/reorganize-string/description/) | String Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/reorganize-string.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Sum Combination](https://practice.geeksforgeeks.org/problems/maximum-sum-combination/1) | Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximum-sum-combination.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Seat Reserv](https://leetcode.com/problems/seat-reservation-manager/) | Min Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/seat-reservation-manager.cpp) | ✅ |
-
+26 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Min Heap + HashMap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/least-number-of-unique-integers-after-k-removals.cpp )| ✅ |
 
 
 
