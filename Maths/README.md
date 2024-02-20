@@ -19,7 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum time visiting all points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Chebyshev distance | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/minimum-time-visiting-all-points.cpp) | ✅ |
 18 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/widest-vertical-area-between-two-points-containing-no-points.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Majority Element](https://leetcode.com/problems/majority-element/) | Moore's Voting Algo | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/majority-element.py) | ✅ |
-
+20 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Missing Number](https://leetcode.com/problems/missing-number/) | sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/missing-number.py) | ✅ |
 
 
 
