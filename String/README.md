@@ -48,7 +48,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 46 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Excel sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | String  + Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/excel-sheet-column-title.cpp) | ✅ |
 47 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | String | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp) | ✅ |
 48 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort vowels in a string](https://leetcode.com/problems/sort-vowels-in-a-string/) | Counting Sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/sort-vowels-in-a-string.cpp) | ✅ |
-
+49 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fin the longest semi repetitive substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | Two pointer + Sliding window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-the-longest-semi-repetitive-substring.py) | ✅ |
 
 
 
