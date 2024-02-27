@@ -53,7 +53,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 51 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Normal BST to Balanced BST⭐⭐⭐](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1) | Recursion |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/normal-bst-to-balanced-bst.cpp) | ✅ |
 52 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | BFS |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-largest-value-in-each-tree-row.cpp) | ✅ |
 53 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Mode in BST](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | DFS + Hashing |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-mode-in-bst.cpp) | ✅ |
-
+54 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | DFS  |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/diameter-of-binary-tree.cpp) | ✅ |
 
 
 
