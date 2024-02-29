@@ -31,7 +31,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 30 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Occurences](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/number-of-occurences.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First and last occurences of X](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/first-and-last-occurences-of-x.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of opeartioins required to make array continuos](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/?envType=daily-question&envId=2023-10-10) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/minimum-number-of-opeartions-to-make-array-continuous.cpp) | ✅ |
-
+33 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/even-odd-tree.cpp) | ✅ |
 
 
 
