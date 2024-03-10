@@ -163,7 +163,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 160 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Shortest Path from 1 to N](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/shortest-path-from-1-to-n.cpp) | ✅ |
 161 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Check Wether BST contains Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) |DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/check-wether-BST-contains-dead-end.cpp) | ✅ |
 162 | ![](https://img.shields.io/badge/Searching-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) |Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/peak-element.cpp) | ✅ |
-
+163 | ![](https://img.shields.io/badge/Set-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Remove all duplicates from a string](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) |String | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/remove-all-duplicates-from-a-given-string.cpp) | ✅ |
 
 
 
