@@ -33,7 +33,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 31 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/minimum-number-of-steps-to-make-two-strings-anagram.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/number-of-submatrices-that-sum-to-target.cpp) | ✅ |
 33 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Elements with maximum frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/count-elements-with-maximum-frequency.cpp) | ✅ |
-
+34 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove zero sum consecutive nodes from linked list](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/remove-zero-sum-consecutive-nodes-from-linked-list.cpp) | ✅ |
 
 
 
