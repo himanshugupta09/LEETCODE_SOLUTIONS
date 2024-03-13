@@ -80,7 +80,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 78 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/divide-array-into-arrays-with-max-difference.py) | ✅ |
 79 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/rearrange-array-elements-by-sign.py) | ✅ |
 80 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Polygon with Largest Parameter](https://leetcode.com/problems/find-polygon-with-largest-parameter/) |Sorting + Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-polygon-with-largest-parameter.py) | ✅ |
-
+81 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the pivot integer](https://leetcode.com/problems/find-the-pivot-integer/) |Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-the-pivot-integer.cpp) | ✅ |
 
 
 
