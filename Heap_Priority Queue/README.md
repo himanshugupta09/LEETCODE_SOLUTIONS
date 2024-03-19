@@ -26,8 +26,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 24 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Sum Combination](https://practice.geeksforgeeks.org/problems/maximum-sum-combination/1) | Max Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximum-sum-combination.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Seat Reserv](https://leetcode.com/problems/seat-reservation-manager/) | Min Heap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/seat-reservation-manager.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Min Heap + HashMap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/least-number-of-unique-integers-after-k-removals.cpp )| ✅ |
-
-
+27 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/task-scheduler.cpp) | ✅ |
 
 
 
