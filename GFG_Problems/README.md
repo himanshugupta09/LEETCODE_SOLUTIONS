@@ -165,7 +165,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 162 | ![](https://img.shields.io/badge/Searching-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) |Binary Search | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/peak-element.cpp) | ✅ |
 163 | ![](https://img.shields.io/badge/Set-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Remove all duplicates from a string](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) |String | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/remove-all-duplicates-from-a-given-string.cpp) | ✅ |
 164 | ![](https://img.shields.io/badge/Set-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count pairs sum in matrices](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) |Matrix| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-pair-sum-in-matrices.cpp) | ✅ |
-
+165 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Ziig Zag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) |BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/zig-zag-tree-traversal.cpp) | ✅ |
 
 
 
