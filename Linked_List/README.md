@@ -27,7 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 24 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=daily-question&envId=2023-09-05) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/copy-list-with-random-pointer.py) | ✅ |
 25 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [reverse Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/reverse-doubly-linked-list.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge in Between Linked List](https://leetcode.com/problems/merge-in-between-linked-lists/) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-in-between-linked-list.cpp) | ✅ |
-
+27 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reorder List](https://leetcode.com/problems/reorder-list/) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/reorder-list.cpp) | ✅ |
 
 
 
