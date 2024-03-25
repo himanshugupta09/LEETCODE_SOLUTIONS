@@ -9,7 +9,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 7 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Destination City](https://leetcode.com/problems/destination-city/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/destination-city.cpp) | ✅ |
 8 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path Crossing](https://leetcode.com/problems/path-crossing/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/path-crossing.py) | ✅ |
 10 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/) | Hashset, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py) | ✅ |
-
+11 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/find-all-duplicates-in-an-array.cpp) | ✅ |
 
 
 
