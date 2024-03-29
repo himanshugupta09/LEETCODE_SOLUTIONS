@@ -83,7 +83,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 81 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the pivot integer](https://leetcode.com/problems/find-the-pivot-integer/) |Maths | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/find-the-pivot-integer.cpp) | ✅ |
 82 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |Prefix Sum | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/product-of-array-except-self.py) | ✅ |
 83 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) |Sliding Job | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/product-of-array-except-self.py) | ✅ |
-
+84 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Subarrays where max element appears atleast K times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) |Sliding Window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/count-subarrays-where-max-element-appears-at-least-k-times.cpp) | ✅ |
 
 
 
