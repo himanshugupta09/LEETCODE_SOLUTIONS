@@ -55,7 +55,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 53 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Mode in BST](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | DFS + Hashing |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-mode-in-bst.cpp) | ✅ |
 54 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | DFS  |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/diameter-of-binary-tree.cpp) | ✅ |
 55 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Bottom Left tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | BFS  |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-bottom-left-tree-value.cpp) | ✅ |
-
+56 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Absolute pair in BST](https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) | Inorder Traversal |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/minimum-absolute-difference-in-bst.cpp) | ✅ |
 
 
 
