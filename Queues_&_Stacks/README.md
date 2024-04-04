@@ -28,7 +28,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Build an array with Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/build-an-array-with-stack-operations.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum time to make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/minimum-time-to-make-rope-colorful.py) | ✅ |
 28 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-queue-using-stack.cpp) | ✅ |
-
+29 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Nesting depth of the parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/maximum-nesting-depth-of-the-parentheses.cpp) | ✅ |
 
 
 
