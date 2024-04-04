@@ -20,7 +20,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 18 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/widest-vertical-area-between-two-points-containing-no-points.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Majority Element](https://leetcode.com/problems/majority-element/) | Moore's Voting Algo | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/majority-element.py) | ✅ |
 20 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Missing Number](https://leetcode.com/problems/missing-number/) | sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/missing-number.py) | ✅ |
-
+21 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Nesting depth of the parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | counting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/maximum-nesting-depth-of-the-parenthesis.cpp) | ✅ |
 
 
 
