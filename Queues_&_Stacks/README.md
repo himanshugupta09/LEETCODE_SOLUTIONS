@@ -30,7 +30,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 28 | ![](https://img.shields.io/badge/Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/implement-queue-using-stack.cpp) | ✅ |
 29 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Nesting depth of the parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/maximum-nesting-depth-of-the-parentheses.cpp) | ✅ |
 30 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/valid-parenthesis-balancing.cpp) | ✅ |
-
+31 | ![](https://img.shields.io/badge/StackQuesues-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of students unable to eat lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) |   Simulation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/number-of-students-unable-to-eat-lunch.cpp) | ✅ |
 
 
 
