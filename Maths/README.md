@@ -21,7 +21,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 19 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Majority Element](https://leetcode.com/problems/majority-element/) | Moore's Voting Algo | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/majority-element.py) | ✅ |
 20 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Missing Number](https://leetcode.com/problems/missing-number/) | sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/missing-number.py) | ✅ |
 21 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Nesting depth of the parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | counting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/maximum-nesting-depth-of-the-parenthesis.cpp) | ✅ |
-
+22 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Time Needed to  Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | counting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/time-needed-t-buy-tickets.cpp) | ✅ |
 
 
 
