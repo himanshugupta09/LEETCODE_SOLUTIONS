@@ -167,7 +167,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 164 | ![](https://img.shields.io/badge/Set-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count pairs sum in matrices](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) |Matrix| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-pair-sum-in-matrices.cpp) | ✅ |
 165 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Ziig Zag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) |BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/zig-zag-tree-traversal.cpp) | ✅ |
 166 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Pairs Volating the BST Property](https://www.geeksforgeeks.org/problems/pairs-violating-bst-property--212515/1) |Inorder + Merge Sort| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/pairs-voilating-the-bst-property.cpp) | ✅ |
-
+167 | ![](https://img.shields.io/badge/BITS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Party of Couples](https://www.geeksforgeeks.org/problems/alone-in-couple5507/1) |Bitwise Xor| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/party-of-couples.cpp) | ✅ |
 
 
 
