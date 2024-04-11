@@ -32,7 +32,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 30 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) |   Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/valid-parenthesis-balancing.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/StackQuesues-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of students unable to eat lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) |   Simulation  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/number-of-students-unable-to-eat-lunch.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/StackQuesues-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) |   Simulation + Sorting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/reveal-cards-in-increasing-order.cpp) | ✅ |
-
+33 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) |  Greedy + Monotonic Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/remove-k-digits.cpp) | ✅ |
 
 
 
