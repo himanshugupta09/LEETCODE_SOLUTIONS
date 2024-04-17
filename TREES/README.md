@@ -56,9 +56,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 54 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | DFS  |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/diameter-of-binary-tree.cpp) | ✅ |
 55 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Bottom Left tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | BFS  |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/find-bottom-left-tree-value.cpp) | ✅ |
 56 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Absolute pair in BST](https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/1) | Inorder Traversal |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/minimum-absolute-difference-in-bst.cpp) | ✅ |
-57 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add one rowto tree](https://leetcode.com/problems/add-one-row-to-tree/) | BFS  + Iterative + Queue|[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/add-one-row-to-tree_bfs.cpp) | ✅ |
-
-
+57 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Smallest String starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | BFS, DFS Traversal |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/smallest-string-starting-from-leaf.cpp) | ✅ |
 
 
 
