@@ -28,7 +28,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Transitive Closure of a Graph](https://practice.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1) | DFS , Floyd Warshall | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/transitive-closure-of-a-graph.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Amount of Time for Binary Tree to Be Infected 🔥](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | DFS , BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/amount-of-time-for-binary-tree-to-be-infected.py) | ✅ |
 28 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | DFS , BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/island-perimeter.cpp) | ✅ |
-
+29 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find all Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-all-groups-of-farmland.cpp) | ✅ |
 
 
 
