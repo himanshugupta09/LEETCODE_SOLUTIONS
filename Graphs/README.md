@@ -29,7 +29,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 27 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Amount of Time for Binary Tree to Be Infected 🔥](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | DFS , BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/amount-of-time-for-binary-tree-to-be-infected.py) | ✅ |
 28 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | DFS , BFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/island-perimeter.cpp) | ✅ |
 29 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find all Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-all-groups-of-farmland.cpp) | ✅ |
-
+30 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Oprn The Lock🔥🔥](https://leetcode.com/problems/open-the-lock) | BFS + Hashing | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/open-the-lock.cpp) | ✅ |
 
 
 
