@@ -171,6 +171,28 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 168 | ![](https://img.shields.io/badge/BITS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse Bits](https://www.geeksforgeeks.org/problems/reverse-bits3556/1) |Bit shift| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reverse-bits.py) | ✅ |
 169 | ![](https://img.shields.io/badge/Hashing-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count the Elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1) |Hashing,Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-the-elements.cpp) | ✅ |
 170 | ![](https://img.shields.io/badge/Hashing-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Union of Two Sorted Arrays {Amazno}](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |Two pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/union-of-two-sorted-arrays.cpp) | ✅ |
+171 | ![](https://img.shields.io/badge/Dynammic-Programming-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Paths to Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) |Dynammic Programming| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/paths-to-reach-origin.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
