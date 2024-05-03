@@ -50,7 +50,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 48 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort vowels in a string](https://leetcode.com/problems/sort-vowels-in-a-string/) | Counting Sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/sort-vowels-in-a-string.cpp) | ✅ |
 49 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Fin the longest semi repetitive substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | Two pointer + Sliding window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/find-the-longest-semi-repetitive-substring.py) | ✅ |
 50 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Two pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/minimum-length-of-string-after-deleting-similar-ends.py) | ✅ |
-
+51 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Compare Version Number {Microsoft}](https://leetcode.com/problems/compare-version-number/) | Two pointer + Number System| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/compare-version-number.py) | ✅ |
 
 
 
