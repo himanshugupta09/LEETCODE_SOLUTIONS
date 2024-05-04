@@ -59,7 +59,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 57 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Smallest String starting from leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | BFS, DFS Traversal |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/smallest-string-starting-from-leaf.cpp) | ✅ |
 58 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Serialize and deserialize a binary tree { Microsoft}](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | BFS |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/serialize-and-deserialize-a-binary-tree.cpp) | ✅ |
 59 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [K Distance from Root { Microsoft}](https://www.geeksforgeeks.org/problems/k-distance-from-root/1) | BFS |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/k-distance-from-root.cpp) | ✅ |
-
+60 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Construct Binary Tree from Inorder and PostOrder{ Microsoft}](hhttps://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1) |Recursion |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/construct-binary-tree-from-inorder-and-postorder.cpp) | ✅ |
 
 
 
