@@ -172,6 +172,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 169 | ![](https://img.shields.io/badge/Hashing-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Count the Elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1) |Hashing,Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/count-the-elements.cpp) | ✅ |
 170 | ![](https://img.shields.io/badge/Hashing-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Union of Two Sorted Arrays {Amazno}](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |Two pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/union-of-two-sorted-arrays.cpp) | ✅ |
 171 | ![](https://img.shields.io/badge/Dynammic-Programming-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Paths to Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) |Dynammic Programming| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/paths-to-reach-origin.cpp) | ✅ |
+172 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Vertical Sum { Amazon}](https://www.geeksforgeeks.org/problems/vertical-sum/1) |DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/vertical-sum.cpp) | ✅ |
 
 
 
