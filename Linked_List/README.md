@@ -29,6 +29,13 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge in Between Linked List](https://leetcode.com/problems/merge-in-between-linked-lists/) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-in-between-linked-list.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reorder List](https://leetcode.com/problems/reorder-list/) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/reorder-list.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arrange consonants and vowels { Amazon}](https://www.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/arrange-consonants-and-vowels.cpp) | ✅ |
+29 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |Single  pointer , Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/double-a-number-represented-as-a-linked-llist.cpp) | ✅ |
+
+
+
+
+
+
 
 
 
