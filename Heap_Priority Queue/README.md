@@ -28,7 +28,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/Heapf0772b?style=for-the-badge&logo=array&logoColor=black) | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Min Heap + HashMap| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/least-number-of-unique-integers-after-k-removals.cpp )| ✅ |
 27 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/task-scheduler.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/relative-ranks.cpp) | ✅ |
-
+29 | ![](https://img.shields.io/badge/Priority-Queue-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximize happiness of selected childrens](https://leetcode.com/problems/maximize-happiness-of-selected-childrens/) | Prioirty , Max Heaps, Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Heap_Priority%20Queue/maximize-happiness-of-selected-childrens.cpp) | ✅ |
 
 
 
