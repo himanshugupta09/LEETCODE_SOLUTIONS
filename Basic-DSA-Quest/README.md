@@ -19,7 +19,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 17 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [First Palindromic string in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/find-first-palindromic-string-in-the-array.py) | ✅ |
 18 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Every Kth Node](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/remove-every-kth-node.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Prefix of a word](https://leetcode.com/problems/reverse-prefix-of-word/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/reverse-prefix-of-a-word.cpp) | ✅ |
-
+20 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Local value in a Matrix](https://leetcode.com/problems/largest-local-value-in-a-matrix/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/largest-local-value-in-a-matrix.cpp) | ✅ |
 
 
 
