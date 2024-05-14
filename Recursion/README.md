@@ -27,7 +27,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 25 | ![](https://img.shields.io/badge/TREES-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Nodes to equal to average of SubTree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/count-nodes-equal-to-average-of-subtree.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)| Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/find-unique-binary-string.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/Recusrion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Print Pattern {Microsoft}](https://www.geeksforgeeks.org/problems/print-pattern3549/1)| Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/print-pattern.cpp) | ✅ |
-
+28 | ![](https://img.shields.io/badge/Recusrion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)| Recursion + BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/path-with-maximum-gold.cpp) | ✅ |
 
 
 
