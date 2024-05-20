@@ -17,7 +17,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 15 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | XOR + DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/pseudo-palindromic-paths-in-a-binary-tree.py) | ✅ |
 16 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Bitwise AND of numbers range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Bits | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/bitwise-and-of-numbers-range.py) | ✅ |
 17 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Bits | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/minimum-number-of-operations-to-make-array-xor-equal-to-k.cpp) | ✅ |
-
+18 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of All Subset XOR Totals { Adobe}](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Bits | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/sum-of-all-subset-xor-totals.cpp) | ✅ |
 
 
 
