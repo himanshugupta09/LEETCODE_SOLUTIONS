@@ -28,6 +28,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 26 | ![](https://img.shields.io/badge/BackTracking-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)| Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/find-unique-binary-string.cpp) | ✅ |
 27 | ![](https://img.shields.io/badge/Recusrion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Print Pattern {Microsoft}](https://www.geeksforgeeks.org/problems/print-pattern3549/1)| Recursion| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/print-pattern.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/Recusrion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)| Recursion + BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/path-with-maximum-gold.cpp) | ✅ |
+29 | ![](https://img.shields.io/badge/Recusrion-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subsets.⭐🔥](https://leetcode.com/problems/subsets/)| Recursion + BackTracking| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Recursion/subsets.cpp) | ✅ |
 
 
 
