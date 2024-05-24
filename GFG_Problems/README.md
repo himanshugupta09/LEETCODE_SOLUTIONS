@@ -175,7 +175,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 172 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Vertical Sum { Amazon}](https://www.geeksforgeeks.org/problems/vertical-sum/1) |DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/vertical-sum.cpp) | ✅ |
 173 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Reverse LEvel Order Traversal { Amazon,Microsoft}](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1) |BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/reverse-level-order-traversal.cpp) | ✅ |
 174 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Root to leaf paths { Amazon}](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) |DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/root-to-leaf-paths.cpp) | ✅ |
-
+175 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [K Palindrome{ Amazon}](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) |DFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/k-palindrome.cpp) | ✅ |
 
 
 
