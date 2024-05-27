@@ -33,7 +33,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 32 | ![](https://img.shields.io/badge/BinarySearch-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of opeartioins required to make array continuos](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/?envType=daily-question&envId=2023-10-10) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/minimum-number-of-opeartions-to-make-array-continuous.cpp) | ✅ |
 33 | ![](https://img.shields.io/badge/BFS-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | BFS| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/even-odd-tree.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/Searching-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find the Safest Path in a Grid{Google}](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | BFS + Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/find-the-safest-path-in-a-grid.cpp) | ✅ |
-
+35 | ![](https://img.shields.io/badge/Searching-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Special Array With X Elements Greater Than or Equal X{Google}](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Searching_Algorithms/special-array-with-x-elements-greater-than-or-equal-x.cpp) | ✅ |
 
 
 
