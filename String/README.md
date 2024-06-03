@@ -52,7 +52,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 50 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Two pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/minimum-length-of-string-after-deleting-similar-ends.py) | ✅ |
 51 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Compare Version Number {Microsoft}](https://leetcode.com/problems/compare-version-number/) | Two pointer + Number System| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/compare-version-number.py) | ✅ |
 52 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Sliding Window| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/get-equal-substrings-within-budget.cpp) | ✅ |
-
+53 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Append Characters to String to Make Subsequence { Amazon }](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Two Poinnter + Longest Common Prefix| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/append-characters-to-string-to-make-subsequence.cpp) | ✅ |
 
 
 
