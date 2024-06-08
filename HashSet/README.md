@@ -12,7 +12,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 11 | ![](https://img.shields.io/badge/HashTable-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/find-all-duplicates-in-an-array.cpp) | ✅ |
 12 | ![](https://img.shields.io/badge/HashSet-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Missing in second array {Microsoft}](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/find-missing-in-second-array.cpp) | ✅ |
 13 | ![](https://img.shields.io/badge/HashSet-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Positive Integer That Exists With Its Negative{Microsoft}](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/largest-positive-integer-that-exists-with-its-negative.cpp) | ✅ |
-
+14 | ![](https://img.shields.io/badge/HashSet-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Continuous Subarray Sum {Facebook,Amazon,ByteDance,Google,Apple,Walmart Global Tech,tiktok}](https://leetcode.com/problems/continuous-subarray-sum/) | Hashset | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashSet/continuous-subarray-sum.cpp) | ✅ |
 
 
 
