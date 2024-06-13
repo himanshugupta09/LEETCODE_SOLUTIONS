@@ -86,7 +86,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 84 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Subarrays where max element appears atleast K times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) |Sliding Window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/count-subarrays-where-max-element-appears-at-least-k-times.cpp) | ✅ |
 85 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Score after Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/score-after-flipping-matrix.cpp) | ✅ |
 86 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Relative Sort Array {Google}](https://leetcode.com/problems/relative-sort-array/) |Greedy, Counting sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/relative-sort-array.cpp) | ✅ |
-
+87 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Moves to Seat Everyone {Adobe}](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |Greedy, Counting sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-moves-to-seat-everyone.cpp) | ✅ |
 
 
 
