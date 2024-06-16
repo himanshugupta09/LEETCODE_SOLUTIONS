@@ -88,6 +88,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 86 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Relative Sort Array {Google}](https://leetcode.com/problems/relative-sort-array/) |Greedy, Counting sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/relative-sort-array.cpp) | ✅ |
 87 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Number of Moves to Seat Everyone {Adobe}](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |Greedy, Counting sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-number-of-moves-to-seat-everyone.cpp) | ✅ |
 88 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/mminimum-increment-to-make-array-unique/) |Greedy, Counting sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-increment-to-make-array-unique.cpp) | ✅ |
+89 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Patching array](https://leetcode.com/problems/patching-array/) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/patching-array.cpp) | ✅ |
 
 
 
