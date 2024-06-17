@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Missing Number](https://leetcode.com/problems/missing-number/) | sum  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/missing-number.py) | ✅ |
 21 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Maximum Nesting depth of the parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | counting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/maximum-nesting-depth-of-the-parenthesis.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Time Needed to  Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | counting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/time-needed-t-buy-tickets.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/sum-of-square-numbers.cpp) | ✅ |
 
 
 
