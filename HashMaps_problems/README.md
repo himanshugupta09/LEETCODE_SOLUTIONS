@@ -37,6 +37,21 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 35 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Subarrays with K different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Sliding Window | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/subarray-with-k-different-integers.cpp) | ✅ |
 36 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Hashing | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/find-common-characters.cpp) | ✅ |
 37 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Hand of Straights{Google}](https://leetcode.com/problems/hand-of-straights/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/hand-of-straights.cpp) | ✅ |
+38 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Number of Nice Subarrays{Amazon}](https://leetcode.com/problems/count-number-of-nice-subarrays/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/count-number-of-nice-subarrays.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
