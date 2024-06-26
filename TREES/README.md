@@ -62,6 +62,22 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 60 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Construct Binary Tree from Inorder and PostOrder{ Microsoft}](hhttps://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1) |Recursion |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/construct-binary-tree-from-inorder-and-postorder.cpp) | ✅ |
 61 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Evaluate Boolean Binary Tree{ Google}](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |DFS |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/evaluate-binary-tree.cpp) | ✅ |
 63 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Distribute Coins in binary Tree{ Google,Amazon, Microsoft}](https://leetcode.com/problems/distribute-coins-in-binary-tree/) |DFS |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/distribute-coins-in-binary-tree.cpp) | ✅ |
+64 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Balance a Binary Search Tree{ Facebook}](https://leetcode.com/problems/balance-a-binary-search-tree/) |Inorder traversal |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/balance-a-binary-search-tree.cpp) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
