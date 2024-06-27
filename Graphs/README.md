@@ -31,7 +31,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 29 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find all Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | DFS | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-all-groups-of-farmland.cpp) | ✅ |
 30 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Open The Lock🔥🔥](https://leetcode.com/problems/open-the-lock) | BFS + Hashing | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/open-the-lock.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Height Trees {Amazon}🔥🔥](https://leetcode.com/problems/minimum-height-trees) | BFS + Hashing | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/minimum-height-trees.cpp) | ✅ |
-
+32 | ![](https://img.shields.io/badge/Graphs-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Center of star grpah {Microsoft}🔥🔥](https://leetcode.com/problems/find-center-of-star-graph/) | Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Graphs/find-center-node-of-star-graph.cpp) | ✅ |
 
 
 
