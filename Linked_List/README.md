@@ -30,7 +30,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 27 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reorder List](https://leetcode.com/problems/reorder-list/) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/reorder-list.cpp) | ✅ |
 28 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Arrange consonants and vowels { Amazon}](https://www.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1) |  Two pointers | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/arrange-consonants-and-vowels.cpp) | ✅ |
 29 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |Single  pointer , Stack  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/double-a-number-represented-as-a-linked-llist.cpp) | ✅ |
-
+30 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete a Node in Double Linked List {Walmart}](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) |Double  pointer  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/delete-a-node-in-doubly-linked-list.cpp) | ✅ |
 
 
 
