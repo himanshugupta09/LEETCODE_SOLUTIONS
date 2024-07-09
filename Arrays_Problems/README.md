@@ -90,7 +90,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 88 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/mminimum-increment-to-make-array-unique/) |Greedy, Counting sort | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/minimum-increment-to-make-array-unique.cpp) | ✅ |
 89 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Patching array](https://leetcode.com/problems/patching-array/) |Greedy | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/patching-array.cpp) | ✅ |
 90 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit {Google}](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) |Greedy,MultiSet | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | ✅ |
-
+91 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Average Waiting Time {Salesforce}](https://leetcode.com/problems/average-waiting-time/) |Greedy,MultiSet | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Arrays_Problems/average-waiting-time.cpp) | ✅ |
 
 
 
