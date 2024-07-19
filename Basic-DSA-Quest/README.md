@@ -22,7 +22,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 20 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Largest Local value in a Matrix](https://leetcode.com/problems/largest-local-value-in-a-matrix/) | Simple| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/largest-local-value-in-a-matrix.cpp) | ✅ |
 21 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse String {Mcft,Google etc..](https://leetcode.com/problems/reverse-string/) |Two Poniter | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/reverse-string.cpp) | ✅ |
 22 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Height Checker {Apple , Salesforce,Goldman Sachs](https://leetcode.com/problems/height-checker/) |Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/height-checker.cpp) | ✅ |
-
+23 | ![](https://img.shields.io/badge/Matrix-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Lucky Number in a Matrix {Apple}](https://leetcode.com/problems/lucky-number-in-a-matrix/) |Simulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Basic-DSA-Quest/lucky-numbers-in-a-matrix.cpp) | ✅ |
 
 
 
