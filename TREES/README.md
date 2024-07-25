@@ -65,7 +65,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 64 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Balance a Binary Search Tree{ Facebook}](https://leetcode.com/problems/balance-a-binary-search-tree/) |Inorder traversal |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/balance-a-binary-search-tree.cpp) | ✅ |
 65 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Create Binary Tree from Description{Google}](https://leetcode.com/problems/create-binary-tree-from-descriptions/) |HashMap |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/create-binary-tree-from-descriptions.cpp) | ✅ |
 66 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Step-By-Step Directions From a Binary Tree Node to Another🔥](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |DFS + LCA |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/step-by-step-directions-from-a-binary-tree-node-to-another.cpp) | ✅ |
-
+67 | ![](https://img.shields.io/badge/Tree-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Array to BST](https://www.geeksforgeeks.org/problems/array-to-bst4443/1) |DFS  |[Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/TREES/array-to-bst.cpp) | ✅ |
 
 
 
