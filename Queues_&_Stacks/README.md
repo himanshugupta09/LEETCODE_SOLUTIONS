@@ -35,8 +35,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 33 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) |  Greedy + Monotonic Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/remove-k-digits.cpp) | ✅ |
 34 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Remove Nodes from Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) |  Greedy + Monotonic Stack | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/remove-nodes-from-linked-list.cpp) | ✅ |
 35 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Reverse Substrings Between Each Pair of Parentheses {Microsoft}](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) |  Wormhole Teleportation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/reverse-substring-between-each-pair-of-parenthesis.py) | ✅ |
-
-
+36 | ![](https://img.shields.io/badge/Stack-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Deletions to Make String Balanced {Microsoft}](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) |  Wormhole Teleportation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Queues_%26_Stacks/minimum-deletions-to-make-string-balanced.cpp) | ✅ |
 
 
 
