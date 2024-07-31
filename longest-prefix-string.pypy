@@ -1,0 +1,35 @@
+#User function Template for python3
+
+class Solution:
+    def longestCommonPrefix(self, arr):
+        # code here
+        if len(arr) == 1:
+            return arr[0]
+        arr.sort()
+        res = arr[0]
+        n = min(len(arr[0]),len(arr[-1]))
+        
+        i = 0
+        st = arr[-1]
+        en = arr[0]
+        while  i < n and  en[i]== st[i]:
+            i += 1
+            
+        if i != 0:
+            return en[:i]
+        return -1
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+if __name__ == '__main__':
+    t = int(input())
+
+    for _ in range(t):
+        arr = [x for x in input().strip().split(" ")]
+
+        ob = Solution()
+        print(ob.longestCommonPrefix(arr))
+
+# } Driver Code Ends
