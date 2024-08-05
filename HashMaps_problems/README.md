@@ -39,7 +39,7 @@ HuS.No. | Topic | Question Name | Logic Used | Solution | Status |
 37 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Hand of Straights{Google}](https://leetcode.com/problems/hand-of-straights/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/hand-of-straights.cpp) | ✅ |
 38 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Count Number of Nice Subarrays{Amazon}](https://leetcode.com/problems/count-number-of-nice-subarrays/) | HashMap | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/count-number-of-nice-subarrays.cpp) | ✅ |
 39 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sort The jumbeled numbers](https://leetcode.com/problems/sort-the-jumbeled-numbers/) | HashMap + Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/sort-the-jumbeled-numbers.cpp) | ✅ |
-
+40 | ![](https://img.shields.io/badge/HashMaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Kth Distinct String](https://leetcode.com/problems/kth-distinct-string/) | HashMap + Sorting | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/HashMaps_problems/kth-distinct-string.cpp) | ✅ |
 
 
 
