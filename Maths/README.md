@@ -24,7 +24,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 22 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Time Needed to  Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | counting  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/time-needed-t-buy-tickets.cpp) | ✅ |
 23 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Binary Search  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/sum-of-square-numbers.cpp) | ✅ |
 24 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Missing Observations {Microsoft}](https://leetcode.com/problems/find-missing-observations/) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/find-missing-observations.cpp) | ✅ |
-
+25 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nth Natural Number {Google}](https://www.geeksforgeeks.org/problems/nth-natural-number/1) | Base Conversion to 9  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/nth-natural-number.cpp) | ✅ |
 
 
 
