@@ -33,7 +33,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 30 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Delete a Node in Double Linked List {Walmart}](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) |Double  pointer  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/delete-a-node-in-doubly-linked-list.cpp) | ✅ |
 31 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Merge Nodes in Between Zeroes{Microsoft}](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |Double  pointer  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/merge-nodes-in-between-zeros.cpp) | ✅ |
 32 | ![](https://img.shields.io/badge/DoublyLinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Add ! to Lined List Number](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) |Reverse  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/add-one-to-linked-list-number.cpp) | ✅ |
-
+33 | ![](https://img.shields.io/badge/LinkedList-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Split LinkedList in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |LinkedList  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Linked_List/split-linked-list-in-parts.cpp) | ✅ |
 
 
 
