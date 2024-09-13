@@ -20,7 +20,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 18 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Sum of All Subset XOR Totals { Adobe}](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Bits | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/sum-of-all-subset-xor-totals.cpp) | ✅ |
 19 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Number of Steps to Reduce a Number in Binary Representation to One {Microsoft}](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Bits | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp) | ✅ |
 20 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Single Number III {Google}](https://leetcode.com/problems/single-number-iii/) | Bits | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/single-number-iii.cpp) | ✅ |
-
+21 | ![](https://img.shields.io/badge/Bits-f0772b?style=for-the-badge&logo=array&logoColor=black) | [XOR Queries of a subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Prefix Sum Xor | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/BIT%20MANIPULATION/xor-queries-of-a-subarray.cpp) | ✅ |
 
 
 
