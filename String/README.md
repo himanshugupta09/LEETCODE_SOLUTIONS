@@ -54,7 +54,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 52 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Sliding Window| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/get-equal-substrings-within-budget.cpp) | ✅ |
 53 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Append Characters to String to Make Subsequence { Amazon }](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Two Poinnter + Longest Common Prefix| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/append-characters-to-string-to-make-subsequence.cpp) | ✅ |
 54 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Prefix Suffix { Amazon }](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1) | KMP| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/longest-prefix-suffix.cpp) | ✅ |
-
+55 | ![](https://img.shields.io/badge/String-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Check If a Word Occurs As a Prefix of Any Word in a Sentence { Amazon }](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | KMP| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/String/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | ✅ |
 
 
 
