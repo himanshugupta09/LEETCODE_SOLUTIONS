@@ -179,7 +179,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 176 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [You and Your Books{ Amazon}](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) |DP| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/you-and-your-books.cpp) | ✅ |
 177 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Longest Subsequence1{ Flipkart}](https://www.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1) |DP + Longest Increasing Subsequence| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/longest-subsequeuence1.cpp) | ✅ |
 178 | ![](https://img.shields.io/badge/MATHS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Square root of a number](https://www.geeksforgeeks.org/problems/square-root/1) |Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/square-root-of-a-number.cpp) | ✅ |
-
+179 | ![](https://img.shields.io/badge/MATHS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [OverLapping Intervals{Microsoft}](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) |Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/overlapping-intervals..cpp) | ✅ |
 
 
 
