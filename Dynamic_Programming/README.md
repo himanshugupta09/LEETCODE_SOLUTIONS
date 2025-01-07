@@ -84,7 +84,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 82 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Distinct Occurences](https://www.geeksforgeeks.org/problems/distinct-occurrences/1) |Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/distinct-occurences.cpp) | ✅ |
 83 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Longest Ideal subsequence🔥🔥](https://leetcode.com/problems/longest-ideal-subsequence/) |Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/longest-ideal-subsequence.cpp) | ✅ |
 84 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) |Tabulation | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/minimum-falling-path-sum-ii.cpp) | ✅ |
-
+85 |![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [2 Keys Keyboard{Amazon, Microsoft}](https://leetcode.com/problems/2-keys-keyboard/description/) |Tabulation +memoization | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Dynamic_Programming/2-keys-keyboard.cpp) | ✅ |
 
 
 
