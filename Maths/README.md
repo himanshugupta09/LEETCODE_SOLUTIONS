@@ -26,6 +26,10 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 24 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Find Missing Observations {Microsoft}](https://leetcode.com/problems/find-missing-observations/) | Maths  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/find-missing-observations.cpp) | ✅ |
 25 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Nth Natural Number {Google}](https://www.geeksforgeeks.org/problems/nth-natural-number/1) | Base Conversion to 9  | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/nth-natural-number.cpp) | ✅ |
 26 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Lexogaphical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Modularity | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/lexographical-numbers.pp) | ✅ |
+27 | ![](https://img.shields.io/badge/Maths-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Factorail Trailing Zeroes{Amazo}](https://leetcode.com/problems/factorial-trailing-zeroes/) | Division | [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/Maths/factorial-trailing-zeroes.cpp) | ✅ |
+
+
+
 
 
 
