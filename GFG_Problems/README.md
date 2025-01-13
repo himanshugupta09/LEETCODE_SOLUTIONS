@@ -181,7 +181,7 @@ S.No. | Topic | Question Name | Logic Used | Solution | Status |
 178 | ![](https://img.shields.io/badge/MATHS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Square root of a number](https://www.geeksforgeeks.org/problems/square-root/1) |Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/square-root-of-a-number.cpp) | ✅ |
 179 | ![](https://img.shields.io/badge/MATHS-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [OverLapping Intervals{Microsoft}](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1) |Sorting| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/overlapping-intervals..cpp) | ✅ |
 180 | ![](https://img.shields.io/badge/Searching-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Search in a sorted Matrix{Goldman Sachs}](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) |Binary Search| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/search-in-a-sorted-matrix.java) | ✅ |
-
+181 | ![](https://img.shields.io/badge/Array-f0772b?style=for-the-badge&logo=MISC&logoColor=black) | [Container With maximum Water{Amazon}](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |Two Pointer| [Solution](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/blob/main/GFG_Problems/container-with-most-water.cpp) | ✅ |
 
 
 
