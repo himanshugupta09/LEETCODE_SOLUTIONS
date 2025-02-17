@@ -1,19 +1,16 @@
 class Solution:
-    
-    def solve(self,tiles,string,vis,hashSet):
-        hashSet.add(string)
-        for pos,char in enumerate(tiles):
-            if not vis[pos]:
-                vis[pos] = True
-                self.solve(tiles,string+char,vis,hashSet)
-                vis[pos]= False
-        
+    def _formString(self,charCount):
+        tot = 0
+        for i in range(26):
+            if charCount[i] == 0:
+                continue
+            tot += 1
+            charCount[i] -= 1
+            tot += self._formString(charCount)
+            charCount[i] += 1
+        return tot
     def numTilePossibilities(self, tiles: str) -> int:
-        n = len(tiles)
-        if n ==  1:
-            return 1
-        vis = [False]*n
-        hashSet = set()
-        self.solve(tiles,"",vis,hashSet)
-        return len(hashSet)-1
-        
+        charCount = [0]*26
+        for i in tiles:
+            charCount[ord(i)-ord('A')] += 1
+        return self._formString(charCount)        
