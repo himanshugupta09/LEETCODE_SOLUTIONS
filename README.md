@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
@@ -44,12 +45,14 @@
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
@@ -101,6 +104,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
