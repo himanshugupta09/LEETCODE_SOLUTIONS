@@ -18,6 +18,7 @@
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
@@ -149,4 +151,8 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
