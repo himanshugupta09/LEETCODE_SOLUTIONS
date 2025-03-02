@@ -19,6 +19,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -54,6 +55,7 @@
 | [2434-design-a-number-container-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -155,4 +157,5 @@
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
