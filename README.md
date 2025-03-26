@@ -17,6 +17,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -127,6 +129,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -139,6 +142,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3430-count-days-without-meetings) |
 ## Data Stream
