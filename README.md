@@ -23,6 +23,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
