@@ -1,0 +1,23 @@
+from heapq import heapify,heappop,heappush
+class Solution:
+    def minTimeToReach(self, moveTime: List[List[int]]) -> int:
+        n = len(moveTime)
+        m = len(moveTime[0])
+        dp = [[float('inf')]*m for _ in range(n)]
+        min_heap = []
+        heappush(min_heap,(0,0,0))
+        while len(min_heap) > 0:
+            cost,row,col = heappop(min_heap)
+            if row == n-1 and col == m-1:
+                continue
+            for _r,_c in [[-1,0],[1,0],[0,1],[0,-1]]:
+                __r = _r+row
+                __c = _c+col
+                if __r  < 0 or __c < 0 or __r == n or __c == m:
+                    continue
+                
+                new_cost = max(moveTime[__r][__c],cost)+1
+                if new_cost < dp[__r][__c]:
+                    dp[__r][__c] = new_cost
+                    heappush(min_heap,(new_cost,__r,__c))
+        return dp[-1][-1]
