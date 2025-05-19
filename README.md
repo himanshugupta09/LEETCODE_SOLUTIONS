@@ -119,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
