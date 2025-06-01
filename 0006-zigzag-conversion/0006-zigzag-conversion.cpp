@@ -1,3 +1,5 @@
+//code for solving zigzag problem
+int a= 0;
 class Solution {
 public:
     string convert(string s, int numRows) {
