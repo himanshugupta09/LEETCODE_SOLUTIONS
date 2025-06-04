@@ -162,6 +162,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | [1656-count-good-triplets](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Queue
 |  |
 | ------- |
