@@ -1,0 +1,21 @@
+class Solution:
+    def caseSort(self,s):
+        #code here
+        up = [i for i in s if i.isupper()]
+        lo = [i for i in s if i.islower()]
+        up.sort()
+        lo.sort()
+        res = ''
+        i = 0
+        j = 0
+        for k in range(len(s)):
+            if s[k].isupper():
+                if i < len(up):
+                    res += up[i]
+                    i += 1
+            elif s[k].islower():
+                if j < len(lo):
+                    res += lo[j]
+                    j += 1
+        return res
+        
