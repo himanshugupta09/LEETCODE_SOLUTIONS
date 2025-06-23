@@ -1,0 +1,16 @@
+import sys
+sys.set_int_max_str_digits(int(1e9))
+class Solution:
+    def minSum(self, arr):
+        s1=""
+        s2=""
+        arr.sort()
+        for i in range(len(arr)):
+            if i%2==0:
+                s1+=str(arr[i])
+            else:
+                s2+=str(arr[i])
+        if s2=="":
+            return s1
+        return str(int(s1)+int(s2))
+ 
