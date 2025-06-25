@@ -33,6 +33,7 @@
 | [2048-build-array-from-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
