@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -280,6 +281,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
@@ -364,6 +366,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
