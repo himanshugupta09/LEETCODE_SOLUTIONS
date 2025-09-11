@@ -185,6 +185,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3194-find-words-containing-character) |
@@ -294,6 +295,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
