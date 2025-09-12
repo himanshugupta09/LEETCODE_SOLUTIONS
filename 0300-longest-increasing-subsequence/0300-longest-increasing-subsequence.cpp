@@ -1,23 +1,20 @@
 class Solution {
 public:
-    
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<int>dp(n,1);
-        for(int i=1;i<n;i++)
+        vector<int>tails;
+        int max_l = 1;
+        for(int num:nums)
         {
-            for(int j=0;j<=i;j++)
+            auto lbs = lower_bound(tails.begin(),tails.end(),num);
+            if(lbs == tails.end())
             {
-                if (nums[j] < nums[i]) {
-                    dp[i] = max(dp[i], dp[j] + 1);
-                }
+                tails.push_back(num);
             }
-            //dp[i] = max(dp[i-1],dp[i]);
+            else
+            {
+                *lbs = num;
+            }
         }
-        for(auto i:dp)
-        {
-            cout << i << " ";
-        }
-        return *max_element(dp.begin(),dp.end());
+        return tails.size();
     }
 };
