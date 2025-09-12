@@ -191,6 +191,7 @@
 | [3194-find-words-containing-character](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -270,6 +271,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
@@ -488,4 +490,12 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
