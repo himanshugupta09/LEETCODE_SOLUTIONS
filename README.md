@@ -25,6 +25,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
@@ -138,6 +139,7 @@
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
@@ -174,6 +176,7 @@
 | [0038-count-and-say](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
