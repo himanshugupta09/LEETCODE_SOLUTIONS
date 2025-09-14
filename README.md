@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0038-count-and-say) |
+| [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
@@ -361,6 +364,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
@@ -492,10 +496,12 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
