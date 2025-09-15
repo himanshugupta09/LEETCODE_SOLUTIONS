@@ -95,6 +95,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0386-lexicographical-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -106,6 +107,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
@@ -135,6 +137,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
@@ -446,6 +449,7 @@
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
