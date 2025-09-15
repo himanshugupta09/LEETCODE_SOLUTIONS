@@ -144,6 +144,7 @@
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -184,6 +185,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
