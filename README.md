@@ -263,6 +263,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -365,6 +366,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
@@ -476,6 +478,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
