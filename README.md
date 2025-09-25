@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0135-candy) |
@@ -395,6 +396,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
