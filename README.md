@@ -553,6 +553,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -567,5 +568,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
