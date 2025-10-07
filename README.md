@@ -164,6 +164,7 @@
 | [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
@@ -210,6 +211,7 @@
 | [0038-count-and-say](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
@@ -344,6 +346,7 @@
 | [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
