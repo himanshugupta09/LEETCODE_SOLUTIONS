@@ -1,42 +1,41 @@
 class Solution {
 public:
-    int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        // adjacency lists for each vertex
-        vector<vector<int>> graph(n);
-        // map to store frequency of each unique adjacency list
-        unordered_map<string, int> componentFreq;
+    void dfs(int node, vector<vector<int>>& adj, vector<bool>& vis, 
+             int& nodeCount, int& edgeCount) {
+        vis[node] = true;
+        nodeCount++;
+        edgeCount += adj[node].size();  // Count all edges from this node
 
-        // initialize adjacency lists with self-loops
-        for (int vertex = 0; vertex < n; vertex++) {
-            graph[vertex].push_back(vertex);
-        }
-
-        // build adjacency lists from edges
-        for (const auto& edge : edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);
-        }
-
-        // count frequency of each unique adjacency pattern
-        for (int vertex = 0; vertex < n; vertex++) {
-            vector<int> neighbors = graph[vertex];
-            sort(neighbors.begin(), neighbors.end());
-
-            // convert vector to string for hashing
-            string key;
-            for (int num : neighbors) {
-                key += to_string(num) + ",";
+        for (int neigh : adj[node]) {
+            if (!vis[neigh]) {
+                dfs(neigh, adj, vis, nodeCount, edgeCount);
             }
-            componentFreq[key]++;
+        }
+    }
+
+    int countCompleteComponents(int n, vector<vector<int>>& edges) {
+        vector<vector<int>> adj(n);
+        for (auto edge : edges) {
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);  // Undirected graph
         }
 
-        // count complete components where size equals frequency
+        vector<bool> vis(n, false);
         int completeCount = 0;
-        for (const auto& entry : componentFreq) {
-            // count commas to get original vector size
-            int size = count(entry.first.begin(), entry.first.end(), ',');
-            if (size == entry.second) {
-                completeCount++;
+
+        for (int i = 0; i < n; ++i) {
+            if (!vis[i]) {
+                int nodeCount = 0;
+                int edgeCount = 0;
+
+                dfs(i, adj, vis, nodeCount, edgeCount);
+
+                // Each undirected edge is counted twice in edgeCount
+                edgeCount /= 2;
+
+                if (edgeCount == nodeCount * (nodeCount - 1) / 2) {
+                    completeCount++;
+                }
             }
         }
 
