@@ -99,6 +99,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3643-zero-array-transformation-ii) |
@@ -206,6 +207,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -340,6 +342,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
