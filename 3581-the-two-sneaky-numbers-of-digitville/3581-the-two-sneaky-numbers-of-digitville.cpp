@@ -22,6 +22,10 @@ public:
                 b = nums[i];
                 done[1] = true;
             }
+            else if(done[0] && done[1])
+            {
+                break;
+            }
         }
         return {a,b};
         
