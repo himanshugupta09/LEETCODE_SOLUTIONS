@@ -28,6 +28,7 @@
 | [0498-diagonal-traverse](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
@@ -174,6 +175,7 @@
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -368,6 +370,7 @@
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -515,6 +518,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
