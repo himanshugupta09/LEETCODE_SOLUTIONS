@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
@@ -223,6 +225,7 @@
 | [0006-zigzag-conversion](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
