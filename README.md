@@ -625,4 +625,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
