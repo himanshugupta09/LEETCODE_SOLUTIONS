@@ -114,6 +114,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
@@ -420,6 +421,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -431,6 +433,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
