@@ -536,6 +536,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0693-binary-number-with-alternating-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
