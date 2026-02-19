@@ -235,6 +235,7 @@
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
@@ -491,6 +492,7 @@
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
