@@ -334,6 +334,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
