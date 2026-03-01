@@ -252,6 +252,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
@@ -595,6 +596,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
