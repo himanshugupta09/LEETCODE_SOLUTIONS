@@ -688,4 +688,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
