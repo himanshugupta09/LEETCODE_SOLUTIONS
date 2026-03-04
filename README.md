@@ -51,6 +51,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
@@ -166,6 +167,7 @@
 | [0498-diagonal-traverse](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
