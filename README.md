@@ -711,4 +711,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
