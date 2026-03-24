@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -191,6 +192,7 @@
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -296,6 +298,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -339,6 +342,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [2429-design-a-food-rating-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -406,6 +410,7 @@
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
@@ -483,6 +488,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -719,4 +725,12 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
