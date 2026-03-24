@@ -23,6 +23,7 @@
 | [0152-maximum-product-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
@@ -429,6 +430,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -543,6 +545,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
