@@ -259,6 +259,7 @@
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -511,6 +512,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
