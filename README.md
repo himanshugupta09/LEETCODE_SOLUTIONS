@@ -348,6 +348,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [2429-design-a-food-rating-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
@@ -493,6 +494,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -689,6 +691,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -742,4 +745,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
