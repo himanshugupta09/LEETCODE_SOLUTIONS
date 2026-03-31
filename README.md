@@ -44,6 +44,7 @@
 | [0945-snakes-and-ladders](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -591,6 +592,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
