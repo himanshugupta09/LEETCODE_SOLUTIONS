@@ -372,6 +372,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
