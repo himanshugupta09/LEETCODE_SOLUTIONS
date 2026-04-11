@@ -125,6 +125,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Depth-First Search
 |  |
@@ -250,6 +251,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
