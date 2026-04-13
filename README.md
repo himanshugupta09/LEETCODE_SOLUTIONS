@@ -67,6 +67,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
