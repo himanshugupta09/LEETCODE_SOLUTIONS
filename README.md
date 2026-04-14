@@ -423,6 +423,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -568,6 +569,7 @@
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
@@ -730,6 +732,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Brainteaser
 |  |
@@ -745,6 +748,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 ## Geometry
 |  |
 | ------- |
