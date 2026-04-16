@@ -119,6 +119,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3488-closest-equal-element-queries) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3639-zero-array-transformation-i) |
@@ -245,6 +246,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3488-closest-equal-element-queries) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -623,6 +625,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3488-closest-equal-element-queries](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
