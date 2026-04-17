@@ -130,6 +130,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -422,6 +424,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
