@@ -76,6 +76,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1980-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -203,6 +204,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -425,6 +427,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -471,6 +474,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
