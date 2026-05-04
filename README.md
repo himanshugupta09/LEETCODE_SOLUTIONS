@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
@@ -196,6 +197,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
