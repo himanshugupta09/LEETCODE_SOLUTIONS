@@ -135,6 +135,7 @@
 | [3639-zero-array-transformation-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3647-zero-array-transformation-iii) |
+| [3660-jump-game-ix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -600,6 +601,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
+| [3660-jump-game-ix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
