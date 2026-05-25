@@ -334,6 +334,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -536,6 +537,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -618,6 +620,7 @@
 | [1250-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -672,6 +675,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2856-count-complete-subarrays-in-an-array) |
