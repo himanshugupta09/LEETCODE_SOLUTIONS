@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
@@ -658,6 +659,7 @@
 | [0011-container-with-most-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
