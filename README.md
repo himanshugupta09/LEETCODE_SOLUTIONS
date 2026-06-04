@@ -30,6 +30,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -669,6 +670,7 @@
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
@@ -717,6 +719,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
@@ -736,6 +739,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
