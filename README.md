@@ -162,6 +162,7 @@
 | [3660-jump-game-ix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -454,6 +455,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -823,6 +825,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -909,6 +912,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
