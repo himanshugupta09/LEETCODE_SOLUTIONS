@@ -12,52 +12,43 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head)
     {
-        if(!head || !head->next)
+        ListNode* pre = NULL;
+        ListNode* next = NULL;
+        ListNode* cur = head;
+        while(cur)
         {
-            return head;
+            next = cur->next;
+            cur->next = pre;
+            pre = cur;
+            cur = next;
         }
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-
-        while (curr)
-        {
-            ListNode* next = curr->next; // store next node
-            curr->next = prev;          // reverse link
-            prev = curr;                // move prev forward
-            curr = next;                // move curr forward
-        }
-
-        return prev;
+        return pre;
     }
     bool isPalindrome(ListNode* head) {
-            if (!head || !head->next) return true;
-
-        // Step 1: Find middle
-        ListNode* slow = head;
+    
+        ListNode* hare = head;
+        ListNode* tur = head;
+        while(hare && hare->next)
+        {
+            tur = tur->next;
+            hare = hare->next->next;
+        }
+        if(hare)
+        {
+            tur = tur->next;
+        }
+        tur  = reverseList(tur);
         ListNode* fast = head;
-
-        while (fast && fast->next)
+        ListNode* sec = tur;
+        while(sec)
         {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        // Step 2: Reverse second half
-        ListNode* secondHalf = reverseList(slow);
-
-        // Step 3: Compare both halves
-        ListNode* firstHalf = head;
-
-        while (secondHalf)
-        {
-            if (firstHalf->val != secondHalf->val)
+            if(fast->val != sec->val)
+            {
                 return false;
-
-            firstHalf = firstHalf->next;
-            secondHalf = secondHalf->next;
+            }
+            fast = fast->next;
+            sec = sec->next;
         }
-
         return true;
-
     }
 };
