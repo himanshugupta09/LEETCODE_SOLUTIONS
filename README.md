@@ -60,6 +60,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1306-jump-game-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1313-decompress-run-length-encoded-list) |
@@ -547,6 +548,7 @@
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
@@ -670,6 +672,7 @@
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -760,6 +763,7 @@
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
