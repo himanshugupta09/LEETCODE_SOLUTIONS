@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
@@ -603,6 +604,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -784,6 +786,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0693-binary-number-with-alternating-bits) |
