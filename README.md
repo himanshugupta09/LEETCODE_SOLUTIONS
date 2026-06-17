@@ -345,6 +345,7 @@
 | [0038-count-and-say](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -609,6 +610,7 @@
 | [0039-combination-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -669,6 +671,7 @@
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
