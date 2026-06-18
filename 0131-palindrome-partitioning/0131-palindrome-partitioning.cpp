@@ -1,40 +1,40 @@
 class Solution {
 public:
     vector<vector<string>>res;
-    bool isValid(string s,int l,int r)
+    bool isPalindrome(string s,int start,int end)
     {
-        while(l < r)
+        while(start < end)
         {
-            if(s[l] != s[r])
+            if(s[start] != s[end])
             {
                 return false;
             }
-            l++;
-            r--;
+            start++;
+            end--;
         }
         return true;
     }
-    void solve(string s,int idx,vector<string>&init)
+    void dfs(string s,int idx,vector<string>&arr)
     {
         if(idx == s.size())
         {
-            res.push_back(init);
+            res.push_back(arr);
             return;
         }
+        
         for(int i=idx;i<s.size();i++)
         {
-            if(isValid(s, idx, i))
+            if(isPalindrome(s, idx, i))
             {
-                init.push_back(s.substr(idx, i - idx + 1));
-                solve(s, i + 1, init);
-                init.pop_back();
+                arr.push_back(s.substr(idx, i - idx + 1));
+                dfs(s, i + 1, arr);
+                arr.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
-        vector<string>init;
-
-        solve(s,0,init);
+        vector<string>arr;
+        dfs(s,0,arr);
         return res;
     }
 };
