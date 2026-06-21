@@ -90,6 +90,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -565,6 +566,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -852,6 +854,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1006,4 +1009,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
