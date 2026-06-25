@@ -1,31 +1,27 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char>stk;
-        unordered_map<char,char>mpp;
-        mpp[')'] = '(';
-        mpp['}'] = '{';
-        mpp[']'] = '[';
-        for(char i:s)
-        {
-            if(mpp.find(i) != mpp.end())
-            {
-                if(!stk.empty() && stk.top() == mpp[i])
-                {
-                    stk.pop();
-                }
-                else
-                {
-                    //cout << i << " " << stk.top() << "\n";
+        stack<char> stk;
+
+        unordered_set<char> opens = {'(', '{', '['};
+
+        unordered_map<char, char> mpp = {
+            {')', '('},
+            {'}', '{'},
+            {']', '['}
+        };
+
+        for (char ch : s) {
+            if (opens.count(ch)) {
+                stk.push(ch);
+            } else {
+                if (stk.empty() || stk.top() != mpp[ch]) {
                     return false;
                 }
-            }
-            else
-            {
-                stk.push(i);
+                stk.pop();
             }
         }
-        //cout << stk.size();
-        return stk.empty() ? true : false;
+
+        return stk.empty();
     }
 };
