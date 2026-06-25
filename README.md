@@ -47,6 +47,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
@@ -281,6 +282,7 @@
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -550,6 +552,7 @@
 | [0225-implement-stack-using-queues](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1025,6 +1028,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
 ## Doubly-Linked List
 |  |
