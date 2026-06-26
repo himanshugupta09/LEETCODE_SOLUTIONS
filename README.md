@@ -279,6 +279,7 @@
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -465,6 +466,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
@@ -949,6 +951,7 @@
 | [0061-rotate-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
@@ -1036,6 +1039,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Counting Sort
 |  |
