@@ -1,25 +1,19 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        if(k == 1)
-        {
-            return nums;
-        }
-        multiset<int>window;
-        for(int i=0;i<k;i++)
-        {
-            window.insert(nums[i]);
-        }
+        deque<int>q;
         vector<int>res;
-        res.push_back(*window.rbegin());
-        int j = 0;
-        for(int i=k;i<nums.size();i++)
+        for(int i=0;i<nums.size();i++)
         {
-            window.erase(window.find(nums[j]));
-            j++;
-            window.insert(nums[i]);
-            res.push_back(*window.rbegin());
+            while(!q.empty() && q.front() <= i-k) q.pop_front();
+            while(!q.empty() && nums[q.back()] <= nums[i]) q.pop_back();
+            q.push_back(i);
+
+            if(i >= k-1){
+                res.push_back(nums[q.front()]);
+            }
         }
         return res;
+
     }
 };
