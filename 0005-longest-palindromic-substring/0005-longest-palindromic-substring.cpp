@@ -1,37 +1,54 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int maxL = 0;  // Start with the smallest palindrome length (1)
-        int st = 0, en = 0;  // Initialize to the first character's index
-        int n = s.size();
-        
-        for (int i = 0; i < n; i++) {
-            // For odd-length palindromes (center at i)
-            int low = i, high = i;
-            while (low >= 0 && high < n && s[low] == s[high]) {
-                if (high - low + 1 > maxL) {
-                    maxL = high - low + 1;
-                    st = low;
-                    en = high;
-                }
-                low--;
-                high++;
-            }
-            
-            // For even-length palindromes (center between i and i + 1)
-            low = i;
-            high = i + 1;
-            while (low >= 0 && high < n && s[low] == s[high]) {
-                if (high - low + 1 > maxL) {
-                    maxL = high - low + 1;
-                    st = low;
-                    en = high;
-                }
-                low--;
-                high++;
-            }
-        }
-        
-        return s.substr(st, en - st + 1);  // Return the longest palindrome substring
+    if (s.empty()) return "";
+
+    // Transform string
+    string t = "^";
+    for (char c : s) {
+        t += "#";
+        t += c;
     }
+    t += "#$";
+
+    int n = t.size();
+
+    vector<int> P(n, 0);
+
+    int center = 0;
+    int right = 0;
+
+    for (int i = 1; i < n - 1; i++) {
+
+        int mirror = 2 * center - i;
+
+        if (i < right)
+            P[i] = min(right - i, P[mirror]);
+
+        // Expand
+        while (t[i + 1 + P[i]] == t[i - 1 - P[i]])
+            P[i]++;
+
+        // Update center and right boundary
+        if (i + P[i] > right) {
+            center = i;
+            right = i + P[i];
+        }
+    }
+
+    // Find longest palindrome
+    int maxLen = 0;
+    int centerIndex = 0;
+
+    for (int i = 1; i < n - 1; i++) {
+        if (P[i] > maxLen) {
+            maxLen = P[i];
+            centerIndex = i;
+        }
+    }
+
+    int start = (centerIndex - maxLen) / 2;
+
+    return s.substr(start, maxLen);
+}
 };
