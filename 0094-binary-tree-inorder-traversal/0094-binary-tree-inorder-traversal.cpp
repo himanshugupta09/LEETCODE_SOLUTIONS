@@ -21,34 +21,20 @@ public:
             return {root->val};
         }
         stack<TreeNode*>stk;
-        unordered_set<TreeNode*>seen;
-        stk.push(root);
+        TreeNode* curr = root;
         vector<int>res;
-        while(!stk.empty())
-        {
-            TreeNode* top = stk.top();
-            if(top == nullptr)
-            {
-                stk.pop();
-                continue;
+        while (curr || !stk.empty()) {
+            while (curr) {
+                stk.push(curr);
+                curr = curr->left;
             }
-            if(seen.count(top))
-            {
-                stk.pop();
-                res.push_back(top->val);
-                if(top->right)
-                {
-                    stk.push(top->right);
-                }
-            }
-            else
-            {
-                seen.insert(top);
-                if(top->left)
-                {
-                    stk.push(top->left);
-                }
-            }
+
+            curr = stk.top();
+            stk.pop();
+
+            res.push_back(curr->val);
+
+            curr = curr->right;
         }
         return res;
     }
