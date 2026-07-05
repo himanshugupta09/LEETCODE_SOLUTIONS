@@ -201,6 +201,7 @@
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -379,6 +380,7 @@
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
@@ -670,6 +672,7 @@
 | [0051-n-queens](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -689,6 +692,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -713,6 +717,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
