@@ -11,29 +11,32 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root)
-    {
-        if(!root)
-        {
-            return 1;
-        }
-        if(root->left)
-        {
-            return 1+dfs(root->left);
-        }
-        if(root->right)
-        {
-            return 1+dfs(root->right);
-        }
-        return 0;
-    }
     int maxDepth(TreeNode* root) {
+        int maxD = -1;
+        queue<pair<TreeNode*,int>>q;
+        q.push({root,1});
         if(!root)
         {
             return 0;
         }
-       
-        return max(maxDepth(root->left),maxDepth(root->right))+1;
-
+        while(!q.empty())
+        {
+            int n = q.size();
+            for(int i=0;i<n;i++)
+            {
+                auto [node,h] = q.front();
+                q.pop();
+                maxD = max(maxD,h);
+                if(node->left)
+                {
+                    q.push({node->left,h+1});
+                }
+                if(node->right)
+                {
+                    q.push({node->right,h+1});
+                }
+            }
+        }
+        return maxD;
     }
 };
