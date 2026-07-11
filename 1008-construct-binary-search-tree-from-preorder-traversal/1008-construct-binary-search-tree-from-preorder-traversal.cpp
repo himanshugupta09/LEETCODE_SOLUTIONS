@@ -11,40 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int n = preorder.size();
-        if(n <= 1)
+    int idx = 0;
+    TreeNode* build(vector<int>&pre,int low,int high)
+    {
+        if(idx == pre.size())
         {
-            return new TreeNode(preorder[0]);
+            return nullptr;
         }
-        TreeNode* root = new TreeNode(preorder[0]);
-        for(int i=1;i<n;i++)
+        if(pre[idx] < low || pre[idx] > high)
         {
-            TreeNode* curr = root;
-            while(curr)
-            {
-                    if(curr->val < preorder[i] && !curr->right)
-                    {
-                        curr->right = new TreeNode(preorder[i]);
-                        break;
-                    }
-                    else if(curr->val < preorder[i] && curr->right != NULL)
-                    {
-                        curr = curr->right;
-                    }
-                    else if(curr->val > preorder[i] && !curr->left)
-                    {
-                        curr->left = new TreeNode(preorder[i]);
-                        break;
-                    }
-                    else if(curr->val > preorder[i] && curr->left != NULL)
-                    {
-                        curr = curr->left;
-                    }
-            }
-                
-            
+            return nullptr;
         }
+        TreeNode* root = new TreeNode(pre[idx++]);
+        root->left = build(pre,low,root->val);
+        root->right = build(pre,root->val,high);
         return root;
+    }
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        return build(preorder,INT_MIN,INT_MAX);
     }
 };
