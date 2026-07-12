@@ -78,6 +78,7 @@
 | [1293-three-consecutive-odds](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1306-jump-game-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -323,6 +324,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
@@ -625,6 +627,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1331-rank-transform-of-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
