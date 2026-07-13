@@ -213,6 +213,7 @@
 | [0386-lexicographical-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
@@ -245,6 +246,7 @@
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
@@ -399,6 +401,7 @@
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0657-robot-return-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
@@ -511,6 +514,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -722,6 +726,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
@@ -759,6 +764,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
@@ -1154,6 +1160,7 @@
 | [0098-validate-binary-search-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
