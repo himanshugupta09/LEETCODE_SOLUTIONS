@@ -515,6 +515,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -527,6 +528,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2429-design-a-food-rating-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2429-design-a-food-rating-system) |
@@ -628,6 +630,7 @@
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -666,6 +669,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
@@ -855,6 +859,7 @@
 | [0165-compare-version-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
