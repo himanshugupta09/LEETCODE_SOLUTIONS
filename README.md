@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
@@ -606,6 +607,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -805,6 +807,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
@@ -854,6 +857,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
@@ -1152,6 +1156,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
