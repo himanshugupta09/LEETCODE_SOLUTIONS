@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
@@ -109,6 +110,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1914-cyclically-rotating-a-grid) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -192,6 +194,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -510,6 +513,7 @@
 | [3447-clear-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -578,6 +582,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -602,10 +607,12 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -670,6 +677,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3647-zero-array-transformation-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -805,6 +813,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
@@ -854,6 +863,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
@@ -885,13 +895,16 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1152,6 +1165,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
