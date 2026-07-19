@@ -22,6 +22,3 @@ class Solution:
                         elif color[neigh] == color[u]:
                             return False
         return True
-                
-                
-                
