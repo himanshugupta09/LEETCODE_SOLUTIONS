@@ -1,36 +1,24 @@
-from collections import deque
 class Solution:
+    def dfs(self,grid:List[List[str]], vis:[List[List[int]]],n:int,m:int,x:int,y:int) -> int:
+        if x >= n or y >= m or x < 0 or y < 0:
+            return 0
+        if grid[x][y] == "0" or vis[x][y] == 1:
+            return 0
+        vis[x][y] = 1
+        return (1 + 
+                self.dfs(grid, vis, n, m, x + 1, y) + 
+                self.dfs(grid, vis, n, m, x - 1, y) + 
+                self.dfs(grid, vis, n, m, x, y + 1) + 
+                self.dfs(grid, vis, n, m, x, y - 1))
     def numIslands(self, grid: List[List[str]]) -> int:
-        def is_valid(n,m,row,col,grid):
-            if row < 0 or col < 0 or row >= n or col >= m or grid[row][col] == "0":
-                return False
-            return True
-
-        
-        cords = [[0,1],[1,0],[-1,0],[0,-1]]
-        islands = 0
+        islands_count = 0
         n = len(grid)
         m = len(grid[0])
+        vis = [[0 for _ in range(m)] for _ in range(n)]
         for i in range(n):
             for j in range(m):
-                if grid[i][j] == "1":
-                    islands += 1
-                    queue = deque([])
-                    queue.append([i,j])
-                    while len(queue) > 0:
-                        x,y = queue.popleft()
-                        
-                        
-                        for delx,dely in cords:
-                            new_x = int(x)+delx
-                            new_y = int(y)+dely
-                            if is_valid(n,m,new_x,new_y,grid):
-                                grid[new_x][new_y] = "0"
-                                queue.append([new_x,new_y])
-        return islands
-                    
-                            
-
-
-
+                size = self.dfs(grid,vis,n,m,i,j)
+                if size > 0:
+                    islands_count += 1
+        return islands_count
         
