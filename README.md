@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -825,6 +827,7 @@
 | [0053-maximum-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
