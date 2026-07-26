@@ -579,6 +579,7 @@
 | [0788-rotated-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
+| [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -849,6 +850,7 @@
 | [0788-rotated-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -954,6 +956,7 @@
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
