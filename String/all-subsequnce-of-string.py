@@ -9,11 +9,11 @@ class Solution:
         self.solve(s,i+1,res,path)
         return
     def powerSet(self, s):
-		# Code here
-		res = []
-		temp = ''
-		self.solve(s,0,res,temp)
-		res.sort()
-		return res
+        # Code here
+        res = []
+        temp = ''
+        self.solve(s,0,res,temp)
+        res.sort()
+        return res
 Solution().powerSet("abc")
 		
