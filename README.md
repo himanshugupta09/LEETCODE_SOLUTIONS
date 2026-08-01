@@ -54,6 +54,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
@@ -581,6 +582,7 @@
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0788-rotated-digits) |
@@ -854,6 +856,7 @@
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0806-domino-and-tromino-tiling) |
@@ -1136,6 +1139,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
@@ -1147,6 +1151,7 @@
 | [0050-powx-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 ## Geometry
 |  |
 | ------- |
