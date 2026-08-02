@@ -72,6 +72,7 @@
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
@@ -588,6 +589,7 @@
 | [0788-rotated-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
@@ -861,6 +863,7 @@
 | [0788-rotated-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
@@ -1140,6 +1143,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
