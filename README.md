@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0396-rotate-function) |
@@ -223,6 +224,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -260,6 +262,7 @@
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -294,6 +297,7 @@
 | [0064-minimum-path-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
@@ -855,6 +859,7 @@
 | [0198-house-robber](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -1030,6 +1035,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
@@ -1100,6 +1106,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
@@ -1210,6 +1217,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
