@@ -220,6 +220,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -261,6 +262,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1035,6 +1037,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1218,6 +1221,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Monotonic Stack
 |  |
