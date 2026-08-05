@@ -246,6 +246,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -281,6 +282,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1223,6 +1225,7 @@
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
 | ------- |
