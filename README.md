@@ -627,6 +627,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1091,6 +1092,7 @@
 | [1656-count-good-triplets](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
