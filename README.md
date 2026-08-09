@@ -85,6 +85,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1293-three-consecutive-odds) |
@@ -606,6 +607,7 @@
 | [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -732,6 +734,7 @@
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -883,6 +886,7 @@
 | [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1250-longest-common-subsequence) |
@@ -1170,6 +1174,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
@@ -1277,4 +1282,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
