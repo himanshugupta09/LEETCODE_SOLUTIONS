@@ -237,6 +237,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -274,6 +275,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -567,6 +569,7 @@
 | [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0630-course-schedule-iii) |
+| [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1123,6 +1126,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Memoization
 |  |
@@ -1244,6 +1248,7 @@
 | [0207-course-schedule](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
@@ -1290,4 +1295,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
