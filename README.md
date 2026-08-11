@@ -163,6 +163,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -390,6 +391,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -717,6 +719,7 @@
 | [2784-check-if-array-is-good](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3430-count-days-without-meetings) |
