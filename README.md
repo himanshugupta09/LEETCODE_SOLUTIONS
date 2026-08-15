@@ -200,6 +200,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1041,6 +1042,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
