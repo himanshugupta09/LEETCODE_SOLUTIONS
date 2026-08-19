@@ -97,6 +97,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -370,6 +371,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1039,6 +1041,7 @@
 | [0868-binary-gap](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1090,6 +1093,7 @@
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1386-cinema-seat-allocation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
