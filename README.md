@@ -471,6 +471,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
@@ -637,6 +638,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1103,6 +1105,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1204,6 +1207,7 @@
 | [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
