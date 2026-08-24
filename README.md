@@ -121,6 +121,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1914-cyclically-rotating-a-grid) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -637,6 +638,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -762,6 +764,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2249-count-the-hidden-sequences](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2249-count-the-hidden-sequences) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
@@ -919,6 +922,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1207,6 +1211,7 @@
 | [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
@@ -1322,11 +1327,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
