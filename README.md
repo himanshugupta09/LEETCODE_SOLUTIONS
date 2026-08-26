@@ -489,6 +489,7 @@
 | [2833-furthest-point-from-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1007,6 +1008,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
