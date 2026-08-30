@@ -132,6 +132,7 @@
 | [2048-build-array-from-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1120,6 +1121,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
