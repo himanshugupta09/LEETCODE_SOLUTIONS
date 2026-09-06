@@ -7,4 +7,6 @@ class Solution:
                 dp[j] = m + min(dp[j],dp[j+1])
         return dp[0]
 
-        
+        #this is just for making sure the streak
+        for i in range(0):
+            pass
