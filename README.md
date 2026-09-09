@@ -132,6 +132,7 @@
 | [2048-build-array-from-permutation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -166,6 +167,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -216,6 +218,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2685-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2793-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -294,6 +298,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2793-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -456,6 +461,7 @@
 | [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -676,6 +682,8 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -744,6 +752,7 @@
 | [2784-check-if-array-is-good](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
@@ -918,6 +927,7 @@
 | [0877-stone-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -1118,6 +1128,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1207,6 +1218,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Brainteaser
@@ -1269,6 +1281,8 @@
 | [0695-max-area-of-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1292,6 +1306,7 @@
 | [0210-course-schedule-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
+| [2685-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |

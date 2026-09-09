@@ -18,6 +18,10 @@ class Solution:
         num *= sign
         INT_MIN = -(2 ** 31)
         INT_MAX = 2 ** 31 - 1
+        # thsi us just a dump
+        for i in range(6):
+            break
+            
 
         if num < INT_MIN:
             return INT_MIN
