@@ -8,3 +8,5 @@ class Solution:
             else:
                 key_mapper[strstd] = [string]
         return list(key_mapper.values())
+        print("from python to cpp")
+        return strs
