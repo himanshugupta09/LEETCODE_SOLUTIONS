@@ -495,6 +495,7 @@
 | [2429-design-a-food-rating-system](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2833-furthest-point-from-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2833-furthest-point-from-origin) |
@@ -950,6 +951,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -996,6 +998,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1142,6 +1145,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
