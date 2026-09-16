@@ -1,36 +1,23 @@
 class Solution {
 public:
-    const long long MOD = 1e9 + 7;
-    long long power(long long a, long long b) {
-        long long ans = 1;
-
-        while (b > 0) {
-            if (b & 1)
-                ans = ans * a % MOD;
-
-            a = a * a % MOD;
-            b >>= 1;
-        }
-
-        return ans;
-    }
-    long long modInverse(long long a) {
-        return power(a, MOD - 2);
-    }
-
-    long long C(long long n, long long r) {
-        if (r < 0 || r > n) return 0;
-
-        long long ans = 1;
-
-        for (long long i = 1; i <= r; i++) {
-            ans = ans * (n - i + 1) % MOD;
-            ans = ans * modInverse(i) % MOD;
-        }
-
-        return ans;
-    }
+    static constexpr long long MOD = 1e9 + 7;
     int numberOfSets(int n, int k) {
-        return C(n+k-1,2*k);
+        int N = n+k-1;
+        int r = 2*k;
+        vector<vector<long long>>dp(N+1,vector<long long>(r+1,0));
+        for (int i = 0; i <= N; i++)
+            dp[i][0] = 1;
+        
+        for (int i = 1; i <= N; i++) {
+            for (int j = 1; j <= min(i, r); j++) {
+
+                dp[i][j] =
+                    (dp[i - 1][j - 1] +
+                     dp[i - 1][j]) % MOD;
+            }
+        }
+
+        return dp[N][r];
+        
     }
-};  
+};
