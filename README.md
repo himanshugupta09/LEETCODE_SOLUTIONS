@@ -654,6 +654,7 @@
 | [1500-count-largest-group](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1872-stone-game-viii) |
@@ -783,6 +784,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
@@ -944,6 +946,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
@@ -1165,6 +1168,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
