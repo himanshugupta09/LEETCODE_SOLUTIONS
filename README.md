@@ -390,6 +390,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -483,6 +484,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
@@ -744,6 +746,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1140,6 +1143,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1386-cinema-seat-allocation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
