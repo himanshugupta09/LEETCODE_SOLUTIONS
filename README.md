@@ -519,6 +519,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3617-find-the-original-typed-string-i) |
@@ -577,6 +578,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
