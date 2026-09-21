@@ -198,6 +198,7 @@
 | [3483-alternating-groups-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3483-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3488-closest-equal-element-queries) |
+| [3524-find-x-value-of-array-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -684,6 +685,7 @@
 | [3321-type-of-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3462-vowels-game-in-a-string) |
+| [3524-find-x-value-of-array-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -968,6 +970,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3524-find-x-value-of-array-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
