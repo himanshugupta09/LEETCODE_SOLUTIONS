@@ -117,6 +117,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -399,6 +400,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -494,6 +496,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1871-jump-game-vii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1927-sum-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1927-sum-game) |
