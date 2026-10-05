@@ -480,6 +480,7 @@
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
@@ -737,6 +738,7 @@
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
@@ -1448,6 +1450,7 @@
 | [0022-generate-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
