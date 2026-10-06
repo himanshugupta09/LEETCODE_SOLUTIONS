@@ -1,12 +1,10 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        key_mapper = {}
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        hash_map = {}
         for string in strs:
-            strstd = ''.join(sorted(string))
-            if strstd in key_mapper:
-                key_mapper[strstd].append(string)
+            sorted_string = ''.join(sorted(string))
+            if sorted_string in hash_map:
+                hash_map[sorted_string].append(string)
             else:
-                key_mapper[strstd] = [string]
-        return list(key_mapper.values())
-        print("from python to cpp")
-        return strs
+                hash_map[sorted_string] = [string]
+        return list(hash_map.values())        
