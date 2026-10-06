@@ -482,6 +482,7 @@
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -740,6 +741,7 @@
 | [0739-daily-temperatures](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1183,6 +1185,7 @@
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1386-cinema-seat-allocation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
@@ -1451,6 +1454,7 @@
 | [0032-longest-valid-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
