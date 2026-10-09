@@ -1,36 +1,27 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        string tf;
-
-        int b_count = 0;
         int res = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '(') {
-                tf += 'A';
-            } else {
-                if (i + 1 < s.size() && s[i + 1] == ')') {
-                    tf += 'B';
-                    i++;  
-                } else {
-                    tf += 'B';
-                    res++; 
-                }
-            }
-        }
-        //cout << tf;
-        stack<char>stk;
-        for(auto c:tf)
+        int open = 0;
+        for(int i=0;i<s.size();i++)
         {
-            if(c == 'A')
+            if(s[i] == '(')
             {
-                stk.push(c);
+                open++;
             }
             else
             {
-                if(!stk.empty())
+                if(i+1 < s.size() && s[i+1]==')')
                 {
-                    stk.pop();
+                    i++;
+                }
+                else
+                {
+                    res++;
+                }
+                if(open > 0)
+                {
+                    open--;
                 }
                 else
                 {
@@ -38,6 +29,6 @@ public:
                 }
             }
         }
-        return res+2*stk.size();
+        return res + 2*open;
     }
 };
