@@ -721,6 +721,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3637-count-number-of-balanced-permutations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1236,6 +1237,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
