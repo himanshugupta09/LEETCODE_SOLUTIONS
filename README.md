@@ -176,6 +176,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -428,6 +429,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1362,6 +1364,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1489,4 +1492,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
