@@ -109,6 +109,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -695,6 +696,7 @@
 | [1500-count-largest-group](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -912,6 +914,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -952,6 +955,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -967,6 +971,7 @@
 | [0654-maximum-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -1012,6 +1017,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1250,6 +1256,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1286,6 +1293,7 @@
 | [0070-climbing-stairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
@@ -1387,6 +1395,7 @@
 | [0695-max-area-of-island](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bucket Sort
@@ -1444,6 +1453,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Iterator
 |  |
 | ------- |
@@ -1496,4 +1506,8 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
