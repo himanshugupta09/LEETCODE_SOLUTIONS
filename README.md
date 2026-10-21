@@ -568,6 +568,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3838-weighted-word-mapping](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
