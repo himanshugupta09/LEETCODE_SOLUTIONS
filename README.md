@@ -51,6 +51,7 @@
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -846,6 +847,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
@@ -1004,6 +1006,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
@@ -1134,6 +1137,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -1215,6 +1219,7 @@
 | [0011-container-with-most-water](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0630-course-schedule-iii) |
