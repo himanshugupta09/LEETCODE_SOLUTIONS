@@ -61,6 +61,7 @@
 | [0493-reverse-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -651,6 +652,7 @@
 | [0239-sliding-window-maximum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -799,6 +801,7 @@
 | [0347-top-k-frequent-elements](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1230,6 +1233,7 @@
 | [0135-candy](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
