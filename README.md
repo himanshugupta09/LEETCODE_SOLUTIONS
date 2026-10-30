@@ -1548,4 +1548,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0493-reverse-pairs) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
