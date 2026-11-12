@@ -195,6 +195,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/himanshugupta09/LEETCODE_SOLUTIONS/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
