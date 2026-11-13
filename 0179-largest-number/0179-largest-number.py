@@ -11,5 +11,5 @@ class Solution:
                 return 0
         nums.sort(key=cmp_to_key(compare))
         res = ''.join(nums)
-        return 0 if res[0] == '0' else res
+        return '0' if res[0] == '0' else res
         
